@@ -6,7 +6,7 @@
 - 单位 Affiliation: 阿里云
 - 方向 Direction: NLP
 - 讲解日期 Covered: 2026-10-17
-- 视频 Videos: [YouTube 中文](https://youtu.be/HeU54BvYnX4) · [YouTube English](https://youtu.be/xsnf7WVH4pA) · B站「每日前沿文章」
+- 视频 Videos: [YouTube 中文](https://youtu.be/HeU54BvYnX4) · [YouTube English](https://youtu.be/xsnf7WVH4pA) · [B站](https://www.bilibili.com/video/BV1icJe6uE61)
 
 ## 中文讲解
 

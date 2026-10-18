@@ -6,7 +6,7 @@
 - 单位 Affiliation: 浙江大学 等
 - 方向 Direction: CV
 - 讲解日期 Covered: 2026-10-17
-- 视频 Videos: [YouTube 中文](https://youtu.be/LFoOfN2lLCc) · [YouTube English](https://youtu.be/jzSLlWC7oTc) · B站「每日前沿文章」
+- 视频 Videos: [YouTube 中文](https://youtu.be/LFoOfN2lLCc) · [YouTube English](https://youtu.be/jzSLlWC7oTc) · [B站](https://www.bilibili.com/video/BV1jcJe6uEhe)
 
 ## 中文讲解
 

@@ -10,25 +10,25 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
-| 2026-10-17 | [OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use](agent/2026-10-17-opengcua.md) | 电脑Agent写代码比点鼠标强 | [YouTube 中文](https://youtu.be/dDWeI_qoyo0) · [YouTube English](https://youtu.be/JXglyD8SPtU) |
-| 2026-10-16 | [ActionOPD: Distilling Decisions, Not Tokens](agent/2026-10-16-actionopd.md) | 让小模型学会大模型的决策 | [YouTube 中文](https://youtu.be/W9I0vrd1Y_I) · [YouTube English](https://youtu.be/NlFsrYb9rto) |
+| 2026-10-17 | [OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use](agent/2026-10-17-opengcua.md) | 电脑Agent写代码比点鼠标强 | [YouTube 中文](https://youtu.be/dDWeI_qoyo0) · [YouTube English](https://youtu.be/JXglyD8SPtU) · [B站](https://www.bilibili.com/video/BV1zVJY63E8D) |
+| 2026-10-16 | [ActionOPD: Distilling Decisions, Not Tokens](agent/2026-10-16-actionopd.md) | 让小模型学会大模型的决策 | [YouTube 中文](https://youtu.be/W9I0vrd1Y_I) · [YouTube English](https://youtu.be/NlFsrYb9rto) · [B站](https://www.bilibili.com/video/BV1rCJQ6YEPN) |
 
 ## CV
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
-| 2026-10-17 | [Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation](cv/2026-10-17-any-time-any-space.md) | AI拍长片记住去过的场景 | [YouTube 中文](https://youtu.be/LFoOfN2lLCc) · [YouTube English](https://youtu.be/jzSLlWC7oTc) |
+| 2026-10-17 | [Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation](cv/2026-10-17-any-time-any-space.md) | AI拍长片记住去过的场景 | [YouTube 中文](https://youtu.be/LFoOfN2lLCc) · [YouTube English](https://youtu.be/jzSLlWC7oTc) · [B站](https://www.bilibili.com/video/BV1jcJe6uEhe) |
 
 ## NLP
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
-| 2026-10-17 | [Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation](nlp/2026-10-17-waypoint-opd.md) | 4B老师教出超过它的学生 | [YouTube 中文](https://youtu.be/HeU54BvYnX4) · [YouTube English](https://youtu.be/xsnf7WVH4pA) |
+| 2026-10-17 | [Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation](nlp/2026-10-17-waypoint-opd.md) | 4B老师教出超过它的学生 | [YouTube 中文](https://youtu.be/HeU54BvYnX4) · [YouTube English](https://youtu.be/xsnf7WVH4pA) · [B站](https://www.bilibili.com/video/BV1icJe6uE61) |
 
 ## 具身智能 · Embodied AI
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
-| 2026-10-17 | [VLA-Δ: Learning Physical State Transition for Vision-Language-Action Models](embodied/2026-10-17-vla.md) | 机器人先学会看懂物理变化 | [YouTube 中文](https://youtu.be/nvwNXTetpis) · [YouTube English](https://youtu.be/ABEiACa6D5c) |
+| 2026-10-17 | [VLA-Δ: Learning Physical State Transition for Vision-Language-Action Models](embodied/2026-10-17-vla.md) | 机器人先学会看懂物理变化 | [YouTube 中文](https://youtu.be/nvwNXTetpis) · [YouTube English](https://youtu.be/ABEiACa6D5c) · [B站](https://www.bilibili.com/video/BV1icJe6uEG3) |
 
 _讲解稿由 AI（Claude）撰写，发布前对照论文原文独立核查；配音为 AI 合成。_

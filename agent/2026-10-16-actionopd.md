@@ -6,7 +6,7 @@
 - 单位 Affiliation: 清华大学
 - 方向 Direction: Agent
 - 讲解日期 Covered: 2026-10-16
-- 视频 Videos: [YouTube 中文](https://youtu.be/W9I0vrd1Y_I) · [YouTube English](https://youtu.be/NlFsrYb9rto) · B站「每日前沿文章」
+- 视频 Videos: [YouTube 中文](https://youtu.be/W9I0vrd1Y_I) · [YouTube English](https://youtu.be/NlFsrYb9rto) · [B站](https://www.bilibili.com/video/BV1rCJQ6YEPN)
 
 ## 中文讲解
 
