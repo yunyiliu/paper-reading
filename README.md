@@ -4,7 +4,7 @@
 Frontier papers explained daily, by direction, with a Chinese and an English text walkthrough and links to the videos.
 
 - YouTube 中文：[每日前沿文章](https://www.youtube.com/@%E6%AF%8F%E6%97%A5%E5%89%8D%E6%B2%BF%E6%96%87%E7%AB%A0) · English: [Daily Frontier Papers](https://www.youtube.com/@DailyFrontierPapers)
-- B站 / 抖音：每日前沿文章
+- B站：每日前沿文章
 
 ## Agent
 
