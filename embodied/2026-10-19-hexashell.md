@@ -6,7 +6,7 @@
 - 单位 Affiliation: HexaFuture
 - 方向 Direction: 具身智能 / Embodied AI
 - 讲解日期 Covered: 2026-10-19
-- 视频 Videos: [B站](https://www.bilibili.com/video/BV1MRJR6XEfv)
+- 视频 Videos: [YouTube 中文](https://youtu.be/InZEXRiKaHU) · [YouTube English](https://youtu.be/7A-S8Nuco60) · [B站](https://www.bilibili.com/video/BV1MRJR6XEfv)
 
 ## 中文讲解
 

@@ -6,7 +6,7 @@
 - 单位 Affiliation: 加州大学圣地亚哥分校
 - 方向 Direction: NLP
 - 讲解日期 Covered: 2026-10-19
-- 视频 Videos: [B站](https://www.bilibili.com/video/BV1PAJd67E9F)
+- 视频 Videos: [YouTube 中文](https://youtu.be/s0fh4hiE0Pg) · [YouTube English](https://youtu.be/r4pLa0oz4jQ) · [B站](https://www.bilibili.com/video/BV1PAJd67E9F)
 
 ## 中文讲解
 
