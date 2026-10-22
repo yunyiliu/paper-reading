@@ -10,6 +10,7 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-10-22 | [Agent World Model in the Wild: Computer-Use Agent Environment Synthesis](agent/2026-10-22-agent-world-model-in-the-wild.md) | 开源模型自己造电脑练Agent | [YouTube 中文](https://youtu.be/cUNFS8XcRco) · [YouTube English](https://youtu.be/We_2WrK5llQ) |
 | 2026-10-21 | [S-Agent 2.0: Spatial Reasoning with a General Coding Agent](agent/2026-10-21-s-agent-2-0.md) | 现成编程Agent空间推理超专用系统 | [YouTube 中文](https://youtu.be/P596ONga4fU) · [YouTube English](https://youtu.be/1PF34B0Sjsg) |
 | 2026-10-20 | [Self-Evolving Coding Agents via Harness-Policy Optimization](agent/2026-10-20-self-evolving-coding-agents-via-harness-.md) | 模型自己改框架再训练自己 | [YouTube 中文](https://youtu.be/TiGLFe_9tIY) · [YouTube English](https://youtu.be/BnT7L9GtEUM) |
 | 2026-10-19 | [Into the Unknown: Benchmarking AI agents on open scientific research problems](agent/2026-10-19-into-the-unknown.md) | AI写了135篇论文没一篇过关 | [YouTube 中文](https://youtu.be/4GD9ThkR0eU) · [YouTube English](https://youtu.be/eWVeX3P7Y4g) · [B站](https://www.bilibili.com/video/BV11AJd67EKH) |
@@ -21,6 +22,7 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-10-22 | [Looking Ahead: Modeling Future Evolution in Autoregressive Video Generation](cv/2026-10-22-looking-ahead.md) | 逼视频模型学会往前看 | [YouTube 中文](https://youtu.be/b4M3LSbEHjw) · [YouTube English](https://youtu.be/zlxB0Q6pKo0) · [B站](https://www.bilibili.com/video/BV1dRn26CELW) |
 | 2026-10-21 | [Xiaomi-Lens-0 Technical Report](cv/2026-10-21-xiaomi-lens-0-technical-report.md) | 让模型自己画轮廓看图更细了 | [YouTube 中文](https://youtu.be/r8ONYh8x_j0) · [YouTube English](https://youtu.be/dA6plV8ZGgo) · [B站](https://www.bilibili.com/video/BV1runz6wEL4) |
 | 2026-10-20 | [Speculative Sampling in Interactive Video Generation](cv/2026-10-20-speculative-sampling-in-interactive-vide.md) | 改指令不用等整块播完 | [YouTube 中文](https://youtu.be/5fn3oLl9CVU) · [YouTube English](https://youtu.be/mr5Eod_bN6E) · [B站](https://www.bilibili.com/video/BV1m4nc6KEde) |
 | 2026-10-19 | [Learning to Think and Explore in 3D World](cv/2026-10-19-learning-to-think-and-explore-in-3d-worl.md) | 只给一张图让模型自己去看 | [YouTube 中文](https://youtu.be/JYerM0_V_To) · [YouTube English](https://youtu.be/IKpnq17sqa8) · [B站](https://www.bilibili.com/video/BV1sAJd67E98) |
@@ -31,6 +33,7 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-10-22 | [PAR: Progress-Aligned Recurrence for Length Generalization in State Tracking](nlp/2026-10-22-par.md) | 多转几圈为什么白转 | [YouTube 中文](https://youtu.be/dx7NDRD2VA8) · [YouTube English](https://youtu.be/0NOLatW3opw) · [B站](https://www.bilibili.com/video/BV1iRn26yETe) |
 | 2026-10-21 | [PremiseCheck: Efficient Fact-Checking of Human and AI Peer Reviews](nlp/2026-10-21-premisecheck.md) | 审稿意见说错了谁来查 | [YouTube 中文](https://youtu.be/oqKvrqbruyY) · [YouTube English](https://youtu.be/pRODUPjnrlI) · [B站](https://www.bilibili.com/video/BV1cunz6AEn5) |
 | 2026-10-20 | [LEV: Thinking Fast and Deep with Looped Decision Models](nlp/2026-10-20-lev.md) | 难题多想几遍但不写一个字 | [YouTube 中文](https://youtu.be/1bXm4kRC5Yo) · [YouTube English](https://youtu.be/5KIf_C2AWCE) · [B站](https://www.bilibili.com/video/BV1t4nc6KEUS) |
 | 2026-10-19 | [Pack Light, CarryOn: Building Object-Oriented Context for Long-Horizon Agents](nlp/2026-10-19-pack-light-carryon.md) | Agent别再反复读历史 | [YouTube 中文](https://youtu.be/s0fh4hiE0Pg) · [YouTube English](https://youtu.be/r4pLa0oz4jQ) · [B站](https://www.bilibili.com/video/BV1PAJd67E9F) |
@@ -41,6 +44,7 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-10-22 | [Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience](embodied/2026-10-22-ropedia-w0.md) | 一万小时人类视频教会机器人想象 | [YouTube 中文](https://youtu.be/fqQ48qeIvCY) · [YouTube English](https://youtu.be/cA_4dcvCIak) · [B站](https://www.bilibili.com/video/BV1RRn26CEf1) |
 | 2026-10-21 | [Has GPT-6-Astra Achieved Embodied Intelligence?](embodied/2026-10-21-has-gpt-6-astra-achieved-embodied-intell.md) | 大模型直接开机器人离实用还差多远 | [YouTube 中文](https://youtu.be/RA5lsdTI1t0) · [YouTube English](https://youtu.be/AF9qy6em0IM) · [B站](https://www.bilibili.com/video/BV1wTnz6eEvk) |
 | 2026-10-20 | [Learning from Fleet Experience: A Collective Learning Paradigm for Robots](embodied/2026-10-20-learning-from-fleet-experience.md) | 不再要人纠正机器人越干越稳 | [YouTube 中文](https://youtu.be/R9onXqQG9ZM) · [YouTube English](https://youtu.be/slUaldJRU3Y) · [B站](https://www.bilibili.com/video/BV1t4nc6KEiN) |
 | 2026-10-19 | [HexaShell: A Thin Harness for Exploring the Limits of VLM Agents as Robot Coding Agents](embodied/2026-10-19-hexashell.md) | 编程Agent直接操作机器人 | [YouTube 中文](https://youtu.be/InZEXRiKaHU) · [YouTube English](https://youtu.be/7A-S8Nuco60) · [B站](https://www.bilibili.com/video/BV1MRJR6XEfv) |
