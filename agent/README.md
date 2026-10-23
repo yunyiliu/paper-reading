@@ -2,6 +2,7 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-10-23 | [Evolving Agent Interfaces](2026-10-23-evolving-agent-interfaces.md) | 接口不再靠人Agent自己进化 | [YouTube 中文](https://youtu.be/-txMW9JUVHY) · [YouTube English](https://youtu.be/j7lGCYfw3pA) |
 | 2026-10-22 | [Agent World Model in the Wild: Computer-Use Agent Environment Synthesis](2026-10-22-agent-world-model-in-the-wild.md) | 开源模型自己造电脑练Agent | [YouTube 中文](https://youtu.be/cUNFS8XcRco) · [YouTube English](https://youtu.be/We_2WrK5llQ) |
 | 2026-10-21 | [S-Agent 2.0: Spatial Reasoning with a General Coding Agent](2026-10-21-s-agent-2-0.md) | 现成编程Agent空间推理超专用系统 | [YouTube 中文](https://youtu.be/P596ONga4fU) · [YouTube English](https://youtu.be/1PF34B0Sjsg) |
 | 2026-10-20 | [Self-Evolving Coding Agents via Harness-Policy Optimization](2026-10-20-self-evolving-coding-agents-via-harness-.md) | 模型自己改框架再训练自己 | [YouTube 中文](https://youtu.be/TiGLFe_9tIY) · [YouTube English](https://youtu.be/BnT7L9GtEUM) |

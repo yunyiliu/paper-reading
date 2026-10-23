@@ -2,6 +2,7 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-10-23 | [Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game Worlds](2026-10-23-matrix-game-4-0.md) | 代码管规则视频模型画每一帧 | [YouTube 中文](https://youtu.be/w7UWCNiUofU) · [YouTube English](https://youtu.be/d-GHaCaJMXU) · [B站](https://www.bilibili.com/video/BV1bent6jEzE) |
 | 2026-10-22 | [Looking Ahead: Modeling Future Evolution in Autoregressive Video Generation](2026-10-22-looking-ahead.md) | 逼视频模型学会往前看 | [YouTube 中文](https://youtu.be/b4M3LSbEHjw) · [YouTube English](https://youtu.be/zlxB0Q6pKo0) · [B站](https://www.bilibili.com/video/BV1dRn26CELW) |
 | 2026-10-21 | [Xiaomi-Lens-0 Technical Report](2026-10-21-xiaomi-lens-0-technical-report.md) | 让模型自己画轮廓看图更细了 | [YouTube 中文](https://youtu.be/r8ONYh8x_j0) · [YouTube English](https://youtu.be/dA6plV8ZGgo) · [B站](https://www.bilibili.com/video/BV1runz6wEL4) |
 | 2026-10-20 | [Speculative Sampling in Interactive Video Generation](2026-10-20-speculative-sampling-in-interactive-vide.md) | 改指令不用等整块播完 | [YouTube 中文](https://youtu.be/5fn3oLl9CVU) · [YouTube English](https://youtu.be/mr5Eod_bN6E) · [B站](https://www.bilibili.com/video/BV1m4nc6KEde) |

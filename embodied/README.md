@@ -2,6 +2,7 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-10-23 | [VLA-Rolling: Fewer Denoising Steps, Better Control via Adaptive Action Reuse](2026-10-23-vla-rolling.md) | 机器人扔掉的半截动作有用 | [YouTube 中文](https://youtu.be/0RGjdPlLg94) · [YouTube English](https://youtu.be/a0JKTVbPZ6g) · [B站](https://www.bilibili.com/video/BV1Uent6LEzM) |
 | 2026-10-22 | [Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience](2026-10-22-ropedia-w0.md) | 一万小时人类视频教会机器人想象 | [YouTube 中文](https://youtu.be/fqQ48qeIvCY) · [YouTube English](https://youtu.be/cA_4dcvCIak) · [B站](https://www.bilibili.com/video/BV1RRn26CEf1) |
 | 2026-10-21 | [Has GPT-6-Astra Achieved Embodied Intelligence?](2026-10-21-has-gpt-6-astra-achieved-embodied-intell.md) | 大模型直接开机器人离实用还差多远 | [YouTube 中文](https://youtu.be/RA5lsdTI1t0) · [YouTube English](https://youtu.be/AF9qy6em0IM) · [B站](https://www.bilibili.com/video/BV1wTnz6eEvk) |
 | 2026-10-20 | [Learning from Fleet Experience: A Collective Learning Paradigm for Robots](2026-10-20-learning-from-fleet-experience.md) | 不再要人纠正机器人越干越稳 | [YouTube 中文](https://youtu.be/R9onXqQG9ZM) · [YouTube English](https://youtu.be/slUaldJRU3Y) · [B站](https://www.bilibili.com/video/BV1t4nc6KEiN) |
