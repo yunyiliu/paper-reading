@@ -2,6 +2,7 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-10-24 | [Right Screen, Wrong Transition: World Models as Verifiers for GUI Agents](2026-10-24-right-screen-wrong-transition.md) | 画面没问题跳转有问题 | [YouTube 中文](https://youtu.be/SAjCs6Tuoc4) · [YouTube English](https://youtu.be/va1p8FdeStY) |
 | 2026-10-23 | [Evolving Agent Interfaces](2026-10-23-evolving-agent-interfaces.md) | 接口不再靠人Agent自己进化 | [YouTube 中文](https://youtu.be/-txMW9JUVHY) · [YouTube English](https://youtu.be/j7lGCYfw3pA) |
 | 2026-10-22 | [Agent World Model in the Wild: Computer-Use Agent Environment Synthesis](2026-10-22-agent-world-model-in-the-wild.md) | 开源模型自己造电脑练Agent | [YouTube 中文](https://youtu.be/cUNFS8XcRco) · [YouTube English](https://youtu.be/We_2WrK5llQ) |
 | 2026-10-21 | [S-Agent 2.0: Spatial Reasoning with a General Coding Agent](2026-10-21-s-agent-2-0.md) | 现成编程Agent空间推理超专用系统 | [YouTube 中文](https://youtu.be/P596ONga4fU) · [YouTube English](https://youtu.be/1PF34B0Sjsg) |

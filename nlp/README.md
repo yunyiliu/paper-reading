@@ -2,6 +2,7 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-10-24 | [Retrieval Augmented Generation Compositionality](2026-10-24-retrieval-augmented-generation-compositi.md) | RAG技巧叠加为何打了折 | [YouTube 中文](https://youtu.be/7l64S_6b6PQ) · [YouTube English](https://youtu.be/AI_FO-cQbnI) · [B站](https://www.bilibili.com/video/BV122HK6DEov) |
 | 2026-10-23 | [Cache Engineering for Agents](2026-10-23-cache-engineering-for-agents.md) | 文字不用删缓存自己管 | [YouTube 中文](https://youtu.be/RndRUT47iR0) · [YouTube English](https://youtu.be/YdEd_gkfxto) · [B站](https://www.bilibili.com/video/BV1Uent6LE4P) |
 | 2026-10-22 | [PAR: Progress-Aligned Recurrence for Length Generalization in State Tracking](2026-10-22-par.md) | 多转几圈为什么白转 | [YouTube 中文](https://youtu.be/dx7NDRD2VA8) · [YouTube English](https://youtu.be/0NOLatW3opw) · [B站](https://www.bilibili.com/video/BV1iRn26yETe) |
 | 2026-10-21 | [PremiseCheck: Efficient Fact-Checking of Human and AI Peer Reviews](2026-10-21-premisecheck.md) | 审稿意见说错了谁来查 | [YouTube 中文](https://youtu.be/oqKvrqbruyY) · [YouTube English](https://youtu.be/pRODUPjnrlI) · [B站](https://www.bilibili.com/video/BV1cunz6AEn5) |
