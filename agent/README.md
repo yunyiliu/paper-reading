@@ -2,6 +2,7 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-10-25 | [Deep Search in Real-World Web Environments](2026-10-25-deep-search-in-real-world-web-environmen.md) | 最强模型也只答对39% | [YouTube 中文](https://youtu.be/-QGuPiew7bM) · [YouTube English](https://youtu.be/MHW7qMdrXGM) |
 | 2026-10-24 | [Right Screen, Wrong Transition: World Models as Verifiers for GUI Agents](2026-10-24-right-screen-wrong-transition.md) | 画面没问题跳转有问题 | [YouTube 中文](https://youtu.be/SAjCs6Tuoc4) · [YouTube English](https://youtu.be/va1p8FdeStY) |
 | 2026-10-23 | [Evolving Agent Interfaces](2026-10-23-evolving-agent-interfaces.md) | 接口不再靠人Agent自己进化 | [YouTube 中文](https://youtu.be/-txMW9JUVHY) · [YouTube English](https://youtu.be/j7lGCYfw3pA) |
 | 2026-10-22 | [Agent World Model in the Wild: Computer-Use Agent Environment Synthesis](2026-10-22-agent-world-model-in-the-wild.md) | 开源模型自己造电脑练Agent | [YouTube 中文](https://youtu.be/cUNFS8XcRco) · [YouTube English](https://youtu.be/We_2WrK5llQ) |

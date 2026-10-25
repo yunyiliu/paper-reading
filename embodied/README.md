@@ -2,6 +2,7 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-10-25 | [TILDE: Teacher-in-the-Loop Distillation from Embodied Foundation Models](2026-10-25-tilde.md) | 机器人犯错时让老师模型接管 | [YouTube 中文](https://youtu.be/uKX2RjIf0VY) · [YouTube English](https://youtu.be/00G3b-OKvGU) · [B站](https://www.bilibili.com/video/BV1dkH56xERA) |
 | 2026-10-24 | [DONIC: Generalist Dexterous Bimanual Tracking Control from Human Demonstrations](2026-10-24-donic.md) | 一个策略管住两只灵巧手 | [YouTube 中文](https://youtu.be/ZspDy-MmcEw) · [YouTube English](https://youtu.be/CLw1jptzgvg) · [B站](https://www.bilibili.com/video/BV1m2HK6DEuU) |
 | 2026-10-23 | [VLA-Rolling: Fewer Denoising Steps, Better Control via Adaptive Action Reuse](2026-10-23-vla-rolling.md) | 机器人扔掉的半截动作有用 | [YouTube 中文](https://youtu.be/0RGjdPlLg94) · [YouTube English](https://youtu.be/a0JKTVbPZ6g) · [B站](https://www.bilibili.com/video/BV1Uent6LEzM) |
 | 2026-10-22 | [Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience](2026-10-22-ropedia-w0.md) | 一万小时人类视频教会机器人想象 | [YouTube 中文](https://youtu.be/fqQ48qeIvCY) · [YouTube English](https://youtu.be/cA_4dcvCIak) · [B站](https://www.bilibili.com/video/BV1RRn26CEf1) |
