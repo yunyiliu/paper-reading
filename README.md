@@ -10,7 +10,8 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
-| 2026-10-25 | [Deep Search in Real-World Web Environments](agent/2026-10-25-deep-search-in-real-world-web-environmen.md) | 最强模型也只答对39% | [YouTube 中文](https://youtu.be/-QGuPiew7bM) · [YouTube English](https://youtu.be/MHW7qMdrXGM) |
+| 2026-10-26 | [HiSTEVE 1.0: Harnessing Human-Interface VLA Agents for Open-World Games](agent/2026-10-26-histeve-1-0.md) | 同一个执行器长任务翻一倍 | [YouTube 中文](https://youtu.be/hb5Ixp2aWyw) · [YouTube English](https://youtu.be/fYHXbfqPOFY) · [B站](https://www.bilibili.com/video/BV1Rgnd6vEfB) |
+| 2026-10-25 | [Deep Search in Real-World Web Environments](agent/2026-10-25-deep-search-in-real-world-web-environmen.md) | 最强模型也只答对39% | [YouTube 中文](https://youtu.be/-QGuPiew7bM) · [YouTube English](https://youtu.be/MHW7qMdrXGM) · [B站](https://www.bilibili.com/video/BV1Kbnd6WE9e) |
 | 2026-10-24 | [Right Screen, Wrong Transition: World Models as Verifiers for GUI Agents](agent/2026-10-24-right-screen-wrong-transition.md) | 画面没问题跳转有问题 | [YouTube 中文](https://youtu.be/SAjCs6Tuoc4) · [YouTube English](https://youtu.be/va1p8FdeStY) |
 | 2026-10-23 | [Evolving Agent Interfaces](agent/2026-10-23-evolving-agent-interfaces.md) | 接口不再靠人Agent自己进化 | [YouTube 中文](https://youtu.be/-txMW9JUVHY) · [YouTube English](https://youtu.be/j7lGCYfw3pA) |
 | 2026-10-22 | [Agent World Model in the Wild: Computer-Use Agent Environment Synthesis](agent/2026-10-22-agent-world-model-in-the-wild.md) | 开源模型自己造电脑练Agent | [YouTube 中文](https://youtu.be/cUNFS8XcRco) · [YouTube English](https://youtu.be/We_2WrK5llQ) |
@@ -25,6 +26,7 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-10-26 | [Generalized CycleGRPO for Fine-Grained Multimodal Understanding and Grounding](cv/2026-10-26-generalized-cyclegrpo-for-fine-grained-m.md) | 描述得好不好找回来就知道 | [YouTube 中文](https://youtu.be/54DH3usC-DE) · [YouTube English](https://youtu.be/kcgscFSI0gU) · [B站](https://www.bilibili.com/video/BV1Rgnd6vEy8) |
 | 2026-10-25 | [Editing Images into Reusable Layers via Compositional Edit-Prior Distillation](cv/2026-10-25-editing-images-into-reusable-layers-via-.md) | 改完一张图图层也拆好了 | [YouTube 中文](https://youtu.be/HYeJixttLMQ) · [YouTube English](https://youtu.be/jwEJVYu4g4w) · [B站](https://www.bilibili.com/video/BV1NxH56ME4d) |
 | 2026-10-24 | [WeVisOne-VL: Unified Visual Perception from Objects to Pixels](cv/2026-10-24-wevisone-vl.md) | 会找会数还会说没有 | [YouTube 中文](https://youtu.be/lJ9wg6PNUSw) · [YouTube English](https://youtu.be/K3PuqdNpW1s) · [B站](https://www.bilibili.com/video/BV122HK6DECw) |
 | 2026-10-23 | [Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game Worlds](cv/2026-10-23-matrix-game-4-0.md) | 代码管规则视频模型画每一帧 | [YouTube 中文](https://youtu.be/w7UWCNiUofU) · [YouTube English](https://youtu.be/d-GHaCaJMXU) · [B站](https://www.bilibili.com/video/BV1bent6jEzE) |
@@ -39,6 +41,7 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-10-26 | [On-Policy Self-Training: Data-Free Self-Improvement in Large Language Models](nlp/2026-10-26-on-policy-self-training.md) | 不给题也不给答案模型自己变强 | [YouTube 中文](https://youtu.be/zxD0o1f47_I) · [YouTube English](https://youtu.be/8aWKOWYDyn0) · [B站](https://www.bilibili.com/video/BV1Rgnd6vEkW) |
 | 2026-10-25 | [Deep Fusion Memory: A Chunk-Level Parametric Memory for Large Language Models](nlp/2026-10-25-deep-fusion-memory.md) | 不检索也能用上知识库 | [YouTube 中文](https://youtu.be/FnpN1f1gTMk) · [YouTube English](https://youtu.be/WuHtHRsUZc0) · [B站](https://www.bilibili.com/video/BV1jkH564EsN) |
 | 2026-10-24 | [Retrieval Augmented Generation Compositionality](nlp/2026-10-24-retrieval-augmented-generation-compositi.md) | RAG技巧叠加为何打了折 | [YouTube 中文](https://youtu.be/7l64S_6b6PQ) · [YouTube English](https://youtu.be/AI_FO-cQbnI) · [B站](https://www.bilibili.com/video/BV122HK6DEov) |
 | 2026-10-23 | [Cache Engineering for Agents](nlp/2026-10-23-cache-engineering-for-agents.md) | 文字不用删缓存自己管 | [YouTube 中文](https://youtu.be/RndRUT47iR0) · [YouTube English](https://youtu.be/YdEd_gkfxto) · [B站](https://www.bilibili.com/video/BV1Uent6LE4P) |
@@ -53,6 +56,7 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-10-26 | [Echo: Coupled Action and Task Status Signal Denoising for Vision Language Action Models](embodied/2026-10-26-echo.md) | 让机器人知道自己做砸了 | [YouTube 中文](https://youtu.be/PGgP8qspz1U) · [YouTube English](https://youtu.be/OH9Z3Y6LDms) · [B站](https://www.bilibili.com/video/BV1XLnd6wEDZ) |
 | 2026-10-25 | [TILDE: Teacher-in-the-Loop Distillation from Embodied Foundation Models](embodied/2026-10-25-tilde.md) | 机器人犯错时让老师模型接管 | [YouTube 中文](https://youtu.be/uKX2RjIf0VY) · [YouTube English](https://youtu.be/00G3b-OKvGU) · [B站](https://www.bilibili.com/video/BV1dkH56xERA) |
 | 2026-10-24 | [DONIC: Generalist Dexterous Bimanual Tracking Control from Human Demonstrations](embodied/2026-10-24-donic.md) | 一个策略管住两只灵巧手 | [YouTube 中文](https://youtu.be/ZspDy-MmcEw) · [YouTube English](https://youtu.be/CLw1jptzgvg) · [B站](https://www.bilibili.com/video/BV1m2HK6DEuU) |
 | 2026-10-23 | [VLA-Rolling: Fewer Denoising Steps, Better Control via Adaptive Action Reuse](embodied/2026-10-23-vla-rolling.md) | 机器人扔掉的半截动作有用 | [YouTube 中文](https://youtu.be/0RGjdPlLg94) · [YouTube English](https://youtu.be/a0JKTVbPZ6g) · [B站](https://www.bilibili.com/video/BV1Uent6LEzM) |

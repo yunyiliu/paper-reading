@@ -2,6 +2,7 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-10-26 | [Generalized CycleGRPO for Fine-Grained Multimodal Understanding and Grounding](2026-10-26-generalized-cyclegrpo-for-fine-grained-m.md) | 描述得好不好找回来就知道 | [YouTube 中文](https://youtu.be/54DH3usC-DE) · [YouTube English](https://youtu.be/kcgscFSI0gU) · [B站](https://www.bilibili.com/video/BV1Rgnd6vEy8) |
 | 2026-10-25 | [Editing Images into Reusable Layers via Compositional Edit-Prior Distillation](2026-10-25-editing-images-into-reusable-layers-via-.md) | 改完一张图图层也拆好了 | [YouTube 中文](https://youtu.be/HYeJixttLMQ) · [YouTube English](https://youtu.be/jwEJVYu4g4w) · [B站](https://www.bilibili.com/video/BV1NxH56ME4d) |
 | 2026-10-24 | [WeVisOne-VL: Unified Visual Perception from Objects to Pixels](2026-10-24-wevisone-vl.md) | 会找会数还会说没有 | [YouTube 中文](https://youtu.be/lJ9wg6PNUSw) · [YouTube English](https://youtu.be/K3PuqdNpW1s) · [B站](https://www.bilibili.com/video/BV122HK6DECw) |
 | 2026-10-23 | [Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game Worlds](2026-10-23-matrix-game-4-0.md) | 代码管规则视频模型画每一帧 | [YouTube 中文](https://youtu.be/w7UWCNiUofU) · [YouTube English](https://youtu.be/d-GHaCaJMXU) · [B站](https://www.bilibili.com/video/BV1bent6jEzE) |

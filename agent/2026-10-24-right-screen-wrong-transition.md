@@ -6,7 +6,7 @@
 - 单位 Affiliation: 南洋理工大学 · 东京科学大学 · Sony AI
 - 方向 Direction: Agent
 - 讲解日期 Covered: 2026-10-24
-- 视频 Videos: [YouTube 中文](https://youtu.be/SAjCs6Tuoc4) · [YouTube English](https://youtu.be/va1p8FdeStY)
+- 视频 Videos: [YouTube 中文](https://youtu.be/SAjCs6Tuoc4) · [YouTube English](https://youtu.be/va1p8FdeStY) · B站（审核中）
 
 ## 中文讲解
 

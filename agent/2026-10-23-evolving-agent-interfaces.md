@@ -6,7 +6,7 @@
 - 单位 Affiliation: Simular · 加州大学圣塔芭芭拉分校、康奈尔、卡内基梅隆等
 - 方向 Direction: Agent
 - 讲解日期 Covered: 2026-10-23
-- 视频 Videos: [YouTube 中文](https://youtu.be/-txMW9JUVHY) · [YouTube English](https://youtu.be/j7lGCYfw3pA)
+- 视频 Videos: [YouTube 中文](https://youtu.be/-txMW9JUVHY) · [YouTube English](https://youtu.be/j7lGCYfw3pA) · B站（审核中）
 
 ## 中文讲解
 
