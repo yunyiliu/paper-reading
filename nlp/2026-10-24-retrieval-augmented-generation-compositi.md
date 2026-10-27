@@ -6,7 +6,7 @@
 - 单位 Affiliation: IBM、魏茨曼科学研究所
 - 方向 Direction: NLP
 - 讲解日期 Covered: 2026-10-24
-- 视频 Videos: [YouTube 中文](https://youtu.be/7l64S_6b6PQ) · [YouTube English](https://youtu.be/AI_FO-cQbnI) · [B站](https://www.bilibili.com/video/BV122HK6DEov)
+- 视频 Videos: [B站](https://www.bilibili.com/video/BV122HK6DEov)
 
 ## 中文讲解
 

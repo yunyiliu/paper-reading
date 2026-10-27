@@ -6,7 +6,7 @@
 - 单位 Affiliation: 腾讯微信视觉团队
 - 方向 Direction: CV
 - 讲解日期 Covered: 2026-10-24
-- 视频 Videos: [YouTube 中文](https://youtu.be/lJ9wg6PNUSw) · [YouTube English](https://youtu.be/K3PuqdNpW1s) · [B站](https://www.bilibili.com/video/BV122HK6DECw)
+- 视频 Videos: [B站](https://www.bilibili.com/video/BV122HK6DECw)
 
 ## 中文讲解
 

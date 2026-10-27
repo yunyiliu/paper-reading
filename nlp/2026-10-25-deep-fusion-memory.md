@@ -6,7 +6,7 @@
 - 单位 Affiliation: 上海交通大学 LUMIA Lab · 上海人工智能实验室
 - 方向 Direction: NLP
 - 讲解日期 Covered: 2026-10-25
-- 视频 Videos: [YouTube 中文](https://youtu.be/FnpN1f1gTMk) · [YouTube English](https://youtu.be/WuHtHRsUZc0) · [B站](https://www.bilibili.com/video/BV1jkH564EsN)
+- 视频 Videos: [B站](https://www.bilibili.com/video/BV1jkH564EsN)
 
 ## 中文讲解
 

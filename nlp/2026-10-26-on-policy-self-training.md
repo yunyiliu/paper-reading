@@ -6,7 +6,7 @@
 - 单位 Affiliation: Google · 乌尔姆大学
 - 方向 Direction: NLP
 - 讲解日期 Covered: 2026-10-26
-- 视频 Videos: [YouTube 中文](https://youtu.be/zxD0o1f47_I) · [YouTube English](https://youtu.be/8aWKOWYDyn0) · [B站](https://www.bilibili.com/video/BV1Rgnd6vEkW)
+- 视频 Videos: [B站](https://www.bilibili.com/video/BV1Rgnd6vEkW)
 
 ## 中文讲解
 

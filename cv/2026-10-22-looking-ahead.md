@@ -6,7 +6,7 @@
 - 单位 Affiliation: 南京大学、腾讯 ARC Lab、浙江大学
 - 方向 Direction: CV
 - 讲解日期 Covered: 2026-10-22
-- 视频 Videos: [YouTube 中文](https://youtu.be/b4M3LSbEHjw) · [YouTube English](https://youtu.be/zlxB0Q6pKo0) · [B站](https://www.bilibili.com/video/BV1dRn26CELW)
+- 视频 Videos: [B站](https://www.bilibili.com/video/BV1dRn26CELW)
 
 ## 中文讲解
 

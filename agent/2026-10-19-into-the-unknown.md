@@ -6,7 +6,7 @@
 - 单位 Affiliation: 卡内基梅隆大学 · 美国能源部国家实验室
 - 方向 Direction: Agent
 - 讲解日期 Covered: 2026-10-19
-- 视频 Videos: [YouTube 中文](https://youtu.be/4GD9ThkR0eU) · [YouTube English](https://youtu.be/eWVeX3P7Y4g) · [B站](https://www.bilibili.com/video/BV11AJd67EKH)
+- 视频 Videos: [YouTube 中文](https://youtu.be/4GD9ThkR0eU) · [B站](https://www.bilibili.com/video/BV11AJd67EKH)
 
 ## 中文讲解
 

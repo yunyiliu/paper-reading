@@ -6,7 +6,7 @@
 - 单位 Affiliation: 微软研究院 · 弗吉尼亚大学 · 卡内基梅隆大学
 - 方向 Direction: Agent
 - 讲解日期 Covered: 2026-10-20
-- 视频 Videos: [YouTube 中文](https://youtu.be/TiGLFe_9tIY) · [YouTube English](https://youtu.be/BnT7L9GtEUM) · B站（审核中）
+- 视频 Videos: [YouTube 中文](https://youtu.be/TiGLFe_9tIY) · [YouTube English](https://youtu.be/BnT7L9GtEUM) · [B站](https://www.bilibili.com/video/BV1x8nd6XEpk)
 
 ## 中文讲解
 

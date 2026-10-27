@@ -6,7 +6,7 @@
 - 单位 Affiliation: 浙江大学
 - 方向 Direction: 具身智能 / Embodied AI
 - 讲解日期 Covered: 2026-10-23
-- 视频 Videos: [YouTube 中文](https://youtu.be/0RGjdPlLg94) · [YouTube English](https://youtu.be/a0JKTVbPZ6g) · [B站](https://www.bilibili.com/video/BV1Uent6LEzM)
+- 视频 Videos: [B站](https://www.bilibili.com/video/BV1Uent6LEzM)
 
 ## 中文讲解
 

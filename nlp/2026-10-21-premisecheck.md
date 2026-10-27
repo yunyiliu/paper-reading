@@ -6,7 +6,7 @@
 - 单位 Affiliation: Lehigh University 等
 - 方向 Direction: NLP
 - 讲解日期 Covered: 2026-10-21
-- 视频 Videos: [YouTube 中文](https://youtu.be/oqKvrqbruyY) · [YouTube English](https://youtu.be/pRODUPjnrlI) · [B站](https://www.bilibili.com/video/BV1cunz6AEn5)
+- 视频 Videos: [B站](https://www.bilibili.com/video/BV1cunz6AEn5)
 
 ## 中文讲解
 

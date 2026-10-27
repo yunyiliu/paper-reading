@@ -6,7 +6,7 @@
 - 单位 Affiliation: 香港科技大学（广州）· 复旦 · 斯坦福 · 微软研究院等
 - 方向 Direction: Agent
 - 讲解日期 Covered: 2026-10-25
-- 视频 Videos: [YouTube 中文](https://youtu.be/-QGuPiew7bM) · [YouTube English](https://youtu.be/MHW7qMdrXGM) · [B站](https://www.bilibili.com/video/BV1Kbnd6WE9e)
+- 视频 Videos: [B站](https://www.bilibili.com/video/BV1Kbnd6WE9e)
 
 ## 中文讲解
 
