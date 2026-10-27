@@ -212,6 +212,3 @@ My read is also: keep the absolute level in view. The best result fully complete
 
 That's today's Daily Frontier Papers. The paper is linked in the description.
 
----
-
-_文字稿即视频讲解稿，发布前已对照论文原文独立核查；由 AI（Claude）撰写。 The text is the video script, checked against the paper before release; written with AI assistance (Claude)._
