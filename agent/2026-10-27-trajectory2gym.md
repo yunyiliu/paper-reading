@@ -6,7 +6,7 @@
 - 单位 Affiliation: 西湖大学、蚂蚁国际
 - 方向 Direction: Agent
 - 讲解日期 Covered: 2026-10-27
-- 视频 Videos: —
+- 视频 Videos: [YouTube 中文](https://youtu.be/FIhU3LAgE9Q) · [YouTube English](https://youtu.be/nqUf17e10-Y) · [B站](https://www.bilibili.com/video/BV1SNxG6mEHB)
 
 ## 中文讲解
 

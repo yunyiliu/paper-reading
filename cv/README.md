@@ -2,8 +2,8 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
-| 2026-10-27 | [DirCast: Live Esports Directing and Commentary with a Single Streaming Video-Language Model](2026-10-27-dircast.md) | 一个模型又导播又解说 | — |
-| 2026-10-26 | [Generalized CycleGRPO for Fine-Grained Multimodal Understanding and Grounding](2026-10-26-generalized-cyclegrpo-for-fine-grained-m.md) | 描述得好不好找回来就知道 | [B站](https://www.bilibili.com/video/BV1Rgnd6vEy8) |
+| 2026-10-27 | [DirCast: Live Esports Directing and Commentary with a Single Streaming Video-Language Model](2026-10-27-dircast.md) | 一个模型又导播又解说 | [YouTube 中文](https://youtu.be/9S3dHnmDemU) |
+| 2026-10-26 | [Generalized CycleGRPO for Fine-Grained Multimodal Understanding and Grounding](2026-10-26-generalized-cyclegrpo-for-fine-grained-m.md) | 描述得好不好找回来就知道 | [YouTube 中文](https://youtu.be/54DH3usC-DE) · [YouTube English](https://youtu.be/kcgscFSI0gU) · [B站](https://www.bilibili.com/video/BV1Rgnd6vEy8) |
 | 2026-10-25 | [Editing Images into Reusable Layers via Compositional Edit-Prior Distillation](2026-10-25-editing-images-into-reusable-layers-via-.md) | 改完一张图图层也拆好了 | [B站](https://www.bilibili.com/video/BV1NxH56ME4d) |
 | 2026-10-24 | [WeVisOne-VL: Unified Visual Perception from Objects to Pixels](2026-10-24-wevisone-vl.md) | 会找会数还会说没有 | [B站](https://www.bilibili.com/video/BV122HK6DECw) |
 | 2026-10-23 | [Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game Worlds](2026-10-23-matrix-game-4-0.md) | 代码管规则视频模型画每一帧 | [B站](https://www.bilibili.com/video/BV1bent6jEzE) |

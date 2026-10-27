@@ -6,7 +6,7 @@
 - 单位 Affiliation: 新加坡国立大学 · 中国科学院大学 · 南洋理工大学
 - 方向 Direction: CV
 - 讲解日期 Covered: 2026-10-26
-- 视频 Videos: [B站](https://www.bilibili.com/video/BV1Rgnd6vEy8)
+- 视频 Videos: [YouTube 中文](https://youtu.be/54DH3usC-DE) · [YouTube English](https://youtu.be/kcgscFSI0gU) · [B站](https://www.bilibili.com/video/BV1Rgnd6vEy8)
 
 ## 中文讲解
 
