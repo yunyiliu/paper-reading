@@ -6,7 +6,7 @@
 - 单位 Affiliation: SenseNova · Ropedia · 南洋理工大学 · 东京大学等
 - 方向 Direction: 具身智能 / Embodied AI
 - 讲解日期 Covered: 2026-10-21
-- 视频 Videos: [B站](https://www.bilibili.com/video/BV1wTnz6eEvk)
+- 视频 Videos: [YouTube 中文](https://youtu.be/1-l0J00kzfw) · [YouTube English](https://youtu.be/8zFq-VTaWvo) · [B站](https://www.bilibili.com/video/BV1wTnz6eEvk)
 
 ## 中文讲解
 

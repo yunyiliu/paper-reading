@@ -2,13 +2,13 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
-| 2026-10-27 | [Eat Your Precision: Precision Objective Mitigates Reward Hacking in Rubric-based RL](2026-10-27-eat-your-precision.md) | 奖励只看召回模型就学会注水 | [YouTube 中文](https://youtu.be/gf-80QxSbV0) |
+| 2026-10-27 | [Eat Your Precision: Precision Objective Mitigates Reward Hacking in Rubric-based RL](2026-10-27-eat-your-precision.md) | 奖励只看召回模型就学会注水 | [YouTube 中文](https://youtu.be/gf-80QxSbV0) · [B站](https://www.bilibili.com/video/BV1SPxG6EEZ6) |
 | 2026-10-26 | [On-Policy Self-Training: Data-Free Self-Improvement in Large Language Models](2026-10-26-on-policy-self-training.md) | 不给题也不给答案模型自己变强 | [YouTube 中文](https://youtu.be/zxD0o1f47_I) · [YouTube English](https://youtu.be/8aWKOWYDyn0) · [B站](https://www.bilibili.com/video/BV1Rgnd6vEkW) |
 | 2026-10-25 | [Deep Fusion Memory: A Chunk-Level Parametric Memory for Large Language Models](2026-10-25-deep-fusion-memory.md) | 不检索也能用上知识库 | [B站](https://www.bilibili.com/video/BV1jkH564EsN) |
 | 2026-10-24 | [Retrieval Augmented Generation Compositionality](2026-10-24-retrieval-augmented-generation-compositi.md) | RAG技巧叠加为何打了折 | [B站](https://www.bilibili.com/video/BV122HK6DEov) |
-| 2026-10-23 | [Cache Engineering for Agents](2026-10-23-cache-engineering-for-agents.md) | 文字不用删缓存自己管 | [B站](https://www.bilibili.com/video/BV1Uent6LE4P) |
-| 2026-10-22 | [PAR: Progress-Aligned Recurrence for Length Generalization in State Tracking](2026-10-22-par.md) | 多转几圈为什么白转 | [B站](https://www.bilibili.com/video/BV1iRn26yETe) |
-| 2026-10-21 | [PremiseCheck: Efficient Fact-Checking of Human and AI Peer Reviews](2026-10-21-premisecheck.md) | 审稿意见说错了谁来查 | [B站](https://www.bilibili.com/video/BV1cunz6AEn5) |
+| 2026-10-23 | [Cache Engineering for Agents](2026-10-23-cache-engineering-for-agents.md) | 文字不用删缓存自己管 | [YouTube 中文](https://youtu.be/D0reMHcEYUY) · [YouTube English](https://youtu.be/cD9A1eIAzvM) · [B站](https://www.bilibili.com/video/BV1Uent6LE4P) |
+| 2026-10-22 | [PAR: Progress-Aligned Recurrence for Length Generalization in State Tracking](2026-10-22-par.md) | 多转几圈为什么白转 | [YouTube 中文](https://youtu.be/AjBkF1v08N4) · [YouTube English](https://youtu.be/FXtYXvpRv-g) · [B站](https://www.bilibili.com/video/BV1iRn26yETe) |
+| 2026-10-21 | [PremiseCheck: Efficient Fact-Checking of Human and AI Peer Reviews](2026-10-21-premisecheck.md) | 审稿意见说错了谁来查 | [YouTube 中文](https://youtu.be/KACgr2kNX4E) · [YouTube English](https://youtu.be/86ElQsicrR0) · [B站](https://www.bilibili.com/video/BV1cunz6AEn5) |
 | 2026-10-20 | [LEV: Thinking Fast and Deep with Looped Decision Models](2026-10-20-lev.md) | 难题多想几遍但不写一个字 | [YouTube 中文](https://youtu.be/1bXm4kRC5Yo) · [YouTube English](https://youtu.be/5KIf_C2AWCE) · [B站](https://www.bilibili.com/video/BV1t4nc6KEUS) |
 | 2026-10-19 | [Pack Light, CarryOn: Building Object-Oriented Context for Long-Horizon Agents](2026-10-19-pack-light-carryon.md) | Agent别再反复读历史 | [YouTube 中文](https://youtu.be/s0fh4hiE0Pg) · [YouTube English](https://youtu.be/r4pLa0oz4jQ) · [B站](https://www.bilibili.com/video/BV1PAJd67E9F) |
 | 2026-10-18 | [Virtual Head Attention](2026-10-18-virtual-head-attention.md) | KV缓存砍到四分之一质量还略有提升 | [YouTube 中文](https://youtu.be/oP41R39kpes) · [YouTube English](https://youtu.be/YabY6Swwta0) · [B站](https://www.bilibili.com/video/BV1Yvn366EbA) |

@@ -6,7 +6,7 @@
 - 单位 Affiliation: 北卡罗来纳大学教堂山分校 · 微软研究院等
 - 方向 Direction: Agent
 - 讲解日期 Covered: 2026-10-22
-- 视频 Videos: [B站](https://www.bilibili.com/video/BV118nd6QE4Y)
+- 视频 Videos: [YouTube 中文](https://youtu.be/H7Ro_VdKS0U) · [YouTube English](https://youtu.be/fshRf4D8Uuk) · [B站](https://www.bilibili.com/video/BV118nd6QE4Y)
 
 ## 中文讲解
 

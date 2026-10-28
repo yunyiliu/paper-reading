@@ -6,7 +6,7 @@
 - 单位 Affiliation: 小米 · Xiaoai Plus、SeerRay 团队
 - 方向 Direction: CV
 - 讲解日期 Covered: 2026-10-21
-- 视频 Videos: [B站](https://www.bilibili.com/video/BV1runz6wEL4)
+- 视频 Videos: [YouTube 中文](https://youtu.be/G3MQPjTAt2c) · [YouTube English](https://youtu.be/rSnMzHyD81A) · [B站](https://www.bilibili.com/video/BV1runz6wEL4)
 
 ## 中文讲解
 

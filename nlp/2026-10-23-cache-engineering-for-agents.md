@@ -6,7 +6,7 @@
 - 单位 Affiliation: 清华大学 · 香港中文大学
 - 方向 Direction: NLP
 - 讲解日期 Covered: 2026-10-23
-- 视频 Videos: [B站](https://www.bilibili.com/video/BV1Uent6LE4P)
+- 视频 Videos: [YouTube 中文](https://youtu.be/D0reMHcEYUY) · [YouTube English](https://youtu.be/cD9A1eIAzvM) · [B站](https://www.bilibili.com/video/BV1Uent6LE4P)
 
 ## 中文讲解
 

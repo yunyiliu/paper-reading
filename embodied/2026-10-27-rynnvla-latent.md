@@ -6,7 +6,7 @@
 - 单位 Affiliation: 阿里巴巴达摩院等
 - 方向 Direction: 具身智能 / Embodied AI
 - 讲解日期 Covered: 2026-10-27
-- 视频 Videos: [YouTube 中文](https://youtu.be/Q4sBEQkSKLQ) · B站（审核中）
+- 视频 Videos: [YouTube 中文](https://youtu.be/Q4sBEQkSKLQ) · [YouTube English](https://youtu.be/aRYEbTWYpLo) · [B站](https://www.bilibili.com/video/BV1DPxG6EEut)
 
 ## 中文讲解
 

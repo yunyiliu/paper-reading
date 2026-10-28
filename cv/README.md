@@ -2,13 +2,13 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
-| 2026-10-27 | [DirCast: Live Esports Directing and Commentary with a Single Streaming Video-Language Model](2026-10-27-dircast.md) | 一个模型又导播又解说 | [YouTube 中文](https://youtu.be/9S3dHnmDemU) |
+| 2026-10-27 | [DirCast: Live Esports Directing and Commentary with a Single Streaming Video-Language Model](2026-10-27-dircast.md) | 一个模型又导播又解说 | [YouTube 中文](https://youtu.be/9S3dHnmDemU) · [YouTube English](https://youtu.be/w03kjCUPLhQ) · [B站](https://www.bilibili.com/video/BV1SNxG6mEna) |
 | 2026-10-26 | [Generalized CycleGRPO for Fine-Grained Multimodal Understanding and Grounding](2026-10-26-generalized-cyclegrpo-for-fine-grained-m.md) | 描述得好不好找回来就知道 | [YouTube 中文](https://youtu.be/54DH3usC-DE) · [YouTube English](https://youtu.be/kcgscFSI0gU) · [B站](https://www.bilibili.com/video/BV1Rgnd6vEy8) |
 | 2026-10-25 | [Editing Images into Reusable Layers via Compositional Edit-Prior Distillation](2026-10-25-editing-images-into-reusable-layers-via-.md) | 改完一张图图层也拆好了 | [B站](https://www.bilibili.com/video/BV1NxH56ME4d) |
 | 2026-10-24 | [WeVisOne-VL: Unified Visual Perception from Objects to Pixels](2026-10-24-wevisone-vl.md) | 会找会数还会说没有 | [B站](https://www.bilibili.com/video/BV122HK6DECw) |
-| 2026-10-23 | [Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game Worlds](2026-10-23-matrix-game-4-0.md) | 代码管规则视频模型画每一帧 | [B站](https://www.bilibili.com/video/BV1bent6jEzE) |
-| 2026-10-22 | [Looking Ahead: Modeling Future Evolution in Autoregressive Video Generation](2026-10-22-looking-ahead.md) | 逼视频模型学会往前看 | [B站](https://www.bilibili.com/video/BV1dRn26CELW) |
-| 2026-10-21 | [Xiaomi-Lens-0 Technical Report](2026-10-21-xiaomi-lens-0-technical-report.md) | 让模型自己画轮廓看图更细了 | [B站](https://www.bilibili.com/video/BV1runz6wEL4) |
+| 2026-10-23 | [Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game Worlds](2026-10-23-matrix-game-4-0.md) | 代码管规则视频模型画每一帧 | [YouTube 中文](https://youtu.be/XPHsHrosJgI) · [YouTube English](https://youtu.be/w-LKyVDZz10) · [B站](https://www.bilibili.com/video/BV1bent6jEzE) |
+| 2026-10-22 | [Looking Ahead: Modeling Future Evolution in Autoregressive Video Generation](2026-10-22-looking-ahead.md) | 逼视频模型学会往前看 | [YouTube 中文](https://youtu.be/7l9Fl9ZKBHg) · [YouTube English](https://youtu.be/YEtLMbvlL0g) · [B站](https://www.bilibili.com/video/BV1dRn26CELW) |
+| 2026-10-21 | [Xiaomi-Lens-0 Technical Report](2026-10-21-xiaomi-lens-0-technical-report.md) | 让模型自己画轮廓看图更细了 | [YouTube 中文](https://youtu.be/G3MQPjTAt2c) · [YouTube English](https://youtu.be/rSnMzHyD81A) · [B站](https://www.bilibili.com/video/BV1runz6wEL4) |
 | 2026-10-20 | [Speculative Sampling in Interactive Video Generation](2026-10-20-speculative-sampling-in-interactive-vide.md) | 改指令不用等整块播完 | [YouTube 中文](https://youtu.be/5fn3oLl9CVU) · [YouTube English](https://youtu.be/mr5Eod_bN6E) · [B站](https://www.bilibili.com/video/BV1m4nc6KEde) |
 | 2026-10-19 | [Learning to Think and Explore in 3D World](2026-10-19-learning-to-think-and-explore-in-3d-worl.md) | 只给一张图让模型自己去看 | [YouTube 中文](https://youtu.be/JYerM0_V_To) · [YouTube English](https://youtu.be/IKpnq17sqa8) · [B站](https://www.bilibili.com/video/BV1sAJd67E98) |
 | 2026-10-18 | [Speculative Forcing for Efficient Autoregressive Video Generation](2026-10-18-speculative-forcing-for-efficient-autore.md) | 画面每一块不必算满步数 | [YouTube 中文](https://youtu.be/8XdmQb-twkM) · [YouTube English](https://youtu.be/_XzByiXY1a8) · [B站](https://www.bilibili.com/video/BV1Yvn366EBr) |
