@@ -6,7 +6,7 @@
 - 单位 Affiliation: Inclusion AI · 西湖大学 · 清华大学 等
 - 方向 Direction: CV
 - 讲解日期 Covered: 2026-10-30
-- 视频 Videos: [YouTube 中文](https://youtu.be/i-acSbKayrk) · [B站](https://www.bilibili.com/video/BV1snxq6yEp3)
+- 视频 Videos: [YouTube 中文](https://youtu.be/i-acSbKayrk) · [YouTube English](https://youtu.be/NhkUrwCy2P8) · [B站](https://www.bilibili.com/video/BV1snxq6yEp3)
 
 ## 中文讲解
 

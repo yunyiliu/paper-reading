@@ -6,7 +6,7 @@
 - 单位 Affiliation: KAIST、卡内基梅隆大学
 - 方向 Direction: NLP
 - 讲解日期 Covered: 2026-10-27
-- 视频 Videos: [YouTube 中文](https://youtu.be/gf-80QxSbV0) · [B站](https://www.bilibili.com/video/BV1SPxG6EEZ6)
+- 视频 Videos: [YouTube 中文](https://youtu.be/gf-80QxSbV0) · [YouTube English](https://youtu.be/QIQYAozkB54) · [B站](https://www.bilibili.com/video/BV1SPxG6EEZ6)
 
 ## 中文讲解
 
