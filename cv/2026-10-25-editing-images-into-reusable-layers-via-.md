@@ -6,7 +6,7 @@
 - 单位 Affiliation: 华南理工大学、清华大学、京东等
 - 方向 Direction: CV
 - 讲解日期 Covered: 2026-10-25
-- 视频 Videos: [B站](https://www.bilibili.com/video/BV1NxH56ME4d)
+- 视频 Videos: [YouTube 中文](https://youtu.be/QYZEW3liCOk) · [YouTube English](https://youtu.be/5ItBEnlzV6A) · [B站](https://www.bilibili.com/video/BV1NxH56ME4d)
 
 ## 中文讲解
 

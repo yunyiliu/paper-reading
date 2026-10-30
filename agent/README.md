@@ -2,10 +2,12 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-10-30 | [h1: A Taste of the Bitter Lesson in Automated Theorem Proving](2026-10-30-h1.md) | 简单循环常能追平复杂流程 | [YouTube 中文](https://youtu.be/UDwm6ep556w) |
+| 2026-10-29 | [Multiscale Policy Optimization for Long-Horizon LLM Agents](2026-10-29-multiscale-policy-optimization-for-long-.md) | 最后一个分数该算在谁头上 | [YouTube 中文](https://youtu.be/VWz0WpGVfiI) · [YouTube English](https://youtu.be/uGS2IQsmpc0) · [B站](https://www.bilibili.com/video/BV1wTxP6LEKV) |
 | 2026-10-27 | [Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents](2026-10-27-trajectory2gym.md) | 成功的轨迹不一定值得学 | [YouTube 中文](https://youtu.be/FIhU3LAgE9Q) · [YouTube English](https://youtu.be/nqUf17e10-Y) · [B站](https://www.bilibili.com/video/BV1SNxG6mEHB) |
 | 2026-10-26 | [HiSTEVE 1.0: Harnessing Human-Interface VLA Agents for Open-World Games](2026-10-26-histeve-1-0.md) | 同一个执行器长任务翻一倍 | [YouTube 中文](https://youtu.be/hb5Ixp2aWyw) · [YouTube English](https://youtu.be/fYHXbfqPOFY) · [B站](https://www.bilibili.com/video/BV1Rgnd6vEfB) |
-| 2026-10-25 | [Deep Search in Real-World Web Environments](2026-10-25-deep-search-in-real-world-web-environmen.md) | 最强模型也只答对39% | [B站](https://www.bilibili.com/video/BV1Kbnd6WE9e) |
-| 2026-10-24 | [Right Screen, Wrong Transition: World Models as Verifiers for GUI Agents](2026-10-24-right-screen-wrong-transition.md) | 画面没问题跳转有问题 | [YouTube 中文](https://youtu.be/xGwfIoP5gkE) · [B站](https://www.bilibili.com/video/BV11bnd6pEfH) |
+| 2026-10-25 | [Deep Search in Real-World Web Environments](2026-10-25-deep-search-in-real-world-web-environmen.md) | 最强模型也只答对39% | [YouTube 中文](https://youtu.be/_4RzDi0E5i4) · [B站](https://www.bilibili.com/video/BV1Kbnd6WE9e) |
+| 2026-10-24 | [Right Screen, Wrong Transition: World Models as Verifiers for GUI Agents](2026-10-24-right-screen-wrong-transition.md) | 画面没问题跳转有问题 | [YouTube 中文](https://youtu.be/xGwfIoP5gkE) · [YouTube English](https://youtu.be/mcUnMLsvcaE) · [B站](https://www.bilibili.com/video/BV11bnd6pEfH) |
 | 2026-10-23 | [Evolving Agent Interfaces](2026-10-23-evolving-agent-interfaces.md) | 接口不再靠人Agent自己进化 | [YouTube 中文](https://youtu.be/JH6e1_2HcJw) · [YouTube English](https://youtu.be/r_aEEoDJJYE) · [B站](https://www.bilibili.com/video/BV14bnd6WEBU) |
 | 2026-10-22 | [Agent World Model in the Wild: Computer-Use Agent Environment Synthesis](2026-10-22-agent-world-model-in-the-wild.md) | 开源模型自己造电脑练Agent | [YouTube 中文](https://youtu.be/H7Ro_VdKS0U) · [YouTube English](https://youtu.be/fshRf4D8Uuk) · [B站](https://www.bilibili.com/video/BV118nd6QE4Y) |
 | 2026-10-21 | [S-Agent 2.0: Spatial Reasoning with a General Coding Agent](2026-10-21-s-agent-2-0.md) | 现成编程Agent空间推理超专用系统 | [YouTube 中文](https://youtu.be/PRs8SyP_etU) · [YouTube English](https://youtu.be/ZZ0nlZelB0M) · [B站](https://www.bilibili.com/video/BV128nd6XEVF) |

@@ -2,10 +2,12 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-10-30 | [Intrinsic Distribution Matching](2026-10-30-intrinsic-distribution-matching.md) | 两步出图也要把字写对 | [YouTube 中文](https://youtu.be/i-acSbKayrk) · [B站](https://www.bilibili.com/video/BV1snxq6yEp3) |
+| 2026-10-29 | [Hy-Nomas: Towards Free-form Interactive World Generation](2026-10-29-hy-nomas.md) | 打字按键盘视频世界接着演 | [YouTube 中文](https://youtu.be/OCZHfwXmL2k) · [B站](https://www.bilibili.com/video/BV1nTxP6LEXj) |
 | 2026-10-27 | [DirCast: Live Esports Directing and Commentary with a Single Streaming Video-Language Model](2026-10-27-dircast.md) | 一个模型又导播又解说 | [YouTube 中文](https://youtu.be/9S3dHnmDemU) · [YouTube English](https://youtu.be/w03kjCUPLhQ) · [B站](https://www.bilibili.com/video/BV1SNxG6mEna) |
 | 2026-10-26 | [Generalized CycleGRPO for Fine-Grained Multimodal Understanding and Grounding](2026-10-26-generalized-cyclegrpo-for-fine-grained-m.md) | 描述得好不好找回来就知道 | [YouTube 中文](https://youtu.be/54DH3usC-DE) · [YouTube English](https://youtu.be/kcgscFSI0gU) · [B站](https://www.bilibili.com/video/BV1Rgnd6vEy8) |
-| 2026-10-25 | [Editing Images into Reusable Layers via Compositional Edit-Prior Distillation](2026-10-25-editing-images-into-reusable-layers-via-.md) | 改完一张图图层也拆好了 | [B站](https://www.bilibili.com/video/BV1NxH56ME4d) |
-| 2026-10-24 | [WeVisOne-VL: Unified Visual Perception from Objects to Pixels](2026-10-24-wevisone-vl.md) | 会找会数还会说没有 | [B站](https://www.bilibili.com/video/BV122HK6DECw) |
+| 2026-10-25 | [Editing Images into Reusable Layers via Compositional Edit-Prior Distillation](2026-10-25-editing-images-into-reusable-layers-via-.md) | 改完一张图图层也拆好了 | [YouTube 中文](https://youtu.be/QYZEW3liCOk) · [YouTube English](https://youtu.be/5ItBEnlzV6A) · [B站](https://www.bilibili.com/video/BV1NxH56ME4d) |
+| 2026-10-24 | [WeVisOne-VL: Unified Visual Perception from Objects to Pixels](2026-10-24-wevisone-vl.md) | 会找会数还会说没有 | [YouTube 中文](https://youtu.be/7JefVNuVqpQ) · [YouTube English](https://youtu.be/eaHd6GokK0E) · [B站](https://www.bilibili.com/video/BV122HK6DECw) |
 | 2026-10-23 | [Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game Worlds](2026-10-23-matrix-game-4-0.md) | 代码管规则视频模型画每一帧 | [YouTube 中文](https://youtu.be/XPHsHrosJgI) · [YouTube English](https://youtu.be/w-LKyVDZz10) · [B站](https://www.bilibili.com/video/BV1bent6jEzE) |
 | 2026-10-22 | [Looking Ahead: Modeling Future Evolution in Autoregressive Video Generation](2026-10-22-looking-ahead.md) | 逼视频模型学会往前看 | [YouTube 中文](https://youtu.be/7l9Fl9ZKBHg) · [YouTube English](https://youtu.be/YEtLMbvlL0g) · [B站](https://www.bilibili.com/video/BV1dRn26CELW) |
 | 2026-10-21 | [Xiaomi-Lens-0 Technical Report](2026-10-21-xiaomi-lens-0-technical-report.md) | 让模型自己画轮廓看图更细了 | [YouTube 中文](https://youtu.be/G3MQPjTAt2c) · [YouTube English](https://youtu.be/rSnMzHyD81A) · [B站](https://www.bilibili.com/video/BV1runz6wEL4) |

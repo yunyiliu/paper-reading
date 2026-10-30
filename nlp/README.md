@@ -2,10 +2,12 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-10-30 | [What Effort Level Should I Choose? On the Economics of Reasoning Effort in LLM Agents](2026-10-30-what-effort-level-should-i-choose-on-the.md) | 推理档位开最高未必更好 | [YouTube 中文](https://youtu.be/_0vlhtpeWok) · [B站](https://www.bilibili.com/video/BV1ynxq6yErK) |
+| 2026-10-29 | [DTCA: Denoising Token Credit Assignment for Reinforcement Learning in Diffusion Language Models](2026-10-29-dtca.md) | 一个奖励该算谁的功劳 | [YouTube 中文](https://youtu.be/WxFPanTSgjM) · [B站](https://www.bilibili.com/video/BV1cTxP6LE1J) |
 | 2026-10-27 | [Eat Your Precision: Precision Objective Mitigates Reward Hacking in Rubric-based RL](2026-10-27-eat-your-precision.md) | 奖励只看召回模型就学会注水 | [YouTube 中文](https://youtu.be/gf-80QxSbV0) · [B站](https://www.bilibili.com/video/BV1SPxG6EEZ6) |
 | 2026-10-26 | [On-Policy Self-Training: Data-Free Self-Improvement in Large Language Models](2026-10-26-on-policy-self-training.md) | 不给题也不给答案模型自己变强 | [YouTube 中文](https://youtu.be/zxD0o1f47_I) · [YouTube English](https://youtu.be/8aWKOWYDyn0) · [B站](https://www.bilibili.com/video/BV1Rgnd6vEkW) |
-| 2026-10-25 | [Deep Fusion Memory: A Chunk-Level Parametric Memory for Large Language Models](2026-10-25-deep-fusion-memory.md) | 不检索也能用上知识库 | [B站](https://www.bilibili.com/video/BV1jkH564EsN) |
-| 2026-10-24 | [Retrieval Augmented Generation Compositionality](2026-10-24-retrieval-augmented-generation-compositi.md) | RAG技巧叠加为何打了折 | [B站](https://www.bilibili.com/video/BV122HK6DEov) |
+| 2026-10-25 | [Deep Fusion Memory: A Chunk-Level Parametric Memory for Large Language Models](2026-10-25-deep-fusion-memory.md) | 不检索也能用上知识库 | [YouTube 中文](https://youtu.be/5EeWMPYKikQ) · [YouTube English](https://youtu.be/avfRzgPy698) · [B站](https://www.bilibili.com/video/BV1jkH564EsN) |
+| 2026-10-24 | [Retrieval Augmented Generation Compositionality](2026-10-24-retrieval-augmented-generation-compositi.md) | RAG技巧叠加为何打了折 | [YouTube 中文](https://youtu.be/I9X8OGI5oqY) · [B站](https://www.bilibili.com/video/BV122HK6DEov) |
 | 2026-10-23 | [Cache Engineering for Agents](2026-10-23-cache-engineering-for-agents.md) | 文字不用删缓存自己管 | [YouTube 中文](https://youtu.be/D0reMHcEYUY) · [YouTube English](https://youtu.be/cD9A1eIAzvM) · [B站](https://www.bilibili.com/video/BV1Uent6LE4P) |
 | 2026-10-22 | [PAR: Progress-Aligned Recurrence for Length Generalization in State Tracking](2026-10-22-par.md) | 多转几圈为什么白转 | [YouTube 中文](https://youtu.be/AjBkF1v08N4) · [YouTube English](https://youtu.be/FXtYXvpRv-g) · [B站](https://www.bilibili.com/video/BV1iRn26yETe) |
 | 2026-10-21 | [PremiseCheck: Efficient Fact-Checking of Human and AI Peer Reviews](2026-10-21-premisecheck.md) | 审稿意见说错了谁来查 | [YouTube 中文](https://youtu.be/KACgr2kNX4E) · [YouTube English](https://youtu.be/86ElQsicrR0) · [B站](https://www.bilibili.com/video/BV1cunz6AEn5) |
