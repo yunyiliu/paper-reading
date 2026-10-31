@@ -6,7 +6,7 @@
 - 单位 Affiliation: 约翰斯·霍普金斯大学 · Together AI · 康奈尔大学
 - 方向 Direction: NLP
 - 讲解日期 Covered: 2026-10-30
-- 视频 Videos: [YouTube 中文](https://youtu.be/_0vlhtpeWok) · [B站](https://www.bilibili.com/video/BV1ynxq6yErK)
+- 视频 Videos: [YouTube 中文](https://youtu.be/_0vlhtpeWok) · [YouTube English](https://youtu.be/P8yT3IhhAkc) · [B站](https://www.bilibili.com/video/BV1ynxq6yErK)
 
 ## 中文讲解
 

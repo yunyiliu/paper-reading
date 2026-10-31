@@ -2,6 +2,7 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-10-31 | [Look Only When Needed: Certificate-Guided Visual Routing for Efficient Diffusion VLMs](2026-10-31-look-only-when-needed.md) | 多数步骤模型不用看图 | [YouTube 中文](https://youtu.be/DHTL3Wn2-8o) · [YouTube English](https://youtu.be/qO8hVk2Mj6E) · [B站](https://www.bilibili.com/video/BV1JcxC6QE5G) |
 | 2026-10-30 | [Intrinsic Distribution Matching](2026-10-30-intrinsic-distribution-matching.md) | 两步出图也要把字写对 | [YouTube 中文](https://youtu.be/i-acSbKayrk) · [YouTube English](https://youtu.be/NhkUrwCy2P8) · [B站](https://www.bilibili.com/video/BV1snxq6yEp3) |
 | 2026-10-29 | [Hy-Nomas: Towards Free-form Interactive World Generation](2026-10-29-hy-nomas.md) | 打字按键盘视频世界接着演 | [YouTube 中文](https://youtu.be/OCZHfwXmL2k) · [YouTube English](https://youtu.be/HPRjwoHkSWc) · [B站](https://www.bilibili.com/video/BV1nTxP6LEXj) |
 | 2026-10-27 | [DirCast: Live Esports Directing and Commentary with a Single Streaming Video-Language Model](2026-10-27-dircast.md) | 一个模型又导播又解说 | [YouTube 中文](https://youtu.be/9S3dHnmDemU) · [YouTube English](https://youtu.be/w03kjCUPLhQ) · [B站](https://www.bilibili.com/video/BV1SNxG6mEna) |

@@ -2,7 +2,8 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
-| 2026-10-30 | [PDRVLA: A Vision–Language–Action Model with Physical Dynamics Representations](2026-10-30-pdrvla.md) | 动手之前先想物理变化 | [YouTube 中文](https://youtu.be/phImP6ykHOs) · [B站](https://www.bilibili.com/video/BV1Wnxq6yEXx) |
+| 2026-10-31 | [Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success](2026-10-31-sensorimotor-alignment.md) | 不跑机器人先猜成功率 | [YouTube 中文](https://youtu.be/YEh5-MlIoYw) · [YouTube English](https://youtu.be/hcoYwpV2GWA) · [B站](https://www.bilibili.com/video/BV1EcxC6QEDB) |
+| 2026-10-30 | [PDRVLA: A Vision–Language–Action Model with Physical Dynamics Representations](2026-10-30-pdrvla.md) | 动手之前先想物理变化 | [YouTube 中文](https://youtu.be/phImP6ykHOs) · [YouTube English](https://youtu.be/Q0BbLGIbv4A) · [B站](https://www.bilibili.com/video/BV1Wnxq6yEXx) |
 | 2026-10-29 | [Rollback: Experience Backtracking in World Models for Policy Improvement](2026-10-29-rollback.md) | 让机器人读档重来 | [YouTube 中文](https://youtu.be/Lud6Z1DI0w4) · [YouTube English](https://youtu.be/2LIP5i1PLlQ) · [B站](https://www.bilibili.com/video/BV1rNxP61EzR) |
 | 2026-10-27 | [RynnVLA-Latent: Scaling Robotic Manipulation Foundation Models with 3D-Grounded Latent Actions](2026-10-27-rynnvla-latent.md) | 人类视频也能教机器人 | [YouTube 中文](https://youtu.be/Q4sBEQkSKLQ) · [YouTube English](https://youtu.be/aRYEbTWYpLo) · [B站](https://www.bilibili.com/video/BV1DPxG6EEut) |
 | 2026-10-26 | [Echo: Coupled Action and Task Status Signal Denoising for Vision Language Action Models](2026-10-26-echo.md) | 让机器人知道自己做砸了 | [YouTube 中文](https://youtu.be/PGgP8qspz1U) · [YouTube English](https://youtu.be/OH9Z3Y6LDms) · [B站](https://www.bilibili.com/video/BV1XLnd6wEDZ) |

@@ -2,7 +2,8 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
-| 2026-10-30 | [What Effort Level Should I Choose? On the Economics of Reasoning Effort in LLM Agents](2026-10-30-what-effort-level-should-i-choose-on-the.md) | 推理档位开最高未必更好 | [YouTube 中文](https://youtu.be/_0vlhtpeWok) · [B站](https://www.bilibili.com/video/BV1ynxq6yErK) |
+| 2026-10-31 | [Your Benchmark Is an Empirical Measure Over Difficulty](2026-10-31-your-benchmark-is-an-empirical-measure-o.md) | 评测分数不动不代表没进步 | [YouTube 中文](https://youtu.be/5gxWuAqPpQQ) · [YouTube English](https://youtu.be/C4IaguexS2I) · [B站](https://www.bilibili.com/video/BV1EcxC6QEDb) |
+| 2026-10-30 | [What Effort Level Should I Choose? On the Economics of Reasoning Effort in LLM Agents](2026-10-30-what-effort-level-should-i-choose-on-the.md) | 推理档位开最高未必更好 | [YouTube 中文](https://youtu.be/_0vlhtpeWok) · [YouTube English](https://youtu.be/P8yT3IhhAkc) · [B站](https://www.bilibili.com/video/BV1ynxq6yErK) |
 | 2026-10-29 | [DTCA: Denoising Token Credit Assignment for Reinforcement Learning in Diffusion Language Models](2026-10-29-dtca.md) | 一个奖励该算谁的功劳 | [YouTube 中文](https://youtu.be/WxFPanTSgjM) · [YouTube English](https://youtu.be/GYqTSprLtBM) · [B站](https://www.bilibili.com/video/BV1cTxP6LE1J) |
 | 2026-10-27 | [Eat Your Precision: Precision Objective Mitigates Reward Hacking in Rubric-based RL](2026-10-27-eat-your-precision.md) | 奖励只看召回模型就学会注水 | [YouTube 中文](https://youtu.be/gf-80QxSbV0) · [YouTube English](https://youtu.be/QIQYAozkB54) · [B站](https://www.bilibili.com/video/BV1SPxG6EEZ6) |
 | 2026-10-26 | [On-Policy Self-Training: Data-Free Self-Improvement in Large Language Models](2026-10-26-on-policy-self-training.md) | 不给题也不给答案模型自己变强 | [YouTube 中文](https://youtu.be/zxD0o1f47_I) · [YouTube English](https://youtu.be/8aWKOWYDyn0) · [B站](https://www.bilibili.com/video/BV1Rgnd6vEkW) |
