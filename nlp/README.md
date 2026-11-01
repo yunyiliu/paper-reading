@@ -2,6 +2,7 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-01 | [Proving and Improving the Platonic Representation Hypothesis with JEPAs](2026-11-01-proving-and-improving-the-platonic-repre.md) | 图文对齐不只靠规模更要选对正样本 | [YouTube 中文](https://youtu.be/ZLYAVt_KOwU) · [YouTube English](https://youtu.be/7__pB138PX0) · [B站](https://www.bilibili.com/video/BV1BRx466Etq) |
 | 2026-10-31 | [Your Benchmark Is an Empirical Measure Over Difficulty](2026-10-31-your-benchmark-is-an-empirical-measure-o.md) | 评测分数不动不代表没进步 | [YouTube 中文](https://youtu.be/5gxWuAqPpQQ) · [YouTube English](https://youtu.be/C4IaguexS2I) · [B站](https://www.bilibili.com/video/BV1EcxC6QEDb) |
 | 2026-10-30 | [What Effort Level Should I Choose? On the Economics of Reasoning Effort in LLM Agents](2026-10-30-what-effort-level-should-i-choose-on-the.md) | 推理档位开最高未必更好 | [YouTube 中文](https://youtu.be/_0vlhtpeWok) · [YouTube English](https://youtu.be/P8yT3IhhAkc) · [B站](https://www.bilibili.com/video/BV1ynxq6yErK) |
 | 2026-10-29 | [DTCA: Denoising Token Credit Assignment for Reinforcement Learning in Diffusion Language Models](2026-10-29-dtca.md) | 一个奖励该算谁的功劳 | [YouTube 中文](https://youtu.be/WxFPanTSgjM) · [YouTube English](https://youtu.be/GYqTSprLtBM) · [B站](https://www.bilibili.com/video/BV1cTxP6LE1J) |

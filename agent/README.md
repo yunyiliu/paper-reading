@@ -2,6 +2,7 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-01 | [WeVisCut: The Whole Editing Room in One Agent From Narration to Long-Form Video](2026-11-01-weviscut.md) | 9B小模型独立剪完长视频 | [YouTube 中文](https://youtu.be/VEVwhQ7TSx4) · [YouTube English](https://youtu.be/Pnc4GiFpziE) · [B站](https://www.bilibili.com/video/BV1cDx465EqY) |
 | 2026-10-31 | [WorkFactory: Turning Professional Intents into Executable Work for Scalable Agent Training](2026-10-31-workfactory.md) | 先理清信息再造训练任务 | [YouTube 中文](https://youtu.be/gGO4eqaVmW4) · [YouTube English](https://youtu.be/xhCzIX_k-c4) · [B站](https://www.bilibili.com/video/BV1BAxC6nEUj) |
 | 2026-10-30 | [h1: A Taste of the Bitter Lesson in Automated Theorem Proving](2026-10-30-h1.md) | 简单循环常能追平复杂流程 | [YouTube 中文](https://youtu.be/UDwm6ep556w) · [YouTube English](https://youtu.be/RpbRhbVK1vA) · [B站](https://www.bilibili.com/video/BV1SQxq6pEw2) |
 | 2026-10-29 | [Multiscale Policy Optimization for Long-Horizon LLM Agents](2026-10-29-multiscale-policy-optimization-for-long-.md) | 最后一个分数该算在谁头上 | [YouTube 中文](https://youtu.be/VWz0WpGVfiI) · [YouTube English](https://youtu.be/uGS2IQsmpc0) · [B站](https://www.bilibili.com/video/BV1wTxP6LEKV) |
