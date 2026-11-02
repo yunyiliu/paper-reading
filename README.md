@@ -10,6 +10,7 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-02 | [R2Orch: Recursive Self-Improvement for Agent Orchestration via Self-Play within a Skill-Internalization Loop](agent/2026-11-02-r2orch.md) | 自己挑题自己练最后不带技能 | [YouTube 中文](https://youtu.be/EM7LDz0q8Uc) · [YouTube English](https://youtu.be/hYf7tlDomXg) · [B站](https://www.bilibili.com/video/BV1L14w6eEKz) |
 | 2026-11-01 | [WeVisCut: The Whole Editing Room in One Agent From Narration to Long-Form Video](agent/2026-11-01-weviscut.md) | 9B小模型独立剪完长视频 | [YouTube 中文](https://youtu.be/VEVwhQ7TSx4) · [YouTube English](https://youtu.be/Pnc4GiFpziE) · [B站](https://www.bilibili.com/video/BV1cDx465EqY) |
 | 2026-10-31 | [WorkFactory: Turning Professional Intents into Executable Work for Scalable Agent Training](agent/2026-10-31-workfactory.md) | 先理清信息再造训练任务 | [YouTube 中文](https://youtu.be/gGO4eqaVmW4) · [YouTube English](https://youtu.be/xhCzIX_k-c4) · [B站](https://www.bilibili.com/video/BV1BAxC6nEUj) |
 | 2026-10-30 | [h1: A Taste of the Bitter Lesson in Automated Theorem Proving](agent/2026-10-30-h1.md) | 简单循环常能追平复杂流程 | [YouTube 中文](https://youtu.be/UDwm6ep556w) · [YouTube English](https://youtu.be/RpbRhbVK1vA) · [B站](https://www.bilibili.com/video/BV1SQxq6pEw2) |
@@ -31,6 +32,7 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-02 | [ReLift: Dense 3D Tracking as Lifted Trajectory Repair](cv/2026-11-02-relift.md) | 2D跟踪加深度再学会修轨迹 | [YouTube 中文](https://youtu.be/ApCjSampvHc) · [YouTube English](https://youtu.be/rDnUGyIZIy8) · [B站](https://www.bilibili.com/video/BV1514w6eEXL) |
 | 2026-11-01 | [L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory](cv/2026-11-01-l3g-world.md) | 走远再回来世界还是原样 | [YouTube 中文](https://youtu.be/jqmDQZzQ1es) · [YouTube English](https://youtu.be/Wd4f9bQi5RU) · [B站](https://www.bilibili.com/video/BV1cDx465EM2) |
 | 2026-10-31 | [Look Only When Needed: Certificate-Guided Visual Routing for Efficient Diffusion VLMs](cv/2026-10-31-look-only-when-needed.md) | 多数步骤模型不用看图 | [YouTube 中文](https://youtu.be/DHTL3Wn2-8o) · [YouTube English](https://youtu.be/qO8hVk2Mj6E) · [B站](https://www.bilibili.com/video/BV1JcxC6QE5G) |
 | 2026-10-30 | [Intrinsic Distribution Matching](cv/2026-10-30-intrinsic-distribution-matching.md) | 两步出图也要把字写对 | [YouTube 中文](https://youtu.be/i-acSbKayrk) · [YouTube English](https://youtu.be/NhkUrwCy2P8) · [B站](https://www.bilibili.com/video/BV1snxq6yEp3) |
@@ -51,6 +53,7 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-02 | [Apriel Voice 27B Preview: An Open Model for Speech, Reasoning, and Tool Use](nlp/2026-11-02-apriel-voice-27b-preview.md) | 给大模型装上耳朵和双手 | [YouTube 中文](https://youtu.be/q1m8McxWodw) · [YouTube English](https://youtu.be/cHS4KCcpBGM) · [B站](https://www.bilibili.com/video/BV1514w6eEW4) |
 | 2026-11-01 | [Proving and Improving the Platonic Representation Hypothesis with JEPAs](nlp/2026-11-01-proving-and-improving-the-platonic-repre.md) | 图文对齐不只靠规模更要选对正样本 | [YouTube 中文](https://youtu.be/ZLYAVt_KOwU) · [YouTube English](https://youtu.be/7__pB138PX0) · [B站](https://www.bilibili.com/video/BV1BRx466Etq) |
 | 2026-10-31 | [Your Benchmark Is an Empirical Measure Over Difficulty](nlp/2026-10-31-your-benchmark-is-an-empirical-measure-o.md) | 评测分数不动不代表没进步 | [YouTube 中文](https://youtu.be/5gxWuAqPpQQ) · [YouTube English](https://youtu.be/C4IaguexS2I) · [B站](https://www.bilibili.com/video/BV1EcxC6QEDb) |
 | 2026-10-30 | [What Effort Level Should I Choose? On the Economics of Reasoning Effort in LLM Agents](nlp/2026-10-30-what-effort-level-should-i-choose-on-the.md) | 推理档位开最高未必更好 | [YouTube 中文](https://youtu.be/_0vlhtpeWok) · [YouTube English](https://youtu.be/P8yT3IhhAkc) · [B站](https://www.bilibili.com/video/BV1ynxq6yErK) |
@@ -71,6 +74,7 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-02 | [CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents](embodied/2026-11-02-captain.md) | 4B小模型写代码开机械臂 | [YouTube 中文](https://youtu.be/niFqiXayuq8) · [YouTube English](https://youtu.be/7gz5e9nvOjA) · [B站](https://www.bilibili.com/video/BV1514w6eEyi) |
 | 2026-11-01 | [OpenFlyV2: An onboard vision-language-action model for aerial perception and navigation](embodied/2026-11-01-openflyv2.md) | 10亿参数模型让无人机听话飞 | [YouTube 中文](https://youtu.be/mvIcc-Sk_bA) · [YouTube English](https://youtu.be/v4sBhyolPxw) · [B站](https://www.bilibili.com/video/BV1BRx466E7i) |
 | 2026-10-31 | [Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success](embodied/2026-10-31-sensorimotor-alignment.md) | 不跑机器人先猜成功率 | [YouTube 中文](https://youtu.be/YEh5-MlIoYw) · [YouTube English](https://youtu.be/hcoYwpV2GWA) · [B站](https://www.bilibili.com/video/BV1EcxC6QEDB) |
 | 2026-10-30 | [PDRVLA: A Vision–Language–Action Model with Physical Dynamics Representations](embodied/2026-10-30-pdrvla.md) | 动手之前先想物理变化 | [YouTube 中文](https://youtu.be/phImP6ykHOs) · [YouTube English](https://youtu.be/Q0BbLGIbv4A) · [B站](https://www.bilibili.com/video/BV1Wnxq6yEXx) |

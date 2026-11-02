@@ -2,6 +2,7 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-02 | [ReLift: Dense 3D Tracking as Lifted Trajectory Repair](2026-11-02-relift.md) | 2D跟踪加深度再学会修轨迹 | [YouTube 中文](https://youtu.be/ApCjSampvHc) · [YouTube English](https://youtu.be/rDnUGyIZIy8) · [B站](https://www.bilibili.com/video/BV1514w6eEXL) |
 | 2026-11-01 | [L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory](2026-11-01-l3g-world.md) | 走远再回来世界还是原样 | [YouTube 中文](https://youtu.be/jqmDQZzQ1es) · [YouTube English](https://youtu.be/Wd4f9bQi5RU) · [B站](https://www.bilibili.com/video/BV1cDx465EM2) |
 | 2026-10-31 | [Look Only When Needed: Certificate-Guided Visual Routing for Efficient Diffusion VLMs](2026-10-31-look-only-when-needed.md) | 多数步骤模型不用看图 | [YouTube 中文](https://youtu.be/DHTL3Wn2-8o) · [YouTube English](https://youtu.be/qO8hVk2Mj6E) · [B站](https://www.bilibili.com/video/BV1JcxC6QE5G) |
 | 2026-10-30 | [Intrinsic Distribution Matching](2026-10-30-intrinsic-distribution-matching.md) | 两步出图也要把字写对 | [YouTube 中文](https://youtu.be/i-acSbKayrk) · [YouTube English](https://youtu.be/NhkUrwCy2P8) · [B站](https://www.bilibili.com/video/BV1snxq6yEp3) |
