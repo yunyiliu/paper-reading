@@ -2,6 +2,7 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-03 | [CEPO: A General Framework for Improving Prompt Optimization in Multi-Agent Systems](2026-11-03-cepo.md) | 多Agent协作规则单独写 | [YouTube 中文](https://youtu.be/5VomlOhPanE) · [YouTube English](https://youtu.be/lPUkiOZzheQ) · [B站](https://www.bilibili.com/video/BV1Db4g67Ee6) |
 | 2026-11-02 | [R2Orch: Recursive Self-Improvement for Agent Orchestration via Self-Play within a Skill-Internalization Loop](2026-11-02-r2orch.md) | 自己挑题自己练最后不带技能 | [YouTube 中文](https://youtu.be/EM7LDz0q8Uc) · [YouTube English](https://youtu.be/hYf7tlDomXg) · [B站](https://www.bilibili.com/video/BV1L14w6eEKz) |
 | 2026-11-01 | [WeVisCut: The Whole Editing Room in One Agent From Narration to Long-Form Video](2026-11-01-weviscut.md) | 9B小模型独立剪完长视频 | [YouTube 中文](https://youtu.be/VEVwhQ7TSx4) · [YouTube English](https://youtu.be/Pnc4GiFpziE) · [B站](https://www.bilibili.com/video/BV1cDx465EqY) |
 | 2026-10-31 | [WorkFactory: Turning Professional Intents into Executable Work for Scalable Agent Training](2026-10-31-workfactory.md) | 先理清信息再造训练任务 | [YouTube 中文](https://youtu.be/gGO4eqaVmW4) · [YouTube English](https://youtu.be/xhCzIX_k-c4) · [B站](https://www.bilibili.com/video/BV1BAxC6nEUj) |

@@ -2,6 +2,7 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-03 | [Follow the Gradient: Tracing Safety Degradation Back to Training Data](2026-11-03-follow-the-gradient.md) | 无害的数据也会教坏模型 | [YouTube 中文](https://youtu.be/1KeLxly4TLM) · [YouTube English](https://youtu.be/CbiSxtaXpBc) · [B站](https://www.bilibili.com/video/BV1h44g6UErr) |
 | 2026-11-02 | [Apriel Voice 27B Preview: An Open Model for Speech, Reasoning, and Tool Use](2026-11-02-apriel-voice-27b-preview.md) | 给大模型装上耳朵和双手 | [YouTube 中文](https://youtu.be/q1m8McxWodw) · [YouTube English](https://youtu.be/cHS4KCcpBGM) · [B站](https://www.bilibili.com/video/BV1514w6eEW4) |
 | 2026-11-01 | [Proving and Improving the Platonic Representation Hypothesis with JEPAs](2026-11-01-proving-and-improving-the-platonic-repre.md) | 图文对齐不只靠规模更要选对正样本 | [YouTube 中文](https://youtu.be/ZLYAVt_KOwU) · [YouTube English](https://youtu.be/7__pB138PX0) · [B站](https://www.bilibili.com/video/BV1BRx466Etq) |
 | 2026-10-31 | [Your Benchmark Is an Empirical Measure Over Difficulty](2026-10-31-your-benchmark-is-an-empirical-measure-o.md) | 评测分数不动不代表没进步 | [YouTube 中文](https://youtu.be/5gxWuAqPpQQ) · [YouTube English](https://youtu.be/C4IaguexS2I) · [B站](https://www.bilibili.com/video/BV1EcxC6QEDb) |

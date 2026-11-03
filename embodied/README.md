@@ -2,6 +2,7 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-03 | [REA: A Routed Embodied Agent Runtime for Asynchronous Brain-Cerebellum Control](2026-11-03-rea.md) | 机器人干活不再等大模型 | [YouTube 中文](https://youtu.be/uLTc7ecVnAs) · [YouTube English](https://youtu.be/qyIAJpLNAUg) · [B站](https://www.bilibili.com/video/BV1h44g6UEUD) |
 | 2026-11-02 | [CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents](2026-11-02-captain.md) | 4B小模型写代码开机械臂 | [YouTube 中文](https://youtu.be/niFqiXayuq8) · [YouTube English](https://youtu.be/7gz5e9nvOjA) · [B站](https://www.bilibili.com/video/BV1514w6eEyi) |
 | 2026-11-01 | [OpenFlyV2: An onboard vision-language-action model for aerial perception and navigation](2026-11-01-openflyv2.md) | 10亿参数模型让无人机听话飞 | [YouTube 中文](https://youtu.be/mvIcc-Sk_bA) · [YouTube English](https://youtu.be/v4sBhyolPxw) · [B站](https://www.bilibili.com/video/BV1BRx466E7i) |
 | 2026-10-31 | [Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success](2026-10-31-sensorimotor-alignment.md) | 不跑机器人先猜成功率 | [YouTube 中文](https://youtu.be/YEh5-MlIoYw) · [YouTube English](https://youtu.be/hcoYwpV2GWA) · [B站](https://www.bilibili.com/video/BV1EcxC6QEDB) |
