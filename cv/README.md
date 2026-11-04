@@ -2,6 +2,7 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-04 | [Wave Forcing: Towards Speed-of-Light Streaming Video Generation](2026-11-04-wave-forcing.md) | 让视频生成像流水线一样 | [YouTube 中文](https://youtu.be/jZEIDHPD5RM) · [YouTube English](https://youtu.be/IC4HIAGiQco) · [B站](https://www.bilibili.com/video/BV1xAxQ6pE2C) |
 | 2026-11-03 | [FrameForge: Harnessing Priors of Video Foundation Models for Unified Image Generation](2026-11-03-frameforge.md) | 把图像生成当成视频的一帧 | [YouTube 中文](https://youtu.be/myTF2aM8AcA) · [YouTube English](https://youtu.be/FMVxlhkLa3k) · [B站](https://www.bilibili.com/video/BV1h44g6UEkz) |
 | 2026-11-02 | [ReLift: Dense 3D Tracking as Lifted Trajectory Repair](2026-11-02-relift.md) | 2D跟踪加深度再学会修轨迹 | [YouTube 中文](https://youtu.be/ApCjSampvHc) · [YouTube English](https://youtu.be/rDnUGyIZIy8) · [B站](https://www.bilibili.com/video/BV1514w6eEXL) |
 | 2026-11-01 | [L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory](2026-11-01-l3g-world.md) | 走远再回来世界还是原样 | [YouTube 中文](https://youtu.be/jqmDQZzQ1es) · [YouTube English](https://youtu.be/Wd4f9bQi5RU) · [B站](https://www.bilibili.com/video/BV1cDx465EM2) |
