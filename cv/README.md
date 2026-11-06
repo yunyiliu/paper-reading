@@ -2,6 +2,8 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-06 | [Turns Matter: Advancing Streaming Video RL via Turn-Level Credit](2026-11-06-turns-matter.md) | 每一轮单独算功劳AI少说重复话 | [YouTube English](https://youtu.be/uZobW1OsgZE) |
+| 2026-11-05 | [MoviEdit: Long-form Multi-Shot Video Editing Made Easy](2026-11-05-moviedit.md) | 一句话改视频每个镜头都改对 | [YouTube 中文](https://youtu.be/MDSvhBlohW4) · [YouTube English](https://youtu.be/YASej4YutLY) · [B站](https://www.bilibili.com/video/BV1AT4v6zEpU) |
 | 2026-11-04 | [Wave Forcing: Towards Speed-of-Light Streaming Video Generation](2026-11-04-wave-forcing.md) | 让视频生成像流水线一样 | [YouTube 中文](https://youtu.be/jZEIDHPD5RM) · [YouTube English](https://youtu.be/IC4HIAGiQco) · [B站](https://www.bilibili.com/video/BV1xAxQ6pE2C) |
 | 2026-11-03 | [FrameForge: Harnessing Priors of Video Foundation Models for Unified Image Generation](2026-11-03-frameforge.md) | 把图像生成当成视频的一帧 | [YouTube 中文](https://youtu.be/myTF2aM8AcA) · [YouTube English](https://youtu.be/FMVxlhkLa3k) · [B站](https://www.bilibili.com/video/BV1h44g6UEkz) |
 | 2026-11-02 | [ReLift: Dense 3D Tracking as Lifted Trajectory Repair](2026-11-02-relift.md) | 2D跟踪加深度再学会修轨迹 | [YouTube 中文](https://youtu.be/ApCjSampvHc) · [YouTube English](https://youtu.be/rDnUGyIZIy8) · [B站](https://www.bilibili.com/video/BV1514w6eEXL) |

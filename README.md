@@ -10,6 +10,8 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-06 | [Harness-S: Learning from Sibling Harnesses for Generalizable Agent Training](agent/2026-11-06-harness-s.md) | 失败的题换个框架再学 | [YouTube English](https://youtu.be/FYbS-ozq4YU) |
+| 2026-11-05 | [Axion 1.0: Open Agent Foundation Models, Simplified](agent/2026-11-05-axion-1-0.md) | Agent模型只练三步够吗 | [YouTube 中文](https://youtu.be/29kTJy3sC54) · [YouTube English](https://youtu.be/Z3fD5G2mD44) · [B站](https://www.bilibili.com/video/BV1FV4v6vEtr) |
 | 2026-11-04 | [SWE-Trail: History-Guided Trajectory Collection for Coding Agent Training](agent/2026-11-04-swe-trail.md) | 旧轨迹不给Agent看只决定在哪多试 | [YouTube 中文](https://youtu.be/Q2m3b0kX7Uw) · [YouTube English](https://youtu.be/S9FIhjmwGQA) · [B站](https://www.bilibili.com/video/BV12AxQ6pEPh) |
 | 2026-11-03 | [CEPO: A General Framework for Improving Prompt Optimization in Multi-Agent Systems](agent/2026-11-03-cepo.md) | 多Agent协作规则单独写 | [YouTube 中文](https://youtu.be/5VomlOhPanE) · [YouTube English](https://youtu.be/lPUkiOZzheQ) · [B站](https://www.bilibili.com/video/BV1Db4g67Ee6) |
 | 2026-11-02 | [R2Orch: Recursive Self-Improvement for Agent Orchestration via Self-Play within a Skill-Internalization Loop](agent/2026-11-02-r2orch.md) | 自己挑题自己练最后不带技能 | [YouTube 中文](https://youtu.be/EM7LDz0q8Uc) · [YouTube English](https://youtu.be/hYf7tlDomXg) · [B站](https://www.bilibili.com/video/BV1L14w6eEKz) |
@@ -34,6 +36,8 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-06 | [Turns Matter: Advancing Streaming Video RL via Turn-Level Credit](cv/2026-11-06-turns-matter.md) | 每一轮单独算功劳AI少说重复话 | [YouTube English](https://youtu.be/uZobW1OsgZE) |
+| 2026-11-05 | [MoviEdit: Long-form Multi-Shot Video Editing Made Easy](cv/2026-11-05-moviedit.md) | 一句话改视频每个镜头都改对 | [YouTube 中文](https://youtu.be/MDSvhBlohW4) · [YouTube English](https://youtu.be/YASej4YutLY) · [B站](https://www.bilibili.com/video/BV1AT4v6zEpU) |
 | 2026-11-04 | [Wave Forcing: Towards Speed-of-Light Streaming Video Generation](cv/2026-11-04-wave-forcing.md) | 让视频生成像流水线一样 | [YouTube 中文](https://youtu.be/jZEIDHPD5RM) · [YouTube English](https://youtu.be/IC4HIAGiQco) · [B站](https://www.bilibili.com/video/BV1xAxQ6pE2C) |
 | 2026-11-03 | [FrameForge: Harnessing Priors of Video Foundation Models for Unified Image Generation](cv/2026-11-03-frameforge.md) | 把图像生成当成视频的一帧 | [YouTube 中文](https://youtu.be/myTF2aM8AcA) · [YouTube English](https://youtu.be/FMVxlhkLa3k) · [B站](https://www.bilibili.com/video/BV1h44g6UEkz) |
 | 2026-11-02 | [ReLift: Dense 3D Tracking as Lifted Trajectory Repair](cv/2026-11-02-relift.md) | 2D跟踪加深度再学会修轨迹 | [YouTube 中文](https://youtu.be/ApCjSampvHc) · [YouTube English](https://youtu.be/rDnUGyIZIy8) · [B站](https://www.bilibili.com/video/BV1514w6eEXL) |
@@ -57,6 +61,8 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-06 | [On the Generalization Limitation of On-Policy Distillation for Post-RL Consolidation](nlp/2026-11-06-on-the-generalization-limitation-of-on-p.md) | 蒸馏几乎满分本事没学全 | — |
+| 2026-11-05 | [Think Less, Locally: Local Preference Learning for Reasoning Compression](nlp/2026-11-05-think-less-locally.md) | 推理模型少写四成准确率基本不变 | [YouTube 中文](https://youtu.be/mEEVkC1C90w) · [YouTube English](https://youtu.be/FIoihUgbzu4) · [B站](https://www.bilibili.com/video/BV1TF4v65EL7) |
 | 2026-11-04 | [Order-Only On-Policy Distillation](nlp/2026-11-04-order-only-on-policy-distillation.md) | 小模型只学老师的排序 | [YouTube 中文](https://youtu.be/tn80AhxfTjY) · [YouTube English](https://youtu.be/LYuNjecyLW8) · [B站](https://www.bilibili.com/video/BV12AxQ6pEJ5) |
 | 2026-11-03 | [Follow the Gradient: Tracing Safety Degradation Back to Training Data](nlp/2026-11-03-follow-the-gradient.md) | 无害的数据也会教坏模型 | [YouTube 中文](https://youtu.be/1KeLxly4TLM) · [YouTube English](https://youtu.be/CbiSxtaXpBc) · [B站](https://www.bilibili.com/video/BV1h44g6UErr) |
 | 2026-11-02 | [Apriel Voice 27B Preview: An Open Model for Speech, Reasoning, and Tool Use](nlp/2026-11-02-apriel-voice-27b-preview.md) | 给大模型装上耳朵和双手 | [YouTube 中文](https://youtu.be/q1m8McxWodw) · [YouTube English](https://youtu.be/cHS4KCcpBGM) · [B站](https://www.bilibili.com/video/BV1514w6eEW4) |
@@ -80,6 +86,8 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-06 | [Human-to-Robot Transfer via Bridging Representation and Action Space in VLAs](embodied/2026-11-06-human-to-robot-transfer-via-bridging-rep.md) | 机器人跟着人学新任务 | — |
+| 2026-11-05 | [PyRUA-DataFarm: LLM Agent as a Cost-Efficient Teleoperator for Real-Ready Robot Data](embodied/2026-11-05-pyrua-datafarm.md) | 让Agent替人采机器人数据 | [YouTube 中文](https://youtu.be/_zbgFkgyBcY) · [YouTube English](https://youtu.be/pcAOU9Oechk) · [B站](https://www.bilibili.com/video/BV1TF4v65EWV) |
 | 2026-11-04 | [RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory](embodied/2026-11-04-roboarchitect.md) | 不改权重成功率提到4.5倍 | [YouTube 中文](https://youtu.be/J_YnAYdjxFI) · [YouTube English](https://youtu.be/nCDAELUsQ98) · [B站](https://www.bilibili.com/video/BV1xAxQ6pE9h) |
 | 2026-11-03 | [REA: A Routed Embodied Agent Runtime for Asynchronous Brain-Cerebellum Control](embodied/2026-11-03-rea.md) | 机器人干活不再等大模型 | [YouTube 中文](https://youtu.be/uLTc7ecVnAs) · [YouTube English](https://youtu.be/qyIAJpLNAUg) · [B站](https://www.bilibili.com/video/BV1h44g6UEUD) |
 | 2026-11-02 | [CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents](embodied/2026-11-02-captain.md) | 4B小模型写代码开机械臂 | [YouTube 中文](https://youtu.be/niFqiXayuq8) · [YouTube English](https://youtu.be/7gz5e9nvOjA) · [B站](https://www.bilibili.com/video/BV1514w6eEyi) |
