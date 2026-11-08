@@ -2,7 +2,8 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
-| 2026-11-06 | [Turns Matter: Advancing Streaming Video RL via Turn-Level Credit](2026-11-06-turns-matter.md) | 每一轮单独算功劳AI少说重复话 | [YouTube English](https://youtu.be/uZobW1OsgZE) |
+| 2026-11-07 | [VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding](2026-11-07-vflash.md) | 小模型画轨迹比大模型还准 | [YouTube 中文](https://youtu.be/7MkReK7N5Mg) · [YouTube English](https://youtu.be/x7oIUV7ch6U) · [B站](https://www.bilibili.com/video/BV1Rm4s6hE8p) |
+| 2026-11-06 | [Turns Matter: Advancing Streaming Video RL via Turn-Level Credit](2026-11-06-turns-matter.md) | 每一轮单独算功劳AI少说重复话 | [YouTube 中文](https://youtu.be/jYf-iheAhwU) · [YouTube English](https://youtu.be/uZobW1OsgZE) · [B站](https://www.bilibili.com/video/BV1Ao4z6QEJq) |
 | 2026-11-05 | [MoviEdit: Long-form Multi-Shot Video Editing Made Easy](2026-11-05-moviedit.md) | 一句话改视频每个镜头都改对 | [YouTube 中文](https://youtu.be/MDSvhBlohW4) · [YouTube English](https://youtu.be/YASej4YutLY) · [B站](https://www.bilibili.com/video/BV1AT4v6zEpU) |
 | 2026-11-04 | [Wave Forcing: Towards Speed-of-Light Streaming Video Generation](2026-11-04-wave-forcing.md) | 让视频生成像流水线一样 | [YouTube 中文](https://youtu.be/jZEIDHPD5RM) · [YouTube English](https://youtu.be/IC4HIAGiQco) · [B站](https://www.bilibili.com/video/BV1xAxQ6pE2C) |
 | 2026-11-03 | [FrameForge: Harnessing Priors of Video Foundation Models for Unified Image Generation](2026-11-03-frameforge.md) | 把图像生成当成视频的一帧 | [YouTube 中文](https://youtu.be/myTF2aM8AcA) · [YouTube English](https://youtu.be/FMVxlhkLa3k) · [B站](https://www.bilibili.com/video/BV1h44g6UEkz) |

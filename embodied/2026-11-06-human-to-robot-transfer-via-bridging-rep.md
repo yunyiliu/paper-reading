@@ -6,7 +6,7 @@
 - 单位 Affiliation: KAIST、RLWRLD
 - 方向 Direction: 具身智能 / Embodied AI
 - 讲解日期 Covered: 2026-11-06
-- 视频 Videos: —
+- 视频 Videos: [YouTube English](https://youtu.be/CyXmq7srlbo) · [B站](https://www.bilibili.com/video/BV1ko4z6DESV)
 
 ## 中文讲解
 

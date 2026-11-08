@@ -2,7 +2,8 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
-| 2026-11-06 | [On the Generalization Limitation of On-Policy Distillation for Post-RL Consolidation](2026-11-06-on-the-generalization-limitation-of-on-p.md) | 蒸馏几乎满分本事没学全 | — |
+| 2026-11-07 | [Random Is Almost Enough? Stable and Low-Cost Benchmark Compression via BestRand](2026-11-07-random-is-almost-enough-stable-and-low-c.md) | 评测只跑20%分数还准吗 | [YouTube 中文](https://youtu.be/TZbZF679-BQ) · [B站](https://www.bilibili.com/video/BV1em4s6hE7f) |
+| 2026-11-06 | [On the Generalization Limitation of On-Policy Distillation for Post-RL Consolidation](2026-11-06-on-the-generalization-limitation-of-on-p.md) | 蒸馏几乎满分本事没学全 | [YouTube English](https://youtu.be/cK5CH2dZIVg) · [B站](https://www.bilibili.com/video/BV1Co4z6DEFo) |
 | 2026-11-05 | [Think Less, Locally: Local Preference Learning for Reasoning Compression](2026-11-05-think-less-locally.md) | 推理模型少写四成准确率基本不变 | [YouTube 中文](https://youtu.be/mEEVkC1C90w) · [YouTube English](https://youtu.be/FIoihUgbzu4) · [B站](https://www.bilibili.com/video/BV1TF4v65EL7) |
 | 2026-11-04 | [Order-Only On-Policy Distillation](2026-11-04-order-only-on-policy-distillation.md) | 小模型只学老师的排序 | [YouTube 中文](https://youtu.be/tn80AhxfTjY) · [YouTube English](https://youtu.be/LYuNjecyLW8) · [B站](https://www.bilibili.com/video/BV12AxQ6pEJ5) |
 | 2026-11-03 | [Follow the Gradient: Tracing Safety Degradation Back to Training Data](2026-11-03-follow-the-gradient.md) | 无害的数据也会教坏模型 | [YouTube 中文](https://youtu.be/1KeLxly4TLM) · [YouTube English](https://youtu.be/CbiSxtaXpBc) · [B站](https://www.bilibili.com/video/BV1h44g6UErr) |

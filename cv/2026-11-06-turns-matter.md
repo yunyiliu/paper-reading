@@ -6,7 +6,7 @@
 - 单位 Affiliation: 复旦大学、京东等
 - 方向 Direction: CV
 - 讲解日期 Covered: 2026-11-06
-- 视频 Videos: [YouTube English](https://youtu.be/uZobW1OsgZE)
+- 视频 Videos: [YouTube 中文](https://youtu.be/jYf-iheAhwU) · [YouTube English](https://youtu.be/uZobW1OsgZE) · [B站](https://www.bilibili.com/video/BV1Ao4z6QEJq)
 
 ## 中文讲解
 

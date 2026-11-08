@@ -2,7 +2,8 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
-| 2026-11-06 | [Human-to-Robot Transfer via Bridging Representation and Action Space in VLAs](2026-11-06-human-to-robot-transfer-via-bridging-rep.md) | 机器人跟着人学新任务 | — |
+| 2026-11-07 | [SLA: Scaling Spatial-Language-Action Model via Continual Pre-training](2026-11-07-sla.md) | 给机器人大脑补上三维感 | [YouTube 中文](https://youtu.be/Lm7t7Zug4-E) · [YouTube English](https://youtu.be/Im1ATNuiCzA) · [B站](https://www.bilibili.com/video/BV1em4s6hE9a) |
+| 2026-11-06 | [Human-to-Robot Transfer via Bridging Representation and Action Space in VLAs](2026-11-06-human-to-robot-transfer-via-bridging-rep.md) | 机器人跟着人学新任务 | [YouTube English](https://youtu.be/CyXmq7srlbo) · [B站](https://www.bilibili.com/video/BV1ko4z6DESV) |
 | 2026-11-05 | [PyRUA-DataFarm: LLM Agent as a Cost-Efficient Teleoperator for Real-Ready Robot Data](2026-11-05-pyrua-datafarm.md) | 让Agent替人采机器人数据 | [YouTube 中文](https://youtu.be/_zbgFkgyBcY) · [YouTube English](https://youtu.be/pcAOU9Oechk) · [B站](https://www.bilibili.com/video/BV1TF4v65EWV) |
 | 2026-11-04 | [RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory](2026-11-04-roboarchitect.md) | 不改权重成功率提到4.5倍 | [YouTube 中文](https://youtu.be/J_YnAYdjxFI) · [YouTube English](https://youtu.be/nCDAELUsQ98) · [B站](https://www.bilibili.com/video/BV1xAxQ6pE9h) |
 | 2026-11-03 | [REA: A Routed Embodied Agent Runtime for Asynchronous Brain-Cerebellum Control](2026-11-03-rea.md) | 机器人干活不再等大模型 | [YouTube 中文](https://youtu.be/uLTc7ecVnAs) · [YouTube English](https://youtu.be/qyIAJpLNAUg) · [B站](https://www.bilibili.com/video/BV1h44g6UEUD) |

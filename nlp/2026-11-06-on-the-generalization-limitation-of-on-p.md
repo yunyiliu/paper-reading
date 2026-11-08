@@ -6,7 +6,7 @@
 - 单位 Affiliation: 字节跳动等
 - 方向 Direction: NLP
 - 讲解日期 Covered: 2026-11-06
-- 视频 Videos: —
+- 视频 Videos: [YouTube English](https://youtu.be/cK5CH2dZIVg) · [B站](https://www.bilibili.com/video/BV1Co4z6DEFo)
 
 ## 中文讲解
 

@@ -2,7 +2,8 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
-| 2026-11-06 | [Harness-S: Learning from Sibling Harnesses for Generalizable Agent Training](2026-11-06-harness-s.md) | 失败的题换个框架再学 | [YouTube English](https://youtu.be/FYbS-ozq4YU) |
+| 2026-11-07 | [Hybrid Computer Use: A Unified Programmatic, Semantic, and Visual Interface for General Agents](2026-11-07-hybrid-computer-use.md) | AI用电脑不必学人类 | [YouTube 中文](https://youtu.be/x0X_x31qcxo) · [YouTube English](https://youtu.be/emDMygWu5H8) · [B站](https://www.bilibili.com/video/BV1vm4s6hEFQ) |
+| 2026-11-06 | [Harness-S: Learning from Sibling Harnesses for Generalizable Agent Training](2026-11-06-harness-s.md) | 失败的题换个框架再学 | [YouTube English](https://youtu.be/FYbS-ozq4YU) · [B站](https://www.bilibili.com/video/BV1xX4z6sEG4) |
 | 2026-11-05 | [Axion 1.0: Open Agent Foundation Models, Simplified](2026-11-05-axion-1-0.md) | Agent模型只练三步够吗 | [YouTube 中文](https://youtu.be/29kTJy3sC54) · [YouTube English](https://youtu.be/Z3fD5G2mD44) · [B站](https://www.bilibili.com/video/BV1FV4v6vEtr) |
 | 2026-11-04 | [SWE-Trail: History-Guided Trajectory Collection for Coding Agent Training](2026-11-04-swe-trail.md) | 旧轨迹不给Agent看只决定在哪多试 | [YouTube 中文](https://youtu.be/Q2m3b0kX7Uw) · [YouTube English](https://youtu.be/S9FIhjmwGQA) · [B站](https://www.bilibili.com/video/BV12AxQ6pEPh) |
 | 2026-11-03 | [CEPO: A General Framework for Improving Prompt Optimization in Multi-Agent Systems](2026-11-03-cepo.md) | 多Agent协作规则单独写 | [YouTube 中文](https://youtu.be/5VomlOhPanE) · [YouTube English](https://youtu.be/lPUkiOZzheQ) · [B站](https://www.bilibili.com/video/BV1Db4g67Ee6) |
