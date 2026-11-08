@@ -10,6 +10,7 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-08 | [Tools Need Not Speak in Text: Latent Context Compression for Agents](agent/2026-11-08-tools-need-not-speak-in-text.md) | 工具返回的结果不用再写成文字 | [YouTube 中文](https://youtu.be/qAqaayYap7w) · [YouTube English](https://youtu.be/0IZuhHmSV5A) · [B站](https://www.bilibili.com/video/BV1LDWJ6VEiZ) |
 | 2026-11-07 | [Hybrid Computer Use: A Unified Programmatic, Semantic, and Visual Interface for General Agents](agent/2026-11-07-hybrid-computer-use.md) | AI用电脑不必学人类 | [YouTube 中文](https://youtu.be/x0X_x31qcxo) · [YouTube English](https://youtu.be/emDMygWu5H8) · [B站](https://www.bilibili.com/video/BV1vm4s6hEFQ) |
 | 2026-11-06 | [Harness-S: Learning from Sibling Harnesses for Generalizable Agent Training](agent/2026-11-06-harness-s.md) | 失败的题换个框架再学 | [YouTube English](https://youtu.be/FYbS-ozq4YU) · [B站](https://www.bilibili.com/video/BV1xX4z6sEG4) |
 | 2026-11-05 | [Axion 1.0: Open Agent Foundation Models, Simplified](agent/2026-11-05-axion-1-0.md) | Agent模型只练三步够吗 | [YouTube 中文](https://youtu.be/29kTJy3sC54) · [YouTube English](https://youtu.be/Z3fD5G2mD44) · [B站](https://www.bilibili.com/video/BV1FV4v6vEtr) |
@@ -37,6 +38,7 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-08 | [TailSteer: Trajectory-Tail Steering for Drift-Resistant Multi-turn Image Editing](cv/2026-11-08-tailsteer.md) | 改图二十轮走样少很多 | [YouTube 中文](https://youtu.be/3OSwAQfz6Vg) · [YouTube English](https://youtu.be/LW5oeRpM2jE) · [B站](https://www.bilibili.com/video/BV1LDWJ6VEZ5) |
 | 2026-11-07 | [VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding](cv/2026-11-07-vflash.md) | 小模型画轨迹比大模型还准 | [YouTube 中文](https://youtu.be/7MkReK7N5Mg) · [YouTube English](https://youtu.be/x7oIUV7ch6U) · [B站](https://www.bilibili.com/video/BV1Rm4s6hE8p) |
 | 2026-11-06 | [Turns Matter: Advancing Streaming Video RL via Turn-Level Credit](cv/2026-11-06-turns-matter.md) | 每一轮单独算功劳AI少说重复话 | [YouTube 中文](https://youtu.be/jYf-iheAhwU) · [YouTube English](https://youtu.be/uZobW1OsgZE) · [B站](https://www.bilibili.com/video/BV1Ao4z6QEJq) |
 | 2026-11-05 | [MoviEdit: Long-form Multi-Shot Video Editing Made Easy](cv/2026-11-05-moviedit.md) | 一句话改视频每个镜头都改对 | [YouTube 中文](https://youtu.be/MDSvhBlohW4) · [YouTube English](https://youtu.be/YASej4YutLY) · [B站](https://www.bilibili.com/video/BV1AT4v6zEpU) |
@@ -63,6 +65,7 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-08 | [On the Opportunities and Challenges of Prefill-to-Autoregressive Cross-Model Transfer](nlp/2026-11-08-on-the-opportunities-and-challenges-of-p.md) | 大模型帮了忙还是只是微调 | [YouTube 中文](https://youtu.be/caOT0nBOMsU) · [YouTube English](https://youtu.be/qxusKR1pTyI) · [B站](https://www.bilibili.com/video/BV1iDWJ6VEpn) |
 | 2026-11-07 | [Random Is Almost Enough? Stable and Low-Cost Benchmark Compression via BestRand](nlp/2026-11-07-random-is-almost-enough-stable-and-low-c.md) | 评测只跑20%分数还准吗 | [YouTube 中文](https://youtu.be/TZbZF679-BQ) · [B站](https://www.bilibili.com/video/BV1em4s6hE7f) |
 | 2026-11-06 | [On the Generalization Limitation of On-Policy Distillation for Post-RL Consolidation](nlp/2026-11-06-on-the-generalization-limitation-of-on-p.md) | 蒸馏几乎满分本事没学全 | [YouTube English](https://youtu.be/cK5CH2dZIVg) · [B站](https://www.bilibili.com/video/BV1Co4z6DEFo) |
 | 2026-11-05 | [Think Less, Locally: Local Preference Learning for Reasoning Compression](nlp/2026-11-05-think-less-locally.md) | 推理模型少写四成准确率基本不变 | [YouTube 中文](https://youtu.be/mEEVkC1C90w) · [YouTube English](https://youtu.be/FIoihUgbzu4) · [B站](https://www.bilibili.com/video/BV1TF4v65EL7) |
@@ -89,6 +92,7 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-08 | [Open-HumanWAM: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models](embodied/2026-11-08-open-humanwam.md) | 人类视频越多机器人越能干 | [YouTube 中文](https://youtu.be/B7SdOAqsS8M) · [YouTube English](https://youtu.be/CN9OcehX8vo) · [B站](https://www.bilibili.com/video/BV1YRWJ66EXZ) |
 | 2026-11-07 | [SLA: Scaling Spatial-Language-Action Model via Continual Pre-training](embodied/2026-11-07-sla.md) | 给机器人大脑补上三维感 | [YouTube 中文](https://youtu.be/Lm7t7Zug4-E) · [YouTube English](https://youtu.be/Im1ATNuiCzA) · [B站](https://www.bilibili.com/video/BV1em4s6hE9a) |
 | 2026-11-06 | [Human-to-Robot Transfer via Bridging Representation and Action Space in VLAs](embodied/2026-11-06-human-to-robot-transfer-via-bridging-rep.md) | 机器人跟着人学新任务 | [YouTube English](https://youtu.be/CyXmq7srlbo) · [B站](https://www.bilibili.com/video/BV1ko4z6DESV) |
 | 2026-11-05 | [PyRUA-DataFarm: LLM Agent as a Cost-Efficient Teleoperator for Real-Ready Robot Data](embodied/2026-11-05-pyrua-datafarm.md) | 让Agent替人采机器人数据 | [YouTube 中文](https://youtu.be/_zbgFkgyBcY) · [YouTube English](https://youtu.be/pcAOU9Oechk) · [B站](https://www.bilibili.com/video/BV1TF4v65EWV) |

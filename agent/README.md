@@ -2,6 +2,7 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-08 | [Tools Need Not Speak in Text: Latent Context Compression for Agents](2026-11-08-tools-need-not-speak-in-text.md) | 工具返回的结果不用再写成文字 | [YouTube 中文](https://youtu.be/qAqaayYap7w) · [YouTube English](https://youtu.be/0IZuhHmSV5A) · [B站](https://www.bilibili.com/video/BV1LDWJ6VEiZ) |
 | 2026-11-07 | [Hybrid Computer Use: A Unified Programmatic, Semantic, and Visual Interface for General Agents](2026-11-07-hybrid-computer-use.md) | AI用电脑不必学人类 | [YouTube 中文](https://youtu.be/x0X_x31qcxo) · [YouTube English](https://youtu.be/emDMygWu5H8) · [B站](https://www.bilibili.com/video/BV1vm4s6hEFQ) |
 | 2026-11-06 | [Harness-S: Learning from Sibling Harnesses for Generalizable Agent Training](2026-11-06-harness-s.md) | 失败的题换个框架再学 | [YouTube English](https://youtu.be/FYbS-ozq4YU) · [B站](https://www.bilibili.com/video/BV1xX4z6sEG4) |
 | 2026-11-05 | [Axion 1.0: Open Agent Foundation Models, Simplified](2026-11-05-axion-1-0.md) | Agent模型只练三步够吗 | [YouTube 中文](https://youtu.be/29kTJy3sC54) · [YouTube English](https://youtu.be/Z3fD5G2mD44) · [B站](https://www.bilibili.com/video/BV1FV4v6vEtr) |
