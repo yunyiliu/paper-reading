@@ -2,6 +2,7 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-09 | [Confucius4-R2T2: A Stable-Prefix Streaming ASR Model for Real Real-Time Transcription](2026-11-09-confucius4-r2t2.md) | 实时语音转写吐出的字不再改 | [YouTube 中文](https://youtu.be/37m0BJQz2Qk) · [YouTube English](https://youtu.be/DXrRDg9qxbQ) · [B站](https://www.bilibili.com/video/BV1TWWb6XEVK) |
 | 2026-11-08 | [On the Opportunities and Challenges of Prefill-to-Autoregressive Cross-Model Transfer](2026-11-08-on-the-opportunities-and-challenges-of-p.md) | 大模型帮了忙还是只是微调 | [YouTube 中文](https://youtu.be/caOT0nBOMsU) · [YouTube English](https://youtu.be/qxusKR1pTyI) · [B站](https://www.bilibili.com/video/BV1iDWJ6VEpn) |
 | 2026-11-07 | [Random Is Almost Enough? Stable and Low-Cost Benchmark Compression via BestRand](2026-11-07-random-is-almost-enough-stable-and-low-c.md) | 评测只跑20%分数还准吗 | [YouTube 中文](https://youtu.be/TZbZF679-BQ) · [B站](https://www.bilibili.com/video/BV1em4s6hE7f) |
 | 2026-11-06 | [On the Generalization Limitation of On-Policy Distillation for Post-RL Consolidation](2026-11-06-on-the-generalization-limitation-of-on-p.md) | 蒸馏几乎满分本事没学全 | [YouTube English](https://youtu.be/cK5CH2dZIVg) · [B站](https://www.bilibili.com/video/BV1Co4z6DEFo) |

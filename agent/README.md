@@ -2,6 +2,7 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-09 | [Beneath the Surface: What We Overlook When We Talk About Agent Evolution](2026-11-09-beneath-the-surface.md) | 自我进化涨分了也在丢任务 | [YouTube 中文](https://youtu.be/Wu_-XshtgTA) · [YouTube English](https://youtu.be/-86OTsw-FCA) · [B站](https://www.bilibili.com/video/BV14WWb6XEyH) |
 | 2026-11-08 | [Tools Need Not Speak in Text: Latent Context Compression for Agents](2026-11-08-tools-need-not-speak-in-text.md) | 工具返回的结果不用再写成文字 | [YouTube 中文](https://youtu.be/qAqaayYap7w) · [YouTube English](https://youtu.be/0IZuhHmSV5A) · [B站](https://www.bilibili.com/video/BV1LDWJ6VEiZ) |
 | 2026-11-07 | [Hybrid Computer Use: A Unified Programmatic, Semantic, and Visual Interface for General Agents](2026-11-07-hybrid-computer-use.md) | AI用电脑不必学人类 | [YouTube 中文](https://youtu.be/x0X_x31qcxo) · [YouTube English](https://youtu.be/emDMygWu5H8) · [B站](https://www.bilibili.com/video/BV1vm4s6hEFQ) |
 | 2026-11-06 | [Harness-S: Learning from Sibling Harnesses for Generalizable Agent Training](2026-11-06-harness-s.md) | 失败的题换个框架再学 | [YouTube English](https://youtu.be/FYbS-ozq4YU) · [B站](https://www.bilibili.com/video/BV1xX4z6sEG4) |

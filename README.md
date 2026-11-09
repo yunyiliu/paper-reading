@@ -10,6 +10,7 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-09 | [Beneath the Surface: What We Overlook When We Talk About Agent Evolution](agent/2026-11-09-beneath-the-surface.md) | 自我进化涨分了也在丢任务 | [YouTube 中文](https://youtu.be/Wu_-XshtgTA) · [YouTube English](https://youtu.be/-86OTsw-FCA) · [B站](https://www.bilibili.com/video/BV14WWb6XEyH) |
 | 2026-11-08 | [Tools Need Not Speak in Text: Latent Context Compression for Agents](agent/2026-11-08-tools-need-not-speak-in-text.md) | 工具返回的结果不用再写成文字 | [YouTube 中文](https://youtu.be/qAqaayYap7w) · [YouTube English](https://youtu.be/0IZuhHmSV5A) · [B站](https://www.bilibili.com/video/BV1LDWJ6VEiZ) |
 | 2026-11-07 | [Hybrid Computer Use: A Unified Programmatic, Semantic, and Visual Interface for General Agents](agent/2026-11-07-hybrid-computer-use.md) | AI用电脑不必学人类 | [YouTube 中文](https://youtu.be/x0X_x31qcxo) · [YouTube English](https://youtu.be/emDMygWu5H8) · [B站](https://www.bilibili.com/video/BV1vm4s6hEFQ) |
 | 2026-11-06 | [Harness-S: Learning from Sibling Harnesses for Generalizable Agent Training](agent/2026-11-06-harness-s.md) | 失败的题换个框架再学 | [YouTube English](https://youtu.be/FYbS-ozq4YU) · [B站](https://www.bilibili.com/video/BV1xX4z6sEG4) |
@@ -38,6 +39,7 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-09 | [SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes](cv/2026-11-09-splatanything.md) | 换个缩放因子3D重建更通用 | [YouTube 中文](https://youtu.be/GLCZOxERZ9c) · [YouTube English](https://youtu.be/wRMto_4l1VU) · [B站](https://www.bilibili.com/video/BV1TWWb6XEtf) |
 | 2026-11-08 | [TailSteer: Trajectory-Tail Steering for Drift-Resistant Multi-turn Image Editing](cv/2026-11-08-tailsteer.md) | 改图二十轮走样少很多 | [YouTube 中文](https://youtu.be/3OSwAQfz6Vg) · [YouTube English](https://youtu.be/LW5oeRpM2jE) · [B站](https://www.bilibili.com/video/BV1LDWJ6VEZ5) |
 | 2026-11-07 | [VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding](cv/2026-11-07-vflash.md) | 小模型画轨迹比大模型还准 | [YouTube 中文](https://youtu.be/7MkReK7N5Mg) · [YouTube English](https://youtu.be/x7oIUV7ch6U) · [B站](https://www.bilibili.com/video/BV1Rm4s6hE8p) |
 | 2026-11-06 | [Turns Matter: Advancing Streaming Video RL via Turn-Level Credit](cv/2026-11-06-turns-matter.md) | 每一轮单独算功劳AI少说重复话 | [YouTube 中文](https://youtu.be/jYf-iheAhwU) · [YouTube English](https://youtu.be/uZobW1OsgZE) · [B站](https://www.bilibili.com/video/BV1Ao4z6QEJq) |
@@ -65,6 +67,7 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-09 | [Confucius4-R2T2: A Stable-Prefix Streaming ASR Model for Real Real-Time Transcription](nlp/2026-11-09-confucius4-r2t2.md) | 实时语音转写吐出的字不再改 | [YouTube 中文](https://youtu.be/37m0BJQz2Qk) · [YouTube English](https://youtu.be/DXrRDg9qxbQ) · [B站](https://www.bilibili.com/video/BV1TWWb6XEVK) |
 | 2026-11-08 | [On the Opportunities and Challenges of Prefill-to-Autoregressive Cross-Model Transfer](nlp/2026-11-08-on-the-opportunities-and-challenges-of-p.md) | 大模型帮了忙还是只是微调 | [YouTube 中文](https://youtu.be/caOT0nBOMsU) · [YouTube English](https://youtu.be/qxusKR1pTyI) · [B站](https://www.bilibili.com/video/BV1iDWJ6VEpn) |
 | 2026-11-07 | [Random Is Almost Enough? Stable and Low-Cost Benchmark Compression via BestRand](nlp/2026-11-07-random-is-almost-enough-stable-and-low-c.md) | 评测只跑20%分数还准吗 | [YouTube 中文](https://youtu.be/TZbZF679-BQ) · [B站](https://www.bilibili.com/video/BV1em4s6hE7f) |
 | 2026-11-06 | [On the Generalization Limitation of On-Policy Distillation for Post-RL Consolidation](nlp/2026-11-06-on-the-generalization-limitation-of-on-p.md) | 蒸馏几乎满分本事没学全 | [YouTube English](https://youtu.be/cK5CH2dZIVg) · [B站](https://www.bilibili.com/video/BV1Co4z6DEFo) |
