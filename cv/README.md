@@ -2,6 +2,7 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-10 | [Video-Coder: Reinforcing Agentic Coding for Video Generation](2026-11-10-video-coder.md) | 先写代码搭场景再让AI拍视频 | — |
 | 2026-11-09 | [SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes](2026-11-09-splatanything.md) | 换个缩放因子3D重建更通用 | [YouTube 中文](https://youtu.be/GLCZOxERZ9c) · [YouTube English](https://youtu.be/wRMto_4l1VU) · [B站](https://www.bilibili.com/video/BV1TWWb6XEtf) |
 | 2026-11-08 | [TailSteer: Trajectory-Tail Steering for Drift-Resistant Multi-turn Image Editing](2026-11-08-tailsteer.md) | 改图二十轮走样少很多 | [YouTube 中文](https://youtu.be/3OSwAQfz6Vg) · [YouTube English](https://youtu.be/LW5oeRpM2jE) · [B站](https://www.bilibili.com/video/BV1LDWJ6VEZ5) |
 | 2026-11-07 | [VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding](2026-11-07-vflash.md) | 小模型画轨迹比大模型还准 | [YouTube 中文](https://youtu.be/7MkReK7N5Mg) · [YouTube English](https://youtu.be/x7oIUV7ch6U) · [B站](https://www.bilibili.com/video/BV1Rm4s6hE8p) |

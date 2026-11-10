@@ -2,6 +2,7 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-10 | [Learning Heterogeneous Tactile Representation for General Dexterous Manipulation](2026-11-10-learning-heterogeneous-tactile-represent.md) | 换个传感器不用重新训练 | — |
 | 2026-11-08 | [Open-HumanWAM: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models](2026-11-08-open-humanwam.md) | 人类视频越多机器人越能干 | [YouTube 中文](https://youtu.be/B7SdOAqsS8M) · [YouTube English](https://youtu.be/CN9OcehX8vo) · [B站](https://www.bilibili.com/video/BV1YRWJ66EXZ) |
 | 2026-11-07 | [SLA: Scaling Spatial-Language-Action Model via Continual Pre-training](2026-11-07-sla.md) | 给机器人大脑补上三维感 | [YouTube 中文](https://youtu.be/Lm7t7Zug4-E) · [YouTube English](https://youtu.be/Im1ATNuiCzA) · [B站](https://www.bilibili.com/video/BV1em4s6hE9a) |
 | 2026-11-06 | [Human-to-Robot Transfer via Bridging Representation and Action Space in VLAs](2026-11-06-human-to-robot-transfer-via-bridging-rep.md) | 机器人跟着人学新任务 | [YouTube English](https://youtu.be/CyXmq7srlbo) · [B站](https://www.bilibili.com/video/BV1ko4z6DESV) |
