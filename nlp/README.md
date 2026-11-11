@@ -2,7 +2,8 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
-| 2026-11-10 | [LLMs Don't Know What They Know: Benchmarking Temporal Self-Knowledge for Financial Backtesting](2026-11-10-llms-don-t-know-what-they-know.md) | AI说不知道其实它知道 | — |
+| 2026-11-11 | [LowRAM: Low-Rank Keys and Amortised Values for Composable KV Cache Compression at Test-Time](2026-11-11-lowram.md) | Value不必全存用Key推出来 | [YouTube 中文](https://youtu.be/fqUkkk5ld3Q) · [YouTube English](https://youtu.be/cFaZl-4XWWE) · [B站](https://www.bilibili.com/video/BV1BuWy6EE9n) |
+| 2026-11-10 | [LLMs Don't Know What They Know: Benchmarking Temporal Self-Knowledge for Financial Backtesting](2026-11-10-llms-don-t-know-what-they-know.md) | AI说不知道其实它知道 | [YouTube 中文](https://youtu.be/F0fWqp_qT24) · [YouTube English](https://youtu.be/d6HEXOsK3Vc) · [B站](https://www.bilibili.com/video/BV1xRW36BEym) |
 | 2026-11-09 | [Confucius4-R2T2: A Stable-Prefix Streaming ASR Model for Real Real-Time Transcription](2026-11-09-confucius4-r2t2.md) | 实时语音转写吐出的字不再改 | [YouTube 中文](https://youtu.be/37m0BJQz2Qk) · [YouTube English](https://youtu.be/DXrRDg9qxbQ) · [B站](https://www.bilibili.com/video/BV1TWWb6XEVK) |
 | 2026-11-08 | [On the Opportunities and Challenges of Prefill-to-Autoregressive Cross-Model Transfer](2026-11-08-on-the-opportunities-and-challenges-of-p.md) | 大模型帮了忙还是只是微调 | [YouTube 中文](https://youtu.be/caOT0nBOMsU) · [YouTube English](https://youtu.be/qxusKR1pTyI) · [B站](https://www.bilibili.com/video/BV1iDWJ6VEpn) |
 | 2026-11-07 | [Random Is Almost Enough? Stable and Low-Cost Benchmark Compression via BestRand](2026-11-07-random-is-almost-enough-stable-and-low-c.md) | 评测只跑20%分数还准吗 | [YouTube 中文](https://youtu.be/TZbZF679-BQ) · [B站](https://www.bilibili.com/video/BV1em4s6hE7f) |

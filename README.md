@@ -10,7 +10,8 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
-| 2026-11-10 | [PCBRouteAgent: How Close Are LLM Agents to Becoming PCB Routing Engineers?](agent/2026-11-10-pcbrouteagent.md) | 大模型画电路板还差多远 | — |
+| 2026-11-11 | [AgentBaton: Efficient Model Collaboration in Agentic Tasks](agent/2026-11-11-agentbaton.md) | 强模型开局便宜模型收尾 | [YouTube 中文](https://youtu.be/OQsSvD28AjQ) · [YouTube English](https://youtu.be/cTkQs8g9C_w) · [B站](https://www.bilibili.com/video/BV17gWy6mEHG) |
+| 2026-11-10 | [PCBRouteAgent: How Close Are LLM Agents to Becoming PCB Routing Engineers?](agent/2026-11-10-pcbrouteagent.md) | 大模型画电路板还差多远 | [YouTube 中文](https://youtu.be/dbPW0hUyPQ8) · [YouTube English](https://youtu.be/oys0M7vOUp8) · [B站](https://www.bilibili.com/video/BV1KRW36BE7H) |
 | 2026-11-09 | [Beneath the Surface: What We Overlook When We Talk About Agent Evolution](agent/2026-11-09-beneath-the-surface.md) | 自我进化涨分了也在丢任务 | [YouTube 中文](https://youtu.be/Wu_-XshtgTA) · [YouTube English](https://youtu.be/-86OTsw-FCA) · [B站](https://www.bilibili.com/video/BV14WWb6XEyH) |
 | 2026-11-08 | [Tools Need Not Speak in Text: Latent Context Compression for Agents](agent/2026-11-08-tools-need-not-speak-in-text.md) | 工具返回的结果不用再写成文字 | [YouTube 中文](https://youtu.be/qAqaayYap7w) · [YouTube English](https://youtu.be/0IZuhHmSV5A) · [B站](https://www.bilibili.com/video/BV1LDWJ6VEiZ) |
 | 2026-11-07 | [Hybrid Computer Use: A Unified Programmatic, Semantic, and Visual Interface for General Agents](agent/2026-11-07-hybrid-computer-use.md) | AI用电脑不必学人类 | [YouTube 中文](https://youtu.be/x0X_x31qcxo) · [YouTube English](https://youtu.be/emDMygWu5H8) · [B站](https://www.bilibili.com/video/BV1vm4s6hEFQ) |
@@ -40,7 +41,8 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
-| 2026-11-10 | [Video-Coder: Reinforcing Agentic Coding for Video Generation](cv/2026-11-10-video-coder.md) | 先写代码搭场景再让AI拍视频 | — |
+| 2026-11-11 | [dNaViT: Discrete Codes are General-Purpose Visual Representations](cv/2026-11-11-dnavit.md) | 一套离散词表看图画图都能用 | [YouTube 中文](https://youtu.be/ded7S52CLlU) · [YouTube English](https://youtu.be/tDKOIrvBJWA) · [B站](https://www.bilibili.com/video/BV1zuWy6EEPZ) |
+| 2026-11-10 | [Video-Coder: Reinforcing Agentic Coding for Video Generation](cv/2026-11-10-video-coder.md) | 先写代码搭场景再让AI拍视频 | [YouTube 中文](https://youtu.be/qCJWr595M5A) · [YouTube English](https://youtu.be/iXBHWZLBnIE) · [B站](https://www.bilibili.com/video/BV1xRW36BEzZ) |
 | 2026-11-09 | [SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes](cv/2026-11-09-splatanything.md) | 换个缩放因子3D重建更通用 | [YouTube 中文](https://youtu.be/GLCZOxERZ9c) · [YouTube English](https://youtu.be/wRMto_4l1VU) · [B站](https://www.bilibili.com/video/BV1TWWb6XEtf) |
 | 2026-11-08 | [TailSteer: Trajectory-Tail Steering for Drift-Resistant Multi-turn Image Editing](cv/2026-11-08-tailsteer.md) | 改图二十轮走样少很多 | [YouTube 中文](https://youtu.be/3OSwAQfz6Vg) · [YouTube English](https://youtu.be/LW5oeRpM2jE) · [B站](https://www.bilibili.com/video/BV1LDWJ6VEZ5) |
 | 2026-11-07 | [VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding](cv/2026-11-07-vflash.md) | 小模型画轨迹比大模型还准 | [YouTube 中文](https://youtu.be/7MkReK7N5Mg) · [YouTube English](https://youtu.be/x7oIUV7ch6U) · [B站](https://www.bilibili.com/video/BV1Rm4s6hE8p) |
@@ -69,7 +71,8 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
-| 2026-11-10 | [LLMs Don't Know What They Know: Benchmarking Temporal Self-Knowledge for Financial Backtesting](nlp/2026-11-10-llms-don-t-know-what-they-know.md) | AI说不知道其实它知道 | — |
+| 2026-11-11 | [LowRAM: Low-Rank Keys and Amortised Values for Composable KV Cache Compression at Test-Time](nlp/2026-11-11-lowram.md) | Value不必全存用Key推出来 | [YouTube 中文](https://youtu.be/fqUkkk5ld3Q) · [YouTube English](https://youtu.be/cFaZl-4XWWE) · [B站](https://www.bilibili.com/video/BV1BuWy6EE9n) |
+| 2026-11-10 | [LLMs Don't Know What They Know: Benchmarking Temporal Self-Knowledge for Financial Backtesting](nlp/2026-11-10-llms-don-t-know-what-they-know.md) | AI说不知道其实它知道 | [YouTube 中文](https://youtu.be/F0fWqp_qT24) · [YouTube English](https://youtu.be/d6HEXOsK3Vc) · [B站](https://www.bilibili.com/video/BV1xRW36BEym) |
 | 2026-11-09 | [Confucius4-R2T2: A Stable-Prefix Streaming ASR Model for Real Real-Time Transcription](nlp/2026-11-09-confucius4-r2t2.md) | 实时语音转写吐出的字不再改 | [YouTube 中文](https://youtu.be/37m0BJQz2Qk) · [YouTube English](https://youtu.be/DXrRDg9qxbQ) · [B站](https://www.bilibili.com/video/BV1TWWb6XEVK) |
 | 2026-11-08 | [On the Opportunities and Challenges of Prefill-to-Autoregressive Cross-Model Transfer](nlp/2026-11-08-on-the-opportunities-and-challenges-of-p.md) | 大模型帮了忙还是只是微调 | [YouTube 中文](https://youtu.be/caOT0nBOMsU) · [YouTube English](https://youtu.be/qxusKR1pTyI) · [B站](https://www.bilibili.com/video/BV1iDWJ6VEpn) |
 | 2026-11-07 | [Random Is Almost Enough? Stable and Low-Cost Benchmark Compression via BestRand](nlp/2026-11-07-random-is-almost-enough-stable-and-low-c.md) | 评测只跑20%分数还准吗 | [YouTube 中文](https://youtu.be/TZbZF679-BQ) · [B站](https://www.bilibili.com/video/BV1em4s6hE7f) |
@@ -98,7 +101,8 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
-| 2026-11-10 | [Learning Heterogeneous Tactile Representation for General Dexterous Manipulation](embodied/2026-11-10-learning-heterogeneous-tactile-represent.md) | 换个传感器不用重新训练 | — |
+| 2026-11-11 | [Is Your Robot's Memory Just a Clock? Temporal Shortcuts in Memory-Augmented VLA Policies](embodied/2026-11-11-is-your-robot-s-memory-just-a-clock-temp.md) | 机器人发个呆就以为干完了 | [YouTube 中文](https://youtu.be/GLAYTCb3Tt8) · [YouTube English](https://youtu.be/pfAPjr2Zh4s) · [B站](https://www.bilibili.com/video/BV1fuWy6EEFq) |
+| 2026-11-10 | [Learning Heterogeneous Tactile Representation for General Dexterous Manipulation](embodied/2026-11-10-learning-heterogeneous-tactile-represent.md) | 换个传感器不用重新训练 | [YouTube 中文](https://youtu.be/ldZvmGd1vRQ) · [YouTube English](https://youtu.be/f4iAh-n6U4g) · [B站](https://www.bilibili.com/video/BV1KRW36BE5P) |
 | 2026-11-08 | [Open-HumanWAM: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models](embodied/2026-11-08-open-humanwam.md) | 人类视频越多机器人越能干 | [YouTube 中文](https://youtu.be/B7SdOAqsS8M) · [YouTube English](https://youtu.be/CN9OcehX8vo) · [B站](https://www.bilibili.com/video/BV1YRWJ66EXZ) |
 | 2026-11-07 | [SLA: Scaling Spatial-Language-Action Model via Continual Pre-training](embodied/2026-11-07-sla.md) | 给机器人大脑补上三维感 | [YouTube 中文](https://youtu.be/Lm7t7Zug4-E) · [YouTube English](https://youtu.be/Im1ATNuiCzA) · [B站](https://www.bilibili.com/video/BV1em4s6hE9a) |
 | 2026-11-06 | [Human-to-Robot Transfer via Bridging Representation and Action Space in VLAs](embodied/2026-11-06-human-to-robot-transfer-via-bridging-rep.md) | 机器人跟着人学新任务 | [YouTube English](https://youtu.be/CyXmq7srlbo) · [B站](https://www.bilibili.com/video/BV1ko4z6DESV) |

@@ -6,7 +6,7 @@
 - 单位 Affiliation: 中佛罗里达大学 等
 - 方向 Direction: CV
 - 讲解日期 Covered: 2026-11-10
-- 视频 Videos: —
+- 视频 Videos: [YouTube 中文](https://youtu.be/qCJWr595M5A) · [YouTube English](https://youtu.be/iXBHWZLBnIE) · [B站](https://www.bilibili.com/video/BV1xRW36BEzZ)
 
 ## 中文讲解
 

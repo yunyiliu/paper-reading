@@ -6,7 +6,7 @@
 - 单位 Affiliation: 德州大学达拉斯分校 等
 - 方向 Direction: Agent
 - 讲解日期 Covered: 2026-11-10
-- 视频 Videos: —
+- 视频 Videos: [YouTube 中文](https://youtu.be/dbPW0hUyPQ8) · [YouTube English](https://youtu.be/oys0M7vOUp8) · [B站](https://www.bilibili.com/video/BV1KRW36BE7H)
 
 ## 中文讲解
 
