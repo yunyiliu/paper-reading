@@ -2,6 +2,7 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-12 | [Few-Step Streaming Video Generation via Condition Shifting](2026-11-12-few-step-streaming-video-generation-via-.md) | 视频蒸馏少养一个网络 | [YouTube 中文](https://youtu.be/6Mm0N0YTW3M) · [YouTube English](https://youtu.be/IpSsjpUyaak) · [B站](https://www.bilibili.com/video/BV1Z3Wd61EEf) |
 | 2026-11-11 | [dNaViT: Discrete Codes are General-Purpose Visual Representations](2026-11-11-dnavit.md) | 一套离散词表看图画图都能用 | [YouTube 中文](https://youtu.be/ded7S52CLlU) · [YouTube English](https://youtu.be/tDKOIrvBJWA) · [B站](https://www.bilibili.com/video/BV1zuWy6EEPZ) |
 | 2026-11-10 | [Video-Coder: Reinforcing Agentic Coding for Video Generation](2026-11-10-video-coder.md) | 先写代码搭场景再让AI拍视频 | [YouTube 中文](https://youtu.be/qCJWr595M5A) · [YouTube English](https://youtu.be/iXBHWZLBnIE) · [B站](https://www.bilibili.com/video/BV1xRW36BEzZ) |
 | 2026-11-09 | [SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes](2026-11-09-splatanything.md) | 换个缩放因子3D重建更通用 | [YouTube 中文](https://youtu.be/GLCZOxERZ9c) · [YouTube English](https://youtu.be/wRMto_4l1VU) · [B站](https://www.bilibili.com/video/BV1TWWb6XEtf) |

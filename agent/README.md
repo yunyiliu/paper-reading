@@ -2,6 +2,7 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-12 | [Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents](2026-11-12-don-t-just-trust-your-memory.md) | Agent的记忆也会帮倒忙 | [YouTube 中文](https://youtu.be/v5PnqdIE2Hw) · [YouTube English](https://youtu.be/sv7pmJH36Ow) · [B站](https://www.bilibili.com/video/BV1Z3Wd61EgQ) |
 | 2026-11-11 | [AgentBaton: Efficient Model Collaboration in Agentic Tasks](2026-11-11-agentbaton.md) | 强模型开局便宜模型收尾 | [YouTube 中文](https://youtu.be/OQsSvD28AjQ) · [YouTube English](https://youtu.be/cTkQs8g9C_w) · [B站](https://www.bilibili.com/video/BV17gWy6mEHG) |
 | 2026-11-10 | [PCBRouteAgent: How Close Are LLM Agents to Becoming PCB Routing Engineers?](2026-11-10-pcbrouteagent.md) | 大模型画电路板还差多远 | [YouTube 中文](https://youtu.be/dbPW0hUyPQ8) · [YouTube English](https://youtu.be/oys0M7vOUp8) · [B站](https://www.bilibili.com/video/BV1KRW36BE7H) |
 | 2026-11-09 | [Beneath the Surface: What We Overlook When We Talk About Agent Evolution](2026-11-09-beneath-the-surface.md) | 自我进化涨分了也在丢任务 | [YouTube 中文](https://youtu.be/Wu_-XshtgTA) · [YouTube English](https://youtu.be/-86OTsw-FCA) · [B站](https://www.bilibili.com/video/BV14WWb6XEyH) |

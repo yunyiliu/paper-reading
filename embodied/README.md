@@ -2,6 +2,7 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-12 | [World In-Context Learning for Agentic Robot Manipulation](2026-11-12-world-in-context-learning-for-agentic-ro.md) | 一条示范不改权重学操作 | [YouTube 中文](https://youtu.be/zntJavtcGHg) · [YouTube English](https://youtu.be/g885jplIOOs) · [B站](https://www.bilibili.com/video/BV1q3Wd61EAe) |
 | 2026-11-11 | [Is Your Robot's Memory Just a Clock? Temporal Shortcuts in Memory-Augmented VLA Policies](2026-11-11-is-your-robot-s-memory-just-a-clock-temp.md) | 机器人发个呆就以为干完了 | [YouTube 中文](https://youtu.be/GLAYTCb3Tt8) · [YouTube English](https://youtu.be/pfAPjr2Zh4s) · [B站](https://www.bilibili.com/video/BV1fuWy6EEFq) |
 | 2026-11-10 | [Learning Heterogeneous Tactile Representation for General Dexterous Manipulation](2026-11-10-learning-heterogeneous-tactile-represent.md) | 换个传感器不用重新训练 | [YouTube 中文](https://youtu.be/ldZvmGd1vRQ) · [YouTube English](https://youtu.be/f4iAh-n6U4g) · [B站](https://www.bilibili.com/video/BV1KRW36BE5P) |
 | 2026-11-08 | [Open-HumanWAM: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models](2026-11-08-open-humanwam.md) | 人类视频越多机器人越能干 | [YouTube 中文](https://youtu.be/B7SdOAqsS8M) · [YouTube English](https://youtu.be/CN9OcehX8vo) · [B站](https://www.bilibili.com/video/BV1YRWJ66EXZ) |
