@@ -10,6 +10,7 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-13 | [Evolving Infra: Agent-Adaptive LLM Serving at Scale](agent/2026-11-13-evolving-infra.md) | 几百个Agent一起跑算力显存怎么分 | — |
 | 2026-11-12 | [Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents](agent/2026-11-12-don-t-just-trust-your-memory.md) | Agent的记忆也会帮倒忙 | [YouTube 中文](https://youtu.be/v5PnqdIE2Hw) · [YouTube English](https://youtu.be/sv7pmJH36Ow) · [B站](https://www.bilibili.com/video/BV1Z3Wd61EgQ) |
 | 2026-11-11 | [AgentBaton: Efficient Model Collaboration in Agentic Tasks](agent/2026-11-11-agentbaton.md) | 强模型开局便宜模型收尾 | [YouTube 中文](https://youtu.be/OQsSvD28AjQ) · [YouTube English](https://youtu.be/cTkQs8g9C_w) · [B站](https://www.bilibili.com/video/BV17gWy6mEHG) |
 | 2026-11-10 | [PCBRouteAgent: How Close Are LLM Agents to Becoming PCB Routing Engineers?](agent/2026-11-10-pcbrouteagent.md) | 大模型画电路板还差多远 | [YouTube 中文](https://youtu.be/dbPW0hUyPQ8) · [YouTube English](https://youtu.be/oys0M7vOUp8) · [B站](https://www.bilibili.com/video/BV1KRW36BE7H) |
@@ -42,6 +43,7 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-13 | [BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model](cv/2026-11-13-birddreams.md) | 周围的车会对你做反应 | — |
 | 2026-11-12 | [Few-Step Streaming Video Generation via Condition Shifting](cv/2026-11-12-few-step-streaming-video-generation-via-.md) | 视频蒸馏少养一个网络 | [YouTube 中文](https://youtu.be/6Mm0N0YTW3M) · [YouTube English](https://youtu.be/IpSsjpUyaak) · [B站](https://www.bilibili.com/video/BV1Z3Wd61EEf) |
 | 2026-11-11 | [dNaViT: Discrete Codes are General-Purpose Visual Representations](cv/2026-11-11-dnavit.md) | 一套离散词表看图画图都能用 | [YouTube 中文](https://youtu.be/ded7S52CLlU) · [YouTube English](https://youtu.be/tDKOIrvBJWA) · [B站](https://www.bilibili.com/video/BV1zuWy6EEPZ) |
 | 2026-11-10 | [Video-Coder: Reinforcing Agentic Coding for Video Generation](cv/2026-11-10-video-coder.md) | 先写代码搭场景再让AI拍视频 | [YouTube 中文](https://youtu.be/qCJWr595M5A) · [YouTube English](https://youtu.be/iXBHWZLBnIE) · [B站](https://www.bilibili.com/video/BV1xRW36BEzZ) |
@@ -73,6 +75,7 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-13 | [The Surprising Effectiveness of Deleting Weights in LLM Post-Training](nlp/2026-11-13-the-surprising-effectiveness-of-deleting.md) | 删不到万分之五权重大模型上追平全量微调 | — |
 | 2026-11-12 | [Incentivizing Self-Learning in Large Language Models via Reinforcement Learning](nlp/2026-11-12-incentivizing-self-learning-in-large-lan.md) | 教大模型边做题边翻书 | [YouTube 中文](https://youtu.be/X40NUEV1KxE) · [YouTube English](https://youtu.be/o6_yCczt0SQ) · [B站](https://www.bilibili.com/video/BV1q3Wd61Enm) |
 | 2026-11-11 | [LowRAM: Low-Rank Keys and Amortised Values for Composable KV Cache Compression at Test-Time](nlp/2026-11-11-lowram.md) | Value不必全存用Key推出来 | [YouTube 中文](https://youtu.be/fqUkkk5ld3Q) · [YouTube English](https://youtu.be/cFaZl-4XWWE) · [B站](https://www.bilibili.com/video/BV1BuWy6EE9n) |
 | 2026-11-10 | [LLMs Don't Know What They Know: Benchmarking Temporal Self-Knowledge for Financial Backtesting](nlp/2026-11-10-llms-don-t-know-what-they-know.md) | AI说不知道其实它知道 | [YouTube 中文](https://youtu.be/F0fWqp_qT24) · [YouTube English](https://youtu.be/d6HEXOsK3Vc) · [B站](https://www.bilibili.com/video/BV1xRW36BEym) |
