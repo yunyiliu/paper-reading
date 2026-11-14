@@ -2,7 +2,8 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
-| 2026-11-13 | [BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model](2026-11-13-birddreams.md) | 周围的车会对你做反应 | — |
+| 2026-11-14 | [Unbundling Multimodal Vision Encoding](2026-11-14-unbundling-multimodal-vision-encoding.md) | 视觉编码器该不该保留 | [YouTube 中文](https://youtu.be/3Jn48nSZ_Tc) · [YouTube English](https://youtu.be/ERMMyCTrBrI) · [B站](https://www.bilibili.com/video/BV1owsG6dELu) |
+| 2026-11-13 | [BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model](2026-11-13-birddreams.md) | 周围的车会对你做反应 | [YouTube 中文](https://youtu.be/IxN1O2WTfbg) · [YouTube English](https://youtu.be/QFvY23Kuv90) · [B站](https://www.bilibili.com/video/BV1CMWz6CEUy) |
 | 2026-11-12 | [Few-Step Streaming Video Generation via Condition Shifting](2026-11-12-few-step-streaming-video-generation-via-.md) | 视频蒸馏少养一个网络 | [YouTube 中文](https://youtu.be/6Mm0N0YTW3M) · [YouTube English](https://youtu.be/IpSsjpUyaak) · [B站](https://www.bilibili.com/video/BV1Z3Wd61EEf) |
 | 2026-11-11 | [dNaViT: Discrete Codes are General-Purpose Visual Representations](2026-11-11-dnavit.md) | 一套离散词表看图画图都能用 | [YouTube 中文](https://youtu.be/ded7S52CLlU) · [YouTube English](https://youtu.be/tDKOIrvBJWA) · [B站](https://www.bilibili.com/video/BV1zuWy6EEPZ) |
 | 2026-11-10 | [Video-Coder: Reinforcing Agentic Coding for Video Generation](2026-11-10-video-coder.md) | 先写代码搭场景再让AI拍视频 | [YouTube 中文](https://youtu.be/qCJWr595M5A) · [YouTube English](https://youtu.be/iXBHWZLBnIE) · [B站](https://www.bilibili.com/video/BV1xRW36BEzZ) |

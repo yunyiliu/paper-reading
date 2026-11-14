@@ -6,7 +6,7 @@
 - 单位 Affiliation: NVIDIA、KAIST
 - 方向 Direction: CV
 - 讲解日期 Covered: 2026-11-13
-- 视频 Videos: —
+- 视频 Videos: [YouTube 中文](https://youtu.be/IxN1O2WTfbg) · [YouTube English](https://youtu.be/QFvY23Kuv90) · [B站](https://www.bilibili.com/video/BV1CMWz6CEUy)
 
 ## 中文讲解
 

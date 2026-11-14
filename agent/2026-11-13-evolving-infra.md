@@ -6,7 +6,7 @@
 - 单位 Affiliation: 佐治亚理工 · 伯克利 · MIT 等
 - 方向 Direction: Agent
 - 讲解日期 Covered: 2026-11-13
-- 视频 Videos: —
+- 视频 Videos: [YouTube 中文](https://youtu.be/fmrBpcrVQsY) · [YouTube English](https://youtu.be/GsfX0pryDRo) · [B站](https://www.bilibili.com/video/BV1pgWz6GEmX)
 
 ## 中文讲解
 

@@ -2,6 +2,8 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-14 | [EgoX: Egocentric Cross-Embodiment Manipulation with Embodiment Dreaming](2026-11-14-egox.md) | 人和六种机器人一起学干活 | [YouTube 中文](https://youtu.be/PV01uozPpjo) · [YouTube English](https://youtu.be/jyczxebugag) · [B站](https://www.bilibili.com/video/BV1owsG6dEpr) |
+| 2026-11-13 | [DexForesight: Grounding Dexterous Policies with Implicit Spatial Foresight](2026-11-13-dexforesight.md) | 训练时学会预判上场不用想未来 | [YouTube 中文](https://youtu.be/TnvuUeSkZ_k) · [YouTube English](https://youtu.be/7a4IQl9am10) · [B站](https://www.bilibili.com/video/BV1WMWz6CEYU) |
 | 2026-11-12 | [World In-Context Learning for Agentic Robot Manipulation](2026-11-12-world-in-context-learning-for-agentic-ro.md) | 一条示范不改权重学操作 | [YouTube 中文](https://youtu.be/zntJavtcGHg) · [YouTube English](https://youtu.be/g885jplIOOs) · [B站](https://www.bilibili.com/video/BV1q3Wd61EAe) |
 | 2026-11-11 | [Is Your Robot's Memory Just a Clock? Temporal Shortcuts in Memory-Augmented VLA Policies](2026-11-11-is-your-robot-s-memory-just-a-clock-temp.md) | 机器人发个呆就以为干完了 | [YouTube 中文](https://youtu.be/GLAYTCb3Tt8) · [YouTube English](https://youtu.be/pfAPjr2Zh4s) · [B站](https://www.bilibili.com/video/BV1fuWy6EEFq) |
 | 2026-11-10 | [Learning Heterogeneous Tactile Representation for General Dexterous Manipulation](2026-11-10-learning-heterogeneous-tactile-represent.md) | 换个传感器不用重新训练 | [YouTube 中文](https://youtu.be/ldZvmGd1vRQ) · [YouTube English](https://youtu.be/f4iAh-n6U4g) · [B站](https://www.bilibili.com/video/BV1KRW36BE5P) |

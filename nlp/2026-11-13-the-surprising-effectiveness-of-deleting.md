@@ -6,7 +6,7 @@
 - 单位 Affiliation: 纽约大学 · 卡尔加里大学
 - 方向 Direction: NLP
 - 讲解日期 Covered: 2026-11-13
-- 视频 Videos: —
+- 视频 Videos: [YouTube 中文](https://youtu.be/kv-vWepw9CA) · [YouTube English](https://youtu.be/gV2IapIcub0) · [B站](https://www.bilibili.com/video/BV1CMWz6CE9e)
 
 ## 中文讲解
 
