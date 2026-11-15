@@ -10,6 +10,7 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-15 | [Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction](agent/2026-11-15-who-remembers-what-multi-granularity-mem.md) | 多用户共享记忆还要守住隐私 | [YouTube 中文](https://youtu.be/Da1NITyi6_E) · [YouTube English](https://youtu.be/Vc85SA1KCJU) · [B站](https://www.bilibili.com/video/BV1b9sJ6NE3S) |
 | 2026-11-14 | [SteerDistill: Quantizing LLM Agents via Closed-Loop Teacher Steering](agent/2026-11-14-steerdistill.md) | 模型压到4位Agent几乎不掉分 | [YouTube 中文](https://youtu.be/_1egnpvfJf8) · [YouTube English](https://youtu.be/JhQRaIlljFU) · [B站](https://www.bilibili.com/video/BV1qwsG6oEan) |
 | 2026-11-13 | [Evolving Infra: Agent-Adaptive LLM Serving at Scale](agent/2026-11-13-evolving-infra.md) | 几百个Agent一起跑算力显存怎么分 | [YouTube 中文](https://youtu.be/fmrBpcrVQsY) · [YouTube English](https://youtu.be/GsfX0pryDRo) · [B站](https://www.bilibili.com/video/BV1pgWz6GEmX) |
 | 2026-11-12 | [Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents](agent/2026-11-12-don-t-just-trust-your-memory.md) | Agent的记忆也会帮倒忙 | [YouTube 中文](https://youtu.be/v5PnqdIE2Hw) · [YouTube English](https://youtu.be/sv7pmJH36Ow) · [B站](https://www.bilibili.com/video/BV1Z3Wd61EgQ) |
@@ -44,6 +45,7 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-15 | [Open Vision Banana: A Fully Open Recipe for Generative Visual Perception](cv/2026-11-15-open-vision-banana.md) | 会画图的模型也能看懂图 | [YouTube 中文](https://youtu.be/XrisON_3SSs) · [YouTube English](https://youtu.be/lsm5hpLNMQU) · [B站](https://www.bilibili.com/video/BV1uQsJ6iEmR) |
 | 2026-11-14 | [Unbundling Multimodal Vision Encoding](cv/2026-11-14-unbundling-multimodal-vision-encoding.md) | 视觉编码器该不该保留 | [YouTube 中文](https://youtu.be/3Jn48nSZ_Tc) · [YouTube English](https://youtu.be/ERMMyCTrBrI) · [B站](https://www.bilibili.com/video/BV1owsG6dELu) |
 | 2026-11-13 | [BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model](cv/2026-11-13-birddreams.md) | 周围的车会对你做反应 | [YouTube 中文](https://youtu.be/IxN1O2WTfbg) · [YouTube English](https://youtu.be/QFvY23Kuv90) · [B站](https://www.bilibili.com/video/BV1CMWz6CEUy) |
 | 2026-11-12 | [Few-Step Streaming Video Generation via Condition Shifting](cv/2026-11-12-few-step-streaming-video-generation-via-.md) | 视频蒸馏少养一个网络 | [YouTube 中文](https://youtu.be/6Mm0N0YTW3M) · [YouTube English](https://youtu.be/IpSsjpUyaak) · [B站](https://www.bilibili.com/video/BV1Z3Wd61EEf) |
@@ -77,6 +79,7 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-15 | [Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents](nlp/2026-11-15-actor-judge-or-teacher-understanding-dec.md) | 自己做不好也能当好老师 | [YouTube 中文](https://youtu.be/BsDZaM7KvaA) · [YouTube English](https://youtu.be/xp6uygI9JNQ) · [B站](https://www.bilibili.com/video/BV18QsJ6iE7L) |
 | 2026-11-14 | [On the Design of Hyper-Connections: Simplification, Stability, and Scalability](nlp/2026-11-14-on-the-design-of-hyper-connections.md) | 多流残差做减法开销降到三分之一 | [YouTube 中文](https://youtu.be/27rONL2NjU8) · [YouTube English](https://youtu.be/d7AGluYCELY) · [B站](https://www.bilibili.com/video/BV1owsG6dEVY) |
 | 2026-11-13 | [The Surprising Effectiveness of Deleting Weights in LLM Post-Training](nlp/2026-11-13-the-surprising-effectiveness-of-deleting.md) | 删不到万分之五权重大模型上追平全量微调 | [YouTube 中文](https://youtu.be/kv-vWepw9CA) · [YouTube English](https://youtu.be/gV2IapIcub0) · [B站](https://www.bilibili.com/video/BV1CMWz6CE9e) |
 | 2026-11-12 | [Incentivizing Self-Learning in Large Language Models via Reinforcement Learning](nlp/2026-11-12-incentivizing-self-learning-in-large-lan.md) | 教大模型边做题边翻书 | [YouTube 中文](https://youtu.be/X40NUEV1KxE) · [YouTube English](https://youtu.be/o6_yCczt0SQ) · [B站](https://www.bilibili.com/video/BV1q3Wd61Enm) |
@@ -110,6 +113,7 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-15 | [Learning the Task or Learning the Verifier? Rethinking Criteria Exposure in Embodied Self-Improvement](embodied/2026-11-15-learning-the-task-or-learning-the-verifi.md) | 机器人看了评分规则分数还算数吗 | [YouTube 中文](https://youtu.be/sjQGf5Yf270) · [YouTube English](https://youtu.be/8SVk3Wr0imQ) · [B站](https://www.bilibili.com/video/BV1MQsJ6iEd9) |
 | 2026-11-14 | [EgoX: Egocentric Cross-Embodiment Manipulation with Embodiment Dreaming](embodied/2026-11-14-egox.md) | 人和六种机器人一起学干活 | [YouTube 中文](https://youtu.be/PV01uozPpjo) · [YouTube English](https://youtu.be/jyczxebugag) · [B站](https://www.bilibili.com/video/BV1owsG6dEpr) |
 | 2026-11-13 | [DexForesight: Grounding Dexterous Policies with Implicit Spatial Foresight](embodied/2026-11-13-dexforesight.md) | 训练时学会预判上场不用想未来 | [YouTube 中文](https://youtu.be/TnvuUeSkZ_k) · [YouTube English](https://youtu.be/7a4IQl9am10) · [B站](https://www.bilibili.com/video/BV1WMWz6CEYU) |
 | 2026-11-12 | [World In-Context Learning for Agentic Robot Manipulation](embodied/2026-11-12-world-in-context-learning-for-agentic-ro.md) | 一条示范不改权重学操作 | [YouTube 中文](https://youtu.be/zntJavtcGHg) · [YouTube English](https://youtu.be/g885jplIOOs) · [B站](https://www.bilibili.com/video/BV1q3Wd61EAe) |

@@ -2,6 +2,7 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-15 | [Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents](2026-11-15-actor-judge-or-teacher-understanding-dec.md) | 自己做不好也能当好老师 | [YouTube 中文](https://youtu.be/BsDZaM7KvaA) · [YouTube English](https://youtu.be/xp6uygI9JNQ) · [B站](https://www.bilibili.com/video/BV18QsJ6iE7L) |
 | 2026-11-14 | [On the Design of Hyper-Connections: Simplification, Stability, and Scalability](2026-11-14-on-the-design-of-hyper-connections.md) | 多流残差做减法开销降到三分之一 | [YouTube 中文](https://youtu.be/27rONL2NjU8) · [YouTube English](https://youtu.be/d7AGluYCELY) · [B站](https://www.bilibili.com/video/BV1owsG6dEVY) |
 | 2026-11-13 | [The Surprising Effectiveness of Deleting Weights in LLM Post-Training](2026-11-13-the-surprising-effectiveness-of-deleting.md) | 删不到万分之五权重大模型上追平全量微调 | [YouTube 中文](https://youtu.be/kv-vWepw9CA) · [YouTube English](https://youtu.be/gV2IapIcub0) · [B站](https://www.bilibili.com/video/BV1CMWz6CE9e) |
 | 2026-11-12 | [Incentivizing Self-Learning in Large Language Models via Reinforcement Learning](2026-11-12-incentivizing-self-learning-in-large-lan.md) | 教大模型边做题边翻书 | [YouTube 中文](https://youtu.be/X40NUEV1KxE) · [YouTube English](https://youtu.be/o6_yCczt0SQ) · [B站](https://www.bilibili.com/video/BV1q3Wd61Enm) |
