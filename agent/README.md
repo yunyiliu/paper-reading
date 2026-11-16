@@ -2,6 +2,7 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-16 | [Aligning AI Teams](2026-11-16-aligning-ai-teams.md) | 单个很守规矩组队安全打折 | — |
 | 2026-11-15 | [Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction](2026-11-15-who-remembers-what-multi-granularity-mem.md) | 多用户共享记忆还要守住隐私 | [YouTube 中文](https://youtu.be/Da1NITyi6_E) · [YouTube English](https://youtu.be/Vc85SA1KCJU) · [B站](https://www.bilibili.com/video/BV1b9sJ6NE3S) |
 | 2026-11-14 | [SteerDistill: Quantizing LLM Agents via Closed-Loop Teacher Steering](2026-11-14-steerdistill.md) | 模型压到4位Agent几乎不掉分 | [YouTube 中文](https://youtu.be/_1egnpvfJf8) · [YouTube English](https://youtu.be/JhQRaIlljFU) · [B站](https://www.bilibili.com/video/BV1qwsG6oEan) |
 | 2026-11-13 | [Evolving Infra: Agent-Adaptive LLM Serving at Scale](2026-11-13-evolving-infra.md) | 几百个Agent一起跑算力显存怎么分 | [YouTube 中文](https://youtu.be/fmrBpcrVQsY) · [YouTube English](https://youtu.be/GsfX0pryDRo) · [B站](https://www.bilibili.com/video/BV1pgWz6GEmX) |
