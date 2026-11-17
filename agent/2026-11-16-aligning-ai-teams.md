@@ -6,7 +6,7 @@
 - 单位 Affiliation: 哈佛大学 · Constellation Institute · Anthropic
 - 方向 Direction: Agent
 - 讲解日期 Covered: 2026-11-16
-- 视频 Videos: —
+- 视频 Videos: [YouTube 中文](https://youtu.be/npvCaZxQct4) · [YouTube English](https://youtu.be/IYCo8NOKvdo) · [B站](https://www.bilibili.com/video/BV1WfsK6WELB)
 
 ## 中文讲解
 

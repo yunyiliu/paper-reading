@@ -10,7 +10,7 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
-| 2026-11-16 | [Aligning AI Teams](agent/2026-11-16-aligning-ai-teams.md) | 单个很守规矩组队安全打折 | — |
+| 2026-11-16 | [Aligning AI Teams](agent/2026-11-16-aligning-ai-teams.md) | 单个很守规矩组队安全打折 | [YouTube 中文](https://youtu.be/npvCaZxQct4) · [YouTube English](https://youtu.be/IYCo8NOKvdo) · [B站](https://www.bilibili.com/video/BV1WfsK6WELB) |
 | 2026-11-15 | [Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction](agent/2026-11-15-who-remembers-what-multi-granularity-mem.md) | 多用户共享记忆还要守住隐私 | [YouTube 中文](https://youtu.be/Da1NITyi6_E) · [YouTube English](https://youtu.be/Vc85SA1KCJU) · [B站](https://www.bilibili.com/video/BV1b9sJ6NE3S) |
 | 2026-11-14 | [SteerDistill: Quantizing LLM Agents via Closed-Loop Teacher Steering](agent/2026-11-14-steerdistill.md) | 模型压到4位Agent几乎不掉分 | [YouTube 中文](https://youtu.be/_1egnpvfJf8) · [YouTube English](https://youtu.be/JhQRaIlljFU) · [B站](https://www.bilibili.com/video/BV1qwsG6oEan) |
 | 2026-11-13 | [Evolving Infra: Agent-Adaptive LLM Serving at Scale](agent/2026-11-13-evolving-infra.md) | 几百个Agent一起跑算力显存怎么分 | [YouTube 中文](https://youtu.be/fmrBpcrVQsY) · [YouTube English](https://youtu.be/GsfX0pryDRo) · [B站](https://www.bilibili.com/video/BV1pgWz6GEmX) |
@@ -46,7 +46,7 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
-| 2026-11-16 | [V-JEPA-LM: Video-Language Models That Read Dynamics Beyond Static, Text-Aligned Representations](cv/2026-11-16-v-jepa-lm.md) | 编码器看得见模型却没在读 | — |
+| 2026-11-16 | [V-JEPA-LM: Video-Language Models That Read Dynamics Beyond Static, Text-Aligned Representations](cv/2026-11-16-v-jepa-lm.md) | 编码器看得见模型却没在读 | [YouTube 中文](https://youtu.be/oGXqjNNCwC0) · [YouTube English](https://youtu.be/jChawOOwcPM) · [B站](https://www.bilibili.com/video/BV1tDsK6fEHc) |
 | 2026-11-15 | [Open Vision Banana: A Fully Open Recipe for Generative Visual Perception](cv/2026-11-15-open-vision-banana.md) | 会画图的模型也能看懂图 | [YouTube 中文](https://youtu.be/XrisON_3SSs) · [YouTube English](https://youtu.be/lsm5hpLNMQU) · [B站](https://www.bilibili.com/video/BV1uQsJ6iEmR) |
 | 2026-11-14 | [Unbundling Multimodal Vision Encoding](cv/2026-11-14-unbundling-multimodal-vision-encoding.md) | 视觉编码器该不该保留 | [YouTube 中文](https://youtu.be/3Jn48nSZ_Tc) · [YouTube English](https://youtu.be/ERMMyCTrBrI) · [B站](https://www.bilibili.com/video/BV1owsG6dELu) |
 | 2026-11-13 | [BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model](cv/2026-11-13-birddreams.md) | 周围的车会对你做反应 | [YouTube 中文](https://youtu.be/IxN1O2WTfbg) · [YouTube English](https://youtu.be/QFvY23Kuv90) · [B站](https://www.bilibili.com/video/BV1CMWz6CEUy) |
