@@ -10,6 +10,9 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-19 | [SWE-CoWork: Benchmarking Coding Agents as Digital Employees in Organizations](agent/2026-11-19-swe-cowork.md) | 编程Agent当员工完整交付不到8% | [YouTube 中文](https://youtu.be/FWK7oCXAGjE) |
+| 2026-11-18 | [Self-Improvement Memory Enables Continual Recursive Self-Improvement](agent/2026-11-18-self-improvement-memory-enables-continua.md) | 换了模型优化别从头来 | [YouTube 中文](https://youtu.be/6ciq8AO6RCg) · [B站](https://www.bilibili.com/video/BV16yst6VEXq) |
+| 2026-11-17 | [MIRIX-2.0: Multi-Agent Memory System](agent/2026-11-17-mirix-2-0.md) | 合并只动索引原始记录不动 | — |
 | 2026-11-16 | [Aligning AI Teams](agent/2026-11-16-aligning-ai-teams.md) | 单个很守规矩组队安全打折 | [YouTube 中文](https://youtu.be/npvCaZxQct4) · [YouTube English](https://youtu.be/IYCo8NOKvdo) · [B站](https://www.bilibili.com/video/BV1WfsK6WELB) |
 | 2026-11-15 | [Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction](agent/2026-11-15-who-remembers-what-multi-granularity-mem.md) | 多用户共享记忆还要守住隐私 | [YouTube 中文](https://youtu.be/Da1NITyi6_E) · [YouTube English](https://youtu.be/Vc85SA1KCJU) · [B站](https://www.bilibili.com/video/BV1b9sJ6NE3S) |
 | 2026-11-14 | [SteerDistill: Quantizing LLM Agents via Closed-Loop Teacher Steering](agent/2026-11-14-steerdistill.md) | 模型压到4位Agent几乎不掉分 | [YouTube 中文](https://youtu.be/_1egnpvfJf8) · [YouTube English](https://youtu.be/JhQRaIlljFU) · [B站](https://www.bilibili.com/video/BV1qwsG6oEan) |
@@ -46,6 +49,9 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-19 | [FastFrames: Video Generation at Interactive Latency](cv/2026-11-19-fastframes.md) | 按键就有画面每帧36毫秒 | — |
+| 2026-11-18 | [FastFrames: Video Generation at Interactive Latency](cv/2026-11-18-fastframes.md) | AI视频一帧只要36毫秒 | [YouTube 中文](https://youtu.be/mukoscp-_xM) · [B站](https://www.bilibili.com/video/BV1n8sh6nEAN) |
+| 2026-11-17 | [JVT: Just Video Transformer makes pixel-space video diffusion simple](cv/2026-11-17-jvt.md) | 不要自编码器直接生成视频 | — |
 | 2026-11-16 | [V-JEPA-LM: Video-Language Models That Read Dynamics Beyond Static, Text-Aligned Representations](cv/2026-11-16-v-jepa-lm.md) | 编码器看得见模型却没在读 | [YouTube 中文](https://youtu.be/oGXqjNNCwC0) · [YouTube English](https://youtu.be/jChawOOwcPM) · [B站](https://www.bilibili.com/video/BV1tDsK6fEHc) |
 | 2026-11-15 | [Open Vision Banana: A Fully Open Recipe for Generative Visual Perception](cv/2026-11-15-open-vision-banana.md) | 会画图的模型也能看懂图 | [YouTube 中文](https://youtu.be/XrisON_3SSs) · [YouTube English](https://youtu.be/lsm5hpLNMQU) · [B站](https://www.bilibili.com/video/BV1uQsJ6iEmR) |
 | 2026-11-14 | [Unbundling Multimodal Vision Encoding](cv/2026-11-14-unbundling-multimodal-vision-encoding.md) | 视觉编码器该不该保留 | [YouTube 中文](https://youtu.be/3Jn48nSZ_Tc) · [YouTube English](https://youtu.be/ERMMyCTrBrI) · [B站](https://www.bilibili.com/video/BV1owsG6dELu) |
@@ -81,6 +87,8 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-19 | [Multi-Branch Transformer](nlp/2026-11-19-multi-branch-transformer.md) | 模型不只能加深还能分叉 | [YouTube English](https://youtu.be/WZkr2ZCcwiQ) |
+| 2026-11-18 | [Weight-Space Programming Doesn't Need Transformers](nlp/2026-11-18-weight-space-programming-doesn-t-need-tr.md) | 让AI亲手写权重它不选Transformer | [YouTube 中文](https://youtu.be/H7AySc7e528) · [B站](https://www.bilibili.com/video/BV1Fyst65E9H) |
 | 2026-11-15 | [Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents](nlp/2026-11-15-actor-judge-or-teacher-understanding-dec.md) | 自己做不好也能当好老师 | [YouTube 中文](https://youtu.be/BsDZaM7KvaA) · [YouTube English](https://youtu.be/xp6uygI9JNQ) · [B站](https://www.bilibili.com/video/BV18QsJ6iE7L) |
 | 2026-11-14 | [On the Design of Hyper-Connections: Simplification, Stability, and Scalability](nlp/2026-11-14-on-the-design-of-hyper-connections.md) | 多流残差做减法开销降到三分之一 | [YouTube 中文](https://youtu.be/27rONL2NjU8) · [YouTube English](https://youtu.be/d7AGluYCELY) · [B站](https://www.bilibili.com/video/BV1owsG6dEVY) |
 | 2026-11-13 | [The Surprising Effectiveness of Deleting Weights in LLM Post-Training](nlp/2026-11-13-the-surprising-effectiveness-of-deleting.md) | 删不到万分之五权重大模型上追平全量微调 | [YouTube 中文](https://youtu.be/kv-vWepw9CA) · [YouTube English](https://youtu.be/gV2IapIcub0) · [B站](https://www.bilibili.com/video/BV1CMWz6CE9e) |
@@ -115,6 +123,9 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-19 | [Heave-Ho: Decentralized Long-Horizon Multi-Humanoid Collaboration](embodied/2026-11-19-heave-ho.md) | 机器人不联网喊口令一起搬 | [YouTube English](https://youtu.be/n-1hU3i9DWA) |
+| 2026-11-18 | [ForceHarness: Turning Force into Action and Physics for Frozen Frontier Models](embodied/2026-11-18-forceharness.md) | 不训练不给示范大模型用上力觉 | [YouTube 中文](https://youtu.be/oljBKCAo6Ck) · [B站](https://www.bilibili.com/video/BV1F8sh6nE11) |
+| 2026-11-17 | [ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters](embodied/2026-11-17-scalevla.md) | 机器人大脑放大到5520亿 | — |
 | 2026-11-15 | [Learning the Task or Learning the Verifier? Rethinking Criteria Exposure in Embodied Self-Improvement](embodied/2026-11-15-learning-the-task-or-learning-the-verifi.md) | 机器人看了评分规则分数还算数吗 | [YouTube 中文](https://youtu.be/sjQGf5Yf270) · [YouTube English](https://youtu.be/8SVk3Wr0imQ) · [B站](https://www.bilibili.com/video/BV1MQsJ6iEd9) |
 | 2026-11-14 | [EgoX: Egocentric Cross-Embodiment Manipulation with Embodiment Dreaming](embodied/2026-11-14-egox.md) | 人和六种机器人一起学干活 | [YouTube 中文](https://youtu.be/PV01uozPpjo) · [YouTube English](https://youtu.be/jyczxebugag) · [B站](https://www.bilibili.com/video/BV1owsG6dEpr) |
 | 2026-11-13 | [DexForesight: Grounding Dexterous Policies with Implicit Spatial Foresight](embodied/2026-11-13-dexforesight.md) | 训练时学会预判上场不用想未来 | [YouTube 中文](https://youtu.be/TnvuUeSkZ_k) · [YouTube English](https://youtu.be/7a4IQl9am10) · [B站](https://www.bilibili.com/video/BV1WMWz6CEYU) |

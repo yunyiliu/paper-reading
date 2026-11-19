@@ -2,6 +2,9 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-19 | [SWE-CoWork: Benchmarking Coding Agents as Digital Employees in Organizations](2026-11-19-swe-cowork.md) | 编程Agent当员工完整交付不到8% | [YouTube 中文](https://youtu.be/FWK7oCXAGjE) |
+| 2026-11-18 | [Self-Improvement Memory Enables Continual Recursive Self-Improvement](2026-11-18-self-improvement-memory-enables-continua.md) | 换了模型优化别从头来 | [YouTube 中文](https://youtu.be/6ciq8AO6RCg) · [B站](https://www.bilibili.com/video/BV16yst6VEXq) |
+| 2026-11-17 | [MIRIX-2.0: Multi-Agent Memory System](2026-11-17-mirix-2-0.md) | 合并只动索引原始记录不动 | — |
 | 2026-11-16 | [Aligning AI Teams](2026-11-16-aligning-ai-teams.md) | 单个很守规矩组队安全打折 | [YouTube 中文](https://youtu.be/npvCaZxQct4) · [YouTube English](https://youtu.be/IYCo8NOKvdo) · [B站](https://www.bilibili.com/video/BV1WfsK6WELB) |
 | 2026-11-15 | [Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction](2026-11-15-who-remembers-what-multi-granularity-mem.md) | 多用户共享记忆还要守住隐私 | [YouTube 中文](https://youtu.be/Da1NITyi6_E) · [YouTube English](https://youtu.be/Vc85SA1KCJU) · [B站](https://www.bilibili.com/video/BV1b9sJ6NE3S) |
 | 2026-11-14 | [SteerDistill: Quantizing LLM Agents via Closed-Loop Teacher Steering](2026-11-14-steerdistill.md) | 模型压到4位Agent几乎不掉分 | [YouTube 中文](https://youtu.be/_1egnpvfJf8) · [YouTube English](https://youtu.be/JhQRaIlljFU) · [B站](https://www.bilibili.com/video/BV1qwsG6oEan) |

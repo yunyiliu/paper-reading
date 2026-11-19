@@ -2,6 +2,9 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-19 | [Heave-Ho: Decentralized Long-Horizon Multi-Humanoid Collaboration](2026-11-19-heave-ho.md) | 机器人不联网喊口令一起搬 | [YouTube English](https://youtu.be/n-1hU3i9DWA) |
+| 2026-11-18 | [ForceHarness: Turning Force into Action and Physics for Frozen Frontier Models](2026-11-18-forceharness.md) | 不训练不给示范大模型用上力觉 | [YouTube 中文](https://youtu.be/oljBKCAo6Ck) · [B站](https://www.bilibili.com/video/BV1F8sh6nE11) |
+| 2026-11-17 | [ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters](2026-11-17-scalevla.md) | 机器人大脑放大到5520亿 | — |
 | 2026-11-15 | [Learning the Task or Learning the Verifier? Rethinking Criteria Exposure in Embodied Self-Improvement](2026-11-15-learning-the-task-or-learning-the-verifi.md) | 机器人看了评分规则分数还算数吗 | [YouTube 中文](https://youtu.be/sjQGf5Yf270) · [YouTube English](https://youtu.be/8SVk3Wr0imQ) · [B站](https://www.bilibili.com/video/BV1MQsJ6iEd9) |
 | 2026-11-14 | [EgoX: Egocentric Cross-Embodiment Manipulation with Embodiment Dreaming](2026-11-14-egox.md) | 人和六种机器人一起学干活 | [YouTube 中文](https://youtu.be/PV01uozPpjo) · [YouTube English](https://youtu.be/jyczxebugag) · [B站](https://www.bilibili.com/video/BV1owsG6dEpr) |
 | 2026-11-13 | [DexForesight: Grounding Dexterous Policies with Implicit Spatial Foresight](2026-11-13-dexforesight.md) | 训练时学会预判上场不用想未来 | [YouTube 中文](https://youtu.be/TnvuUeSkZ_k) · [YouTube English](https://youtu.be/7a4IQl9am10) · [B站](https://www.bilibili.com/video/BV1WMWz6CEYU) |
