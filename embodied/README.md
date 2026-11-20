@@ -2,7 +2,8 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
-| 2026-11-19 | [Heave-Ho: Decentralized Long-Horizon Multi-Humanoid Collaboration](2026-11-19-heave-ho.md) | 机器人不联网喊口令一起搬 | [YouTube English](https://youtu.be/n-1hU3i9DWA) |
+| 2026-11-20 | [Learning What Actions Change: Action Effect Matching for Dynamics-Faithful World Models](2026-11-20-learning-what-actions-change.md) | 动作差一点世界模型看懂了吗 | [YouTube 中文](https://youtu.be/-YFAY7lidZg) · [YouTube English](https://youtu.be/-ncUOnMDJwY) · [B站](https://www.bilibili.com/video/BV1b9ypz6EPe) |
+| 2026-11-19 | [Heave-Ho: Decentralized Long-Horizon Multi-Humanoid Collaboration](2026-11-19-heave-ho.md) | 机器人不联网喊口令一起搬 | [YouTube 中文](https://youtu.be/IMc4kaXhbvY) · [YouTube English](https://youtu.be/n-1hU3i9DWA) · [B站](https://www.bilibili.com/video/BV1rjsi6eE3S) |
 | 2026-11-18 | [ForceHarness: Turning Force into Action and Physics for Frozen Frontier Models](2026-11-18-forceharness.md) | 不训练不给示范大模型用上力觉 | [YouTube 中文](https://youtu.be/oljBKCAo6Ck) · [B站](https://www.bilibili.com/video/BV1F8sh6nE11) |
 | 2026-11-17 | [ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters](2026-11-17-scalevla.md) | 机器人大脑放大到5520亿 | — |
 | 2026-11-15 | [Learning the Task or Learning the Verifier? Rethinking Criteria Exposure in Embodied Self-Improvement](2026-11-15-learning-the-task-or-learning-the-verifi.md) | 机器人看了评分规则分数还算数吗 | [YouTube 中文](https://youtu.be/sjQGf5Yf270) · [YouTube English](https://youtu.be/8SVk3Wr0imQ) · [B站](https://www.bilibili.com/video/BV1MQsJ6iEd9) |

@@ -10,7 +10,8 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
-| 2026-11-19 | [SWE-CoWork: Benchmarking Coding Agents as Digital Employees in Organizations](agent/2026-11-19-swe-cowork.md) | 编程Agent当员工完整交付不到8% | [YouTube 中文](https://youtu.be/FWK7oCXAGjE) |
+| 2026-11-20 | [The Resolution Hypothesis: Agent Evolution's Key Is Identifying Improvements](agent/2026-11-20-the-resolution-hypothesis.md) | Agent进化分数涨了能力却没涨 | [YouTube 中文](https://youtu.be/wPwb71UFOwU) · [YouTube English](https://youtu.be/7TPraGuSanU) · [B站](https://www.bilibili.com/video/BV18SypzVEC1) |
+| 2026-11-19 | [SWE-CoWork: Benchmarking Coding Agents as Digital Employees in Organizations](agent/2026-11-19-swe-cowork.md) | 编程Agent当员工完整交付不到8% | [YouTube 中文](https://youtu.be/FWK7oCXAGjE) · [B站](https://www.bilibili.com/video/BV1qWsi6fEmD) |
 | 2026-11-18 | [Self-Improvement Memory Enables Continual Recursive Self-Improvement](agent/2026-11-18-self-improvement-memory-enables-continua.md) | 换了模型优化别从头来 | [YouTube 中文](https://youtu.be/6ciq8AO6RCg) · [B站](https://www.bilibili.com/video/BV16yst6VEXq) |
 | 2026-11-17 | [MIRIX-2.0: Multi-Agent Memory System](agent/2026-11-17-mirix-2-0.md) | 合并只动索引原始记录不动 | — |
 | 2026-11-16 | [Aligning AI Teams](agent/2026-11-16-aligning-ai-teams.md) | 单个很守规矩组队安全打折 | [YouTube 中文](https://youtu.be/npvCaZxQct4) · [YouTube English](https://youtu.be/IYCo8NOKvdo) · [B站](https://www.bilibili.com/video/BV1WfsK6WELB) |
@@ -49,6 +50,7 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-20 | [Jeveration: System One Models Now Generate](cv/2026-11-20-jeveration.md) | 一次前向78毫秒出图 | [YouTube 中文](https://youtu.be/JBmWykl-PKY) · [YouTube English](https://youtu.be/xJRkfDt1x5g) · [B站](https://www.bilibili.com/video/BV18SypzVEyG) |
 | 2026-11-19 | [FastFrames: Video Generation at Interactive Latency](cv/2026-11-19-fastframes.md) | 按键就有画面每帧36毫秒 | — |
 | 2026-11-18 | [FastFrames: Video Generation at Interactive Latency](cv/2026-11-18-fastframes.md) | AI视频一帧只要36毫秒 | [YouTube 中文](https://youtu.be/mukoscp-_xM) · [B站](https://www.bilibili.com/video/BV1n8sh6nEAN) |
 | 2026-11-17 | [JVT: Just Video Transformer makes pixel-space video diffusion simple](cv/2026-11-17-jvt.md) | 不要自编码器直接生成视频 | — |
@@ -87,7 +89,8 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
-| 2026-11-19 | [Multi-Branch Transformer](nlp/2026-11-19-multi-branch-transformer.md) | 模型不只能加深还能分叉 | [YouTube English](https://youtu.be/WZkr2ZCcwiQ) |
+| 2026-11-20 | [CurvDelta: Low-Curvature Delta Modeling for Surgical Learning and Unlearning](nlp/2026-11-20-curvdelta.md) | 学会新本事不丢老本事 | [YouTube 中文](https://youtu.be/NHER0F5CN7k) · [YouTube English](https://youtu.be/wbRdMKczQQs) · [B站](https://www.bilibili.com/video/BV1hSypzVEw3) |
+| 2026-11-19 | [Multi-Branch Transformer](nlp/2026-11-19-multi-branch-transformer.md) | 模型不只能加深还能分叉 | [YouTube 中文](https://youtu.be/cZDlEtom0vk) · [YouTube English](https://youtu.be/WZkr2ZCcwiQ) · [B站](https://www.bilibili.com/video/BV1oWsi6fEZ4) |
 | 2026-11-18 | [Weight-Space Programming Doesn't Need Transformers](nlp/2026-11-18-weight-space-programming-doesn-t-need-tr.md) | 让AI亲手写权重它不选Transformer | [YouTube 中文](https://youtu.be/H7AySc7e528) · [B站](https://www.bilibili.com/video/BV1Fyst65E9H) |
 | 2026-11-15 | [Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents](nlp/2026-11-15-actor-judge-or-teacher-understanding-dec.md) | 自己做不好也能当好老师 | [YouTube 中文](https://youtu.be/BsDZaM7KvaA) · [YouTube English](https://youtu.be/xp6uygI9JNQ) · [B站](https://www.bilibili.com/video/BV18QsJ6iE7L) |
 | 2026-11-14 | [On the Design of Hyper-Connections: Simplification, Stability, and Scalability](nlp/2026-11-14-on-the-design-of-hyper-connections.md) | 多流残差做减法开销降到三分之一 | [YouTube 中文](https://youtu.be/27rONL2NjU8) · [YouTube English](https://youtu.be/d7AGluYCELY) · [B站](https://www.bilibili.com/video/BV1owsG6dEVY) |
@@ -123,7 +126,8 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
-| 2026-11-19 | [Heave-Ho: Decentralized Long-Horizon Multi-Humanoid Collaboration](embodied/2026-11-19-heave-ho.md) | 机器人不联网喊口令一起搬 | [YouTube English](https://youtu.be/n-1hU3i9DWA) |
+| 2026-11-20 | [Learning What Actions Change: Action Effect Matching for Dynamics-Faithful World Models](embodied/2026-11-20-learning-what-actions-change.md) | 动作差一点世界模型看懂了吗 | [YouTube 中文](https://youtu.be/-YFAY7lidZg) · [YouTube English](https://youtu.be/-ncUOnMDJwY) · [B站](https://www.bilibili.com/video/BV1b9ypz6EPe) |
+| 2026-11-19 | [Heave-Ho: Decentralized Long-Horizon Multi-Humanoid Collaboration](embodied/2026-11-19-heave-ho.md) | 机器人不联网喊口令一起搬 | [YouTube 中文](https://youtu.be/IMc4kaXhbvY) · [YouTube English](https://youtu.be/n-1hU3i9DWA) · [B站](https://www.bilibili.com/video/BV1rjsi6eE3S) |
 | 2026-11-18 | [ForceHarness: Turning Force into Action and Physics for Frozen Frontier Models](embodied/2026-11-18-forceharness.md) | 不训练不给示范大模型用上力觉 | [YouTube 中文](https://youtu.be/oljBKCAo6Ck) · [B站](https://www.bilibili.com/video/BV1F8sh6nE11) |
 | 2026-11-17 | [ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters](embodied/2026-11-17-scalevla.md) | 机器人大脑放大到5520亿 | — |
 | 2026-11-15 | [Learning the Task or Learning the Verifier? Rethinking Criteria Exposure in Embodied Self-Improvement](embodied/2026-11-15-learning-the-task-or-learning-the-verifi.md) | 机器人看了评分规则分数还算数吗 | [YouTube 中文](https://youtu.be/sjQGf5Yf270) · [YouTube English](https://youtu.be/8SVk3Wr0imQ) · [B站](https://www.bilibili.com/video/BV1MQsJ6iEd9) |

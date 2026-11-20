@@ -6,7 +6,7 @@
 - 单位 Affiliation: TokenWave AI
 - 方向 Direction: Agent
 - 讲解日期 Covered: 2026-11-19
-- 视频 Videos: [YouTube 中文](https://youtu.be/FWK7oCXAGjE)
+- 视频 Videos: [YouTube 中文](https://youtu.be/FWK7oCXAGjE) · [B站](https://www.bilibili.com/video/BV1qWsi6fEmD)
 
 ## 中文讲解
 

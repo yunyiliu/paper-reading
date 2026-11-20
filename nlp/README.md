@@ -2,7 +2,8 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
-| 2026-11-19 | [Multi-Branch Transformer](2026-11-19-multi-branch-transformer.md) | 模型不只能加深还能分叉 | [YouTube English](https://youtu.be/WZkr2ZCcwiQ) |
+| 2026-11-20 | [CurvDelta: Low-Curvature Delta Modeling for Surgical Learning and Unlearning](2026-11-20-curvdelta.md) | 学会新本事不丢老本事 | [YouTube 中文](https://youtu.be/NHER0F5CN7k) · [YouTube English](https://youtu.be/wbRdMKczQQs) · [B站](https://www.bilibili.com/video/BV1hSypzVEw3) |
+| 2026-11-19 | [Multi-Branch Transformer](2026-11-19-multi-branch-transformer.md) | 模型不只能加深还能分叉 | [YouTube 中文](https://youtu.be/cZDlEtom0vk) · [YouTube English](https://youtu.be/WZkr2ZCcwiQ) · [B站](https://www.bilibili.com/video/BV1oWsi6fEZ4) |
 | 2026-11-18 | [Weight-Space Programming Doesn't Need Transformers](2026-11-18-weight-space-programming-doesn-t-need-tr.md) | 让AI亲手写权重它不选Transformer | [YouTube 中文](https://youtu.be/H7AySc7e528) · [B站](https://www.bilibili.com/video/BV1Fyst65E9H) |
 | 2026-11-15 | [Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents](2026-11-15-actor-judge-or-teacher-understanding-dec.md) | 自己做不好也能当好老师 | [YouTube 中文](https://youtu.be/BsDZaM7KvaA) · [YouTube English](https://youtu.be/xp6uygI9JNQ) · [B站](https://www.bilibili.com/video/BV18QsJ6iE7L) |
 | 2026-11-14 | [On the Design of Hyper-Connections: Simplification, Stability, and Scalability](2026-11-14-on-the-design-of-hyper-connections.md) | 多流残差做减法开销降到三分之一 | [YouTube 中文](https://youtu.be/27rONL2NjU8) · [YouTube English](https://youtu.be/d7AGluYCELY) · [B站](https://www.bilibili.com/video/BV1owsG6dEVY) |

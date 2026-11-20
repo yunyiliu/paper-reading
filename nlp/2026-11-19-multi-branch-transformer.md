@@ -6,7 +6,7 @@
 - 单位 Affiliation: 伊利诺伊大学香槟分校、康奈尔大学等
 - 方向 Direction: NLP
 - 讲解日期 Covered: 2026-11-19
-- 视频 Videos: [YouTube English](https://youtu.be/WZkr2ZCcwiQ)
+- 视频 Videos: [YouTube 中文](https://youtu.be/cZDlEtom0vk) · [YouTube English](https://youtu.be/WZkr2ZCcwiQ) · [B站](https://www.bilibili.com/video/BV1oWsi6fEZ4)
 
 ## 中文讲解
 
