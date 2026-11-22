@@ -2,6 +2,8 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-22 | [CompoundingKernel: Self-Improving from Zero to First](2026-11-22-compoundingkernel.md) | 瓶颈不是Agent数量而是测量速度 | [YouTube 中文](https://youtu.be/5EGkBkGXwtY) · [YouTube English](https://youtu.be/-1saH66-HEQ) · [B站](https://www.bilibili.com/video/BV1kUyGzPEcG) |
+| 2026-11-21 | [Game2Player: Scaling Gameplay Experience for Visual Agents through Environment–Player Co-Development](2026-11-21-game2player.md) | AI自己改造游戏玩出训练数据 | — |
 | 2026-11-20 | [The Resolution Hypothesis: Agent Evolution's Key Is Identifying Improvements](2026-11-20-the-resolution-hypothesis.md) | Agent进化分数涨了能力却没涨 | [YouTube 中文](https://youtu.be/wPwb71UFOwU) · [YouTube English](https://youtu.be/7TPraGuSanU) · [B站](https://www.bilibili.com/video/BV18SypzVEC1) |
 | 2026-11-19 | [SWE-CoWork: Benchmarking Coding Agents as Digital Employees in Organizations](2026-11-19-swe-cowork.md) | 编程Agent当员工完整交付不到8% | [YouTube 中文](https://youtu.be/FWK7oCXAGjE) · [B站](https://www.bilibili.com/video/BV1qWsi6fEmD) |
 | 2026-11-18 | [Self-Improvement Memory Enables Continual Recursive Self-Improvement](2026-11-18-self-improvement-memory-enables-continua.md) | 换了模型优化别从头来 | [YouTube 中文](https://youtu.be/6ciq8AO6RCg) · [B站](https://www.bilibili.com/video/BV16yst6VEXq) |

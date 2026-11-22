@@ -2,6 +2,8 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-22 | [Language Models Can Rewrite Their Own Weights](2026-11-22-language-models-can-rewrite-their-own-we.md) | 不训练不算梯度模型自己改权重 | [YouTube 中文](https://youtu.be/J4NRzMos9_8) · [YouTube English](https://youtu.be/I5TduhH0MKM) · [B站](https://www.bilibili.com/video/BV1HUyGzPETD) |
+| 2026-11-21 | [AutoMaster: Autonomous Post-Training by Making the Same Model a Better Teacher](2026-11-21-automaster.md) | 做对了还不够要教对过程 | [YouTube 中文](https://youtu.be/c6Ahp4qzPgw) · [YouTube English](https://youtu.be/08AjImnvZ9A) · [B站](https://www.bilibili.com/video/BV1Rzy3znE1A) |
 | 2026-11-20 | [CurvDelta: Low-Curvature Delta Modeling for Surgical Learning and Unlearning](2026-11-20-curvdelta.md) | 学会新本事不丢老本事 | [YouTube 中文](https://youtu.be/NHER0F5CN7k) · [YouTube English](https://youtu.be/wbRdMKczQQs) · [B站](https://www.bilibili.com/video/BV1hSypzVEw3) |
 | 2026-11-19 | [Multi-Branch Transformer](2026-11-19-multi-branch-transformer.md) | 模型不只能加深还能分叉 | [YouTube 中文](https://youtu.be/cZDlEtom0vk) · [YouTube English](https://youtu.be/WZkr2ZCcwiQ) · [B站](https://www.bilibili.com/video/BV1oWsi6fEZ4) |
 | 2026-11-18 | [Weight-Space Programming Doesn't Need Transformers](2026-11-18-weight-space-programming-doesn-t-need-tr.md) | 让AI亲手写权重它不选Transformer | [YouTube 中文](https://youtu.be/H7AySc7e528) · [B站](https://www.bilibili.com/video/BV1Fyst65E9H) |

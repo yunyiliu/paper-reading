@@ -2,6 +2,8 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-22 | [WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection](2026-11-22-wevisforensics.md) | 鉴别AI视频检查员也在进化 | [YouTube 中文](https://youtu.be/OEsYrzqPBFM) · [YouTube English](https://youtu.be/L0sKWk_rCwg) · [B站](https://www.bilibili.com/video/BV1HUyGzPE5c) |
+| 2026-11-21 | [Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth](2026-11-21-depth-pro-2.md) | 深度图又清晰视频里还不抖 | [YouTube 中文](https://youtu.be/whQr5bcIW2s) · [YouTube English](https://youtu.be/jeT__DMwUNE) · [B站](https://www.bilibili.com/video/BV15zy3zHEXk) |
 | 2026-11-20 | [Jeveration: System One Models Now Generate](2026-11-20-jeveration.md) | 一次前向78毫秒出图 | [YouTube 中文](https://youtu.be/JBmWykl-PKY) · [YouTube English](https://youtu.be/xJRkfDt1x5g) · [B站](https://www.bilibili.com/video/BV18SypzVEyG) |
 | 2026-11-19 | [FastFrames: Video Generation at Interactive Latency](2026-11-19-fastframes.md) | 按键就有画面每帧36毫秒 | — |
 | 2026-11-18 | [FastFrames: Video Generation at Interactive Latency](2026-11-18-fastframes.md) | AI视频一帧只要36毫秒 | [YouTube 中文](https://youtu.be/mukoscp-_xM) · [B站](https://www.bilibili.com/video/BV1n8sh6nEAN) |

@@ -2,6 +2,8 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-22 | [ZeroVLN: Learning to Navigate without Supervised Fine-Tuning of the VLM Brain](2026-11-22-zerovln.md) | 大脑不做SFT机器人学会找路 | [YouTube 中文](https://youtu.be/QYaeWEsc3TA) · [YouTube English](https://youtu.be/DfqCJCNSN-Q) · [B站](https://www.bilibili.com/video/BV1HUyGzPEG6) |
+| 2026-11-21 | [VSpark: Speculative Decoding for Autoregressive Vision-Language-Action Models](2026-11-21-vspark.md) | 不放宽验证VLA最高提速2.1倍 | [YouTube 中文](https://youtu.be/pUDyDxAxHRQ) · [YouTube English](https://youtu.be/n-ZPt1fvedA) · [B站](https://www.bilibili.com/video/BV1Rzy3znEp7) |
 | 2026-11-20 | [Learning What Actions Change: Action Effect Matching for Dynamics-Faithful World Models](2026-11-20-learning-what-actions-change.md) | 动作差一点世界模型看懂了吗 | [YouTube 中文](https://youtu.be/-YFAY7lidZg) · [YouTube English](https://youtu.be/-ncUOnMDJwY) · [B站](https://www.bilibili.com/video/BV1b9ypz6EPe) |
 | 2026-11-19 | [Heave-Ho: Decentralized Long-Horizon Multi-Humanoid Collaboration](2026-11-19-heave-ho.md) | 机器人不联网喊口令一起搬 | [YouTube 中文](https://youtu.be/IMc4kaXhbvY) · [YouTube English](https://youtu.be/n-1hU3i9DWA) · [B站](https://www.bilibili.com/video/BV1rjsi6eE3S) |
 | 2026-11-18 | [ForceHarness: Turning Force into Action and Physics for Frozen Frontier Models](2026-11-18-forceharness.md) | 不训练不给示范大模型用上力觉 | [YouTube 中文](https://youtu.be/oljBKCAo6Ck) · [B站](https://www.bilibili.com/video/BV1F8sh6nE11) |
