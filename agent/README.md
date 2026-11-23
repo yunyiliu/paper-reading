@@ -2,6 +2,7 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-23 | [Duopra: From Full-Duplex Conversation to Full-Duplex Agency](2026-11-23-duopra.md) | 语音助手办不成事卡在前端没开口 | [YouTube 中文](https://youtu.be/Z_ISEBtr5Uc) · [B站](https://www.bilibili.com/video/BV1hiyDzdERU) |
 | 2026-11-22 | [CompoundingKernel: Self-Improving from Zero to First](2026-11-22-compoundingkernel.md) | 瓶颈不是Agent数量而是测量速度 | [YouTube 中文](https://youtu.be/5EGkBkGXwtY) · [YouTube English](https://youtu.be/-1saH66-HEQ) · [B站](https://www.bilibili.com/video/BV1kUyGzPEcG) |
 | 2026-11-21 | [Game2Player: Scaling Gameplay Experience for Visual Agents through Environment–Player Co-Development](2026-11-21-game2player.md) | AI自己改造游戏玩出训练数据 | — |
 | 2026-11-20 | [The Resolution Hypothesis: Agent Evolution's Key Is Identifying Improvements](2026-11-20-the-resolution-hypothesis.md) | Agent进化分数涨了能力却没涨 | [YouTube 中文](https://youtu.be/wPwb71UFOwU) · [YouTube English](https://youtu.be/7TPraGuSanU) · [B站](https://www.bilibili.com/video/BV18SypzVEC1) |
