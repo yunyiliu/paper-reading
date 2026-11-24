@@ -2,6 +2,7 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-24 | [A Glimpse of Training VLMs as Foundation Models for Robotic Manipulation](2026-11-24-a-glimpse-of-training-vlms-as-foundation.md) | 9B大模型零样本操控机械臂 | [B站](https://www.bilibili.com/video/BV1NsyfzTEbz) |
 | 2026-11-23 | [AeroRSI: Recursive Self-Improvement for Aerial Vision-Language Navigation](2026-11-23-aerorsi.md) | 无人机撞了自己学会改 | [YouTube 中文](https://youtu.be/mUV3MVcNQvA) · [B站](https://www.bilibili.com/video/BV1bryDzpEXm) |
 | 2026-11-22 | [ZeroVLN: Learning to Navigate without Supervised Fine-Tuning of the VLM Brain](2026-11-22-zerovln.md) | 大脑不做SFT机器人学会找路 | [YouTube 中文](https://youtu.be/QYaeWEsc3TA) · [YouTube English](https://youtu.be/DfqCJCNSN-Q) · [B站](https://www.bilibili.com/video/BV1HUyGzPEG6) |
 | 2026-11-21 | [VSpark: Speculative Decoding for Autoregressive Vision-Language-Action Models](2026-11-21-vspark.md) | 不放宽验证VLA最高提速2.1倍 | [YouTube 中文](https://youtu.be/pUDyDxAxHRQ) · [YouTube English](https://youtu.be/n-ZPt1fvedA) · [B站](https://www.bilibili.com/video/BV1Rzy3znEp7) |

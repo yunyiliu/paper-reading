@@ -10,6 +10,7 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-24 | [AutoPILOT: A Visual Agent Harness for Real-Time Gameplay](agent/2026-11-24-autopilot.md) | AI想太慢？让它写个自动驾驶 | [B站](https://www.bilibili.com/video/BV11syfzKEjK) |
 | 2026-11-23 | [Duopra: From Full-Duplex Conversation to Full-Duplex Agency](agent/2026-11-23-duopra.md) | 语音助手办不成事卡在前端没开口 | [YouTube 中文](https://youtu.be/Z_ISEBtr5Uc) · [B站](https://www.bilibili.com/video/BV1hiyDzdERU) |
 | 2026-11-22 | [CompoundingKernel: Self-Improving from Zero to First](agent/2026-11-22-compoundingkernel.md) | 瓶颈不是Agent数量而是测量速度 | [YouTube 中文](https://youtu.be/5EGkBkGXwtY) · [YouTube English](https://youtu.be/-1saH66-HEQ) · [B站](https://www.bilibili.com/video/BV1kUyGzPEcG) |
 | 2026-11-21 | [Game2Player: Scaling Gameplay Experience for Visual Agents through Environment–Player Co-Development](agent/2026-11-21-game2player.md) | AI自己改造游戏玩出训练数据 | — |
@@ -53,6 +54,7 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-24 | [ViDecide: Teaching Video Diffusion Models to Reason and Plan Step by Step](cv/2026-11-24-videcide.md) | 视频模型学会一步步解题 | [B站](https://www.bilibili.com/video/BV1NsyfzTEyH) |
 | 2026-11-23 | [Non-penetrating World Models](cv/2026-11-23-non-penetrating-world-models.md) | 世界模型会穿墙它自己却知道 | [YouTube 中文](https://youtu.be/2PVgql2-vL8) · [B站](https://www.bilibili.com/video/BV1hiyDzdE9A) |
 | 2026-11-22 | [WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection](cv/2026-11-22-wevisforensics.md) | 鉴别AI视频检查员也在进化 | [YouTube 中文](https://youtu.be/OEsYrzqPBFM) · [YouTube English](https://youtu.be/L0sKWk_rCwg) · [B站](https://www.bilibili.com/video/BV1HUyGzPE5c) |
 | 2026-11-21 | [Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth](cv/2026-11-21-depth-pro-2.md) | 深度图又清晰视频里还不抖 | [YouTube 中文](https://youtu.be/whQr5bcIW2s) · [YouTube English](https://youtu.be/jeT__DMwUNE) · [B站](https://www.bilibili.com/video/BV15zy3zHEXk) |
@@ -95,6 +97,7 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-24 | [Search From the Start: Search-Native Pretraining for Language Models](nlp/2026-11-24-search-from-the-start.md) | 搜索能力该从预训练教起 | [B站](https://www.bilibili.com/video/BV1ysyfzKED4) |
 | 2026-11-23 | [Clover-35B-A3B-Preview Technical Report](nlp/2026-11-23-clover-35b-a3b-preview-technical-report.md) | 扩散模型也能写代码修 bug | [YouTube 中文](https://youtu.be/wIWc72U8bAo) · [B站](https://www.bilibili.com/video/BV1bryDzpEoB) |
 | 2026-11-22 | [Language Models Can Rewrite Their Own Weights](nlp/2026-11-22-language-models-can-rewrite-their-own-we.md) | 不训练不算梯度模型自己改权重 | [YouTube 中文](https://youtu.be/J4NRzMos9_8) · [YouTube English](https://youtu.be/I5TduhH0MKM) · [B站](https://www.bilibili.com/video/BV1HUyGzPETD) |
 | 2026-11-21 | [AutoMaster: Autonomous Post-Training by Making the Same Model a Better Teacher](nlp/2026-11-21-automaster.md) | 做对了还不够要教对过程 | [YouTube 中文](https://youtu.be/c6Ahp4qzPgw) · [YouTube English](https://youtu.be/08AjImnvZ9A) · [B站](https://www.bilibili.com/video/BV1Rzy3znE1A) |
@@ -135,6 +138,7 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-24 | [A Glimpse of Training VLMs as Foundation Models for Robotic Manipulation](embodied/2026-11-24-a-glimpse-of-training-vlms-as-foundation.md) | 9B大模型零样本操控机械臂 | [B站](https://www.bilibili.com/video/BV1NsyfzTEbz) |
 | 2026-11-23 | [AeroRSI: Recursive Self-Improvement for Aerial Vision-Language Navigation](embodied/2026-11-23-aerorsi.md) | 无人机撞了自己学会改 | [YouTube 中文](https://youtu.be/mUV3MVcNQvA) · [B站](https://www.bilibili.com/video/BV1bryDzpEXm) |
 | 2026-11-22 | [ZeroVLN: Learning to Navigate without Supervised Fine-Tuning of the VLM Brain](embodied/2026-11-22-zerovln.md) | 大脑不做SFT机器人学会找路 | [YouTube 中文](https://youtu.be/QYaeWEsc3TA) · [YouTube English](https://youtu.be/DfqCJCNSN-Q) · [B站](https://www.bilibili.com/video/BV1HUyGzPEG6) |
 | 2026-11-21 | [VSpark: Speculative Decoding for Autoregressive Vision-Language-Action Models](embodied/2026-11-21-vspark.md) | 不放宽验证VLA最高提速2.1倍 | [YouTube 中文](https://youtu.be/pUDyDxAxHRQ) · [YouTube English](https://youtu.be/n-ZPt1fvedA) · [B站](https://www.bilibili.com/video/BV1Rzy3znEp7) |
