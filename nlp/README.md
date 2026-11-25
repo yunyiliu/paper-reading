@@ -2,6 +2,7 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-25 | [Composable Soft-Prompt Distillation of RL Experts: Toward Continual Post-Training](2026-11-25-composable-soft-prompt-distillation-of-r.md) | 模型能力像插件一样装 | [B站](https://www.bilibili.com/video/BV1BNy6zTEMA) |
 | 2026-11-24 | [Search From the Start: Search-Native Pretraining for Language Models](2026-11-24-search-from-the-start.md) | 搜索能力该从预训练教起 | [B站](https://www.bilibili.com/video/BV1ysyfzKED4) |
 | 2026-11-23 | [Clover-35B-A3B-Preview Technical Report](2026-11-23-clover-35b-a3b-preview-technical-report.md) | 扩散模型也能写代码修 bug | [YouTube 中文](https://youtu.be/wIWc72U8bAo) · [B站](https://www.bilibili.com/video/BV1bryDzpEoB) |
 | 2026-11-22 | [Language Models Can Rewrite Their Own Weights](2026-11-22-language-models-can-rewrite-their-own-we.md) | 不训练不算梯度模型自己改权重 | [YouTube 中文](https://youtu.be/J4NRzMos9_8) · [YouTube English](https://youtu.be/I5TduhH0MKM) · [B站](https://www.bilibili.com/video/BV1HUyGzPETD) |
