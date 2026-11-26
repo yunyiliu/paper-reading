@@ -2,6 +2,7 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-26 | [Lazy Agents Answer Against Their Own Beliefs: Reinforcement Learning with Verifiable Beliefs Teaches Them to Act on What They Believe](2026-11-26-lazy-agents-answer-against-their-own-bel.md) | AI为什么急着瞎猜答案 | [B站](https://www.bilibili.com/video/BV1yf17zREBy) |
 | 2026-11-25 | [Embo-Harness: Towards Understanding Frontier-Model-as-Policy Harness](2026-11-25-embo-harness.md) | 通用大模型控机器人赢在看得准 | [B站](https://www.bilibili.com/video/BV1ZNy6zTEgm) |
 | 2026-11-24 | [AutoPILOT: A Visual Agent Harness for Real-Time Gameplay](2026-11-24-autopilot.md) | AI想太慢？让它写个自动驾驶 | [B站](https://www.bilibili.com/video/BV11syfzKEjK) |
 | 2026-11-23 | [Duopra: From Full-Duplex Conversation to Full-Duplex Agency](2026-11-23-duopra.md) | 语音助手办不成事卡在前端没开口 | [YouTube 中文](https://youtu.be/Z_ISEBtr5Uc) · [B站](https://www.bilibili.com/video/BV1hiyDzdERU) |

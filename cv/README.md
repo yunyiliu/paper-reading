@@ -2,6 +2,7 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-26 | [Internalizing Multi-View Geometry for Spatial Intelligence](2026-11-26-internalizing-multi-view-geometry-for-sp.md) | 大模型脑子里有没有3D房间 | [B站](https://www.bilibili.com/video/BV11f17zREwL) |
 | 2026-11-25 | [Learning Video Foresight Reasoning from Unlabeled Videos via On-Policy Self-Distillation](2026-11-25-learning-video-foresight-reasoning-from-.md) | 用错误的未来教模型预见 | [B站](https://www.bilibili.com/video/BV1qNy6zTEY4) |
 | 2026-11-24 | [ViDecide: Teaching Video Diffusion Models to Reason and Plan Step by Step](2026-11-24-videcide.md) | 视频模型学会一步步解题 | [B站](https://www.bilibili.com/video/BV1NsyfzTEyH) |
 | 2026-11-23 | [Non-penetrating World Models](2026-11-23-non-penetrating-world-models.md) | 世界模型会穿墙它自己却知道 | [YouTube 中文](https://youtu.be/2PVgql2-vL8) · [B站](https://www.bilibili.com/video/BV1hiyDzdE9A) |

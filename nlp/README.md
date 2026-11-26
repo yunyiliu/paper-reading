@@ -2,6 +2,7 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-26 | [Can Latent Reasoning Drive LLM Outputs Without a Trace?](2026-11-26-can-latent-reasoning-drive-llm-outputs-w.md) | 推理看着正常答案早已内定 | [B站](https://www.bilibili.com/video/BV1AP1EzpEWD) |
 | 2026-11-25 | [Composable Soft-Prompt Distillation of RL Experts: Toward Continual Post-Training](2026-11-25-composable-soft-prompt-distillation-of-r.md) | 模型能力像插件一样装 | [B站](https://www.bilibili.com/video/BV1BNy6zTEMA) |
 | 2026-11-24 | [Search From the Start: Search-Native Pretraining for Language Models](2026-11-24-search-from-the-start.md) | 搜索能力该从预训练教起 | [B站](https://www.bilibili.com/video/BV1ysyfzKED4) |
 | 2026-11-23 | [Clover-35B-A3B-Preview Technical Report](2026-11-23-clover-35b-a3b-preview-technical-report.md) | 扩散模型也能写代码修 bug | [YouTube 中文](https://youtu.be/wIWc72U8bAo) · [B站](https://www.bilibili.com/video/BV1bryDzpEoB) |
