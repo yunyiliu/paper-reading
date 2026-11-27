@@ -2,6 +2,7 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-27 | [Embodied AI Fails the Mirror Test: How a Simple Mirror Breaks Robot Policies](2026-11-27-embodied-ai-fails-the-mirror-test.md) | 一面镜子让机器人失灵 | [B站](https://www.bilibili.com/video/BV1f11xziEhk) |
 | 2026-11-26 | [PyRUA-Dex: Learning Programmatic Policies for Dexterous Bimanual Manipulation with Coding Agents](2026-11-26-pyrua-dex.md) | 不要示范数据让AI写代码弹琴 | [B站](https://www.bilibili.com/video/BV1kP1EzHEie) |
 | 2026-11-25 | [DexDuet: Learning Contact-Preserving Bimanual Dexterity from Human Demonstrations](2026-11-25-dexduet.md) | 不光搬对位置还要拿对地方 | [B站](https://www.bilibili.com/video/BV1qNy6zTEib) |
 | 2026-11-24 | [A Glimpse of Training VLMs as Foundation Models for Robotic Manipulation](2026-11-24-a-glimpse-of-training-vlms-as-foundation.md) | 9B大模型零样本操控机械臂 | [B站](https://www.bilibili.com/video/BV1NsyfzTEbz) |

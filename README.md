@@ -10,6 +10,7 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-27 | [Don't Sleep, Keep Watch: Proactive Perception for Computer-Use Agents](agent/2026-11-27-don-t-sleep-keep-watch.md) | 让小模型替Agent盯屏幕 | [B站](https://www.bilibili.com/video/BV1Zm1xzNEtL) |
 | 2026-11-26 | [Lazy Agents Answer Against Their Own Beliefs: Reinforcement Learning with Verifiable Beliefs Teaches Them to Act on What They Believe](agent/2026-11-26-lazy-agents-answer-against-their-own-bel.md) | AI为什么急着瞎猜答案 | [B站](https://www.bilibili.com/video/BV1yf17zREBy) |
 | 2026-11-25 | [Embo-Harness: Towards Understanding Frontier-Model-as-Policy Harness](agent/2026-11-25-embo-harness.md) | 通用大模型控机器人赢在看得准 | [B站](https://www.bilibili.com/video/BV1ZNy6zTEgm) |
 | 2026-11-24 | [AutoPILOT: A Visual Agent Harness for Real-Time Gameplay](agent/2026-11-24-autopilot.md) | AI想太慢？让它写个自动驾驶 | [B站](https://www.bilibili.com/video/BV11syfzKEjK) |
@@ -56,6 +57,7 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-27 | [Improving and Expanding Video Editing Capabilities Without Videos](cv/2026-11-27-improving-and-expanding-video-editing-ca.md) | 只用图片教会视频改动作 | [B站](https://www.bilibili.com/video/BV1Em1xzKEg6) |
 | 2026-11-26 | [Internalizing Multi-View Geometry for Spatial Intelligence](cv/2026-11-26-internalizing-multi-view-geometry-for-sp.md) | 大模型脑子里有没有3D房间 | [B站](https://www.bilibili.com/video/BV11f17zREwL) |
 | 2026-11-25 | [Learning Video Foresight Reasoning from Unlabeled Videos via On-Policy Self-Distillation](cv/2026-11-25-learning-video-foresight-reasoning-from-.md) | 用错误的未来教模型预见 | [B站](https://www.bilibili.com/video/BV1qNy6zTEY4) |
 | 2026-11-24 | [ViDecide: Teaching Video Diffusion Models to Reason and Plan Step by Step](cv/2026-11-24-videcide.md) | 视频模型学会一步步解题 | [B站](https://www.bilibili.com/video/BV1NsyfzTEyH) |
@@ -101,6 +103,7 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-27 | [Stable Gated DeltaNet-2: Understanding and Mitigating Recurrent State Instability](nlp/2026-11-27-stable-gated-deltanet-2.md) | 线性注意力为什么会训崩 | [B站](https://www.bilibili.com/video/BV1Em1xzKEuZ) |
 | 2026-11-26 | [Can Latent Reasoning Drive LLM Outputs Without a Trace?](nlp/2026-11-26-can-latent-reasoning-drive-llm-outputs-w.md) | 推理看着正常答案早已内定 | [B站](https://www.bilibili.com/video/BV1AP1EzpEWD) |
 | 2026-11-25 | [Composable Soft-Prompt Distillation of RL Experts: Toward Continual Post-Training](nlp/2026-11-25-composable-soft-prompt-distillation-of-r.md) | 模型能力像插件一样装 | [B站](https://www.bilibili.com/video/BV1BNy6zTEMA) |
 | 2026-11-24 | [Search From the Start: Search-Native Pretraining for Language Models](nlp/2026-11-24-search-from-the-start.md) | 搜索能力该从预训练教起 | [B站](https://www.bilibili.com/video/BV1ysyfzKED4) |
@@ -144,6 +147,7 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-27 | [Embodied AI Fails the Mirror Test: How a Simple Mirror Breaks Robot Policies](embodied/2026-11-27-embodied-ai-fails-the-mirror-test.md) | 一面镜子让机器人失灵 | [B站](https://www.bilibili.com/video/BV1f11xziEhk) |
 | 2026-11-26 | [PyRUA-Dex: Learning Programmatic Policies for Dexterous Bimanual Manipulation with Coding Agents](embodied/2026-11-26-pyrua-dex.md) | 不要示范数据让AI写代码弹琴 | [B站](https://www.bilibili.com/video/BV1kP1EzHEie) |
 | 2026-11-25 | [DexDuet: Learning Contact-Preserving Bimanual Dexterity from Human Demonstrations](embodied/2026-11-25-dexduet.md) | 不光搬对位置还要拿对地方 | [B站](https://www.bilibili.com/video/BV1qNy6zTEib) |
 | 2026-11-24 | [A Glimpse of Training VLMs as Foundation Models for Robotic Manipulation](embodied/2026-11-24-a-glimpse-of-training-vlms-as-foundation.md) | 9B大模型零样本操控机械臂 | [B站](https://www.bilibili.com/video/BV1NsyfzTEbz) |
