@@ -2,6 +2,7 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-28 | [Beyond Self-Consistency: Recursive Self-Improvement at Test Time](2026-11-28-beyond-self-consistency.md) | 不靠多数投票让模型自己改对 | [B站](https://www.bilibili.com/video/BV1YA1MzGEfX) |
 | 2026-11-27 | [Stable Gated DeltaNet-2: Understanding and Mitigating Recurrent State Instability](2026-11-27-stable-gated-deltanet-2.md) | 线性注意力为什么会训崩 | [B站](https://www.bilibili.com/video/BV1Em1xzKEuZ) |
 | 2026-11-26 | [Can Latent Reasoning Drive LLM Outputs Without a Trace?](2026-11-26-can-latent-reasoning-drive-llm-outputs-w.md) | 推理看着正常答案早已内定 | [B站](https://www.bilibili.com/video/BV1AP1EzpEWD) |
 | 2026-11-25 | [Composable Soft-Prompt Distillation of RL Experts: Toward Continual Post-Training](2026-11-25-composable-soft-prompt-distillation-of-r.md) | 模型能力像插件一样装 | [B站](https://www.bilibili.com/video/BV1BNy6zTEMA) |

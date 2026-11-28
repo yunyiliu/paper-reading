@@ -10,6 +10,7 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-28 | [Letting Models Manage Their Own Context: Where We Stand](agent/2026-11-28-letting-models-manage-their-own-context.md) | 上下文快满了该让谁来删 | [B站](https://www.bilibili.com/video/BV19A1MzGEob) |
 | 2026-11-27 | [Don't Sleep, Keep Watch: Proactive Perception for Computer-Use Agents](agent/2026-11-27-don-t-sleep-keep-watch.md) | 让小模型替Agent盯屏幕 | [B站](https://www.bilibili.com/video/BV1Zm1xzNEtL) |
 | 2026-11-26 | [Lazy Agents Answer Against Their Own Beliefs: Reinforcement Learning with Verifiable Beliefs Teaches Them to Act on What They Believe](agent/2026-11-26-lazy-agents-answer-against-their-own-bel.md) | AI为什么急着瞎猜答案 | [B站](https://www.bilibili.com/video/BV1yf17zREBy) |
 | 2026-11-25 | [Embo-Harness: Towards Understanding Frontier-Model-as-Policy Harness](agent/2026-11-25-embo-harness.md) | 通用大模型控机器人赢在看得准 | [B站](https://www.bilibili.com/video/BV1ZNy6zTEgm) |
@@ -57,6 +58,7 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-28 | [DyLoMo-DiT: Dynamic Looped Mixture-of-Experts Diffusion Transformers](cv/2026-11-28-dylomo-dit.md) | 算力用在刀刃上扩散模型新架构 | [B站](https://www.bilibili.com/video/BV19A1MzGEEW) |
 | 2026-11-27 | [Improving and Expanding Video Editing Capabilities Without Videos](cv/2026-11-27-improving-and-expanding-video-editing-ca.md) | 只用图片教会视频改动作 | [B站](https://www.bilibili.com/video/BV1Em1xzKEg6) |
 | 2026-11-26 | [Internalizing Multi-View Geometry for Spatial Intelligence](cv/2026-11-26-internalizing-multi-view-geometry-for-sp.md) | 大模型脑子里有没有3D房间 | [B站](https://www.bilibili.com/video/BV11f17zREwL) |
 | 2026-11-25 | [Learning Video Foresight Reasoning from Unlabeled Videos via On-Policy Self-Distillation](cv/2026-11-25-learning-video-foresight-reasoning-from-.md) | 用错误的未来教模型预见 | [B站](https://www.bilibili.com/video/BV1qNy6zTEY4) |
@@ -103,6 +105,7 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-28 | [Beyond Self-Consistency: Recursive Self-Improvement at Test Time](nlp/2026-11-28-beyond-self-consistency.md) | 不靠多数投票让模型自己改对 | [B站](https://www.bilibili.com/video/BV1YA1MzGEfX) |
 | 2026-11-27 | [Stable Gated DeltaNet-2: Understanding and Mitigating Recurrent State Instability](nlp/2026-11-27-stable-gated-deltanet-2.md) | 线性注意力为什么会训崩 | [B站](https://www.bilibili.com/video/BV1Em1xzKEuZ) |
 | 2026-11-26 | [Can Latent Reasoning Drive LLM Outputs Without a Trace?](nlp/2026-11-26-can-latent-reasoning-drive-llm-outputs-w.md) | 推理看着正常答案早已内定 | [B站](https://www.bilibili.com/video/BV1AP1EzpEWD) |
 | 2026-11-25 | [Composable Soft-Prompt Distillation of RL Experts: Toward Continual Post-Training](nlp/2026-11-25-composable-soft-prompt-distillation-of-r.md) | 模型能力像插件一样装 | [B站](https://www.bilibili.com/video/BV1BNy6zTEMA) |
@@ -147,6 +150,7 @@ Frontier papers explained daily, by direction, with a Chinese and an English tex
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-28 | [Beyond the Happy Path: Generalizing Robot World Models from Simulated Failures](embodied/2026-11-28-beyond-the-happy-path.md) | 机器人抓歪了世界模型看不懂 | [B站](https://www.bilibili.com/video/BV1eA1MzGEwh) |
 | 2026-11-27 | [Embodied AI Fails the Mirror Test: How a Simple Mirror Breaks Robot Policies](embodied/2026-11-27-embodied-ai-fails-the-mirror-test.md) | 一面镜子让机器人失灵 | [B站](https://www.bilibili.com/video/BV1f11xziEhk) |
 | 2026-11-26 | [PyRUA-Dex: Learning Programmatic Policies for Dexterous Bimanual Manipulation with Coding Agents](embodied/2026-11-26-pyrua-dex.md) | 不要示范数据让AI写代码弹琴 | [B站](https://www.bilibili.com/video/BV1kP1EzHEie) |
 | 2026-11-25 | [DexDuet: Learning Contact-Preserving Bimanual Dexterity from Human Demonstrations](embodied/2026-11-25-dexduet.md) | 不光搬对位置还要拿对地方 | [B站](https://www.bilibili.com/video/BV1qNy6zTEib) |

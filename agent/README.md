@@ -2,6 +2,7 @@
 
 | 日期 | 论文 | 一句话 | 视频 |
 |---|---|---|---|
+| 2026-11-28 | [Letting Models Manage Their Own Context: Where We Stand](2026-11-28-letting-models-manage-their-own-context.md) | 上下文快满了该让谁来删 | [B站](https://www.bilibili.com/video/BV19A1MzGEob) |
 | 2026-11-27 | [Don't Sleep, Keep Watch: Proactive Perception for Computer-Use Agents](2026-11-27-don-t-sleep-keep-watch.md) | 让小模型替Agent盯屏幕 | [B站](https://www.bilibili.com/video/BV1Zm1xzNEtL) |
 | 2026-11-26 | [Lazy Agents Answer Against Their Own Beliefs: Reinforcement Learning with Verifiable Beliefs Teaches Them to Act on What They Believe](2026-11-26-lazy-agents-answer-against-their-own-bel.md) | AI为什么急着瞎猜答案 | [B站](https://www.bilibili.com/video/BV1yf17zREBy) |
 | 2026-11-25 | [Embo-Harness: Towards Understanding Frontier-Model-as-Policy Harness](2026-11-25-embo-harness.md) | 通用大模型控机器人赢在看得准 | [B站](https://www.bilibili.com/video/BV1ZNy6zTEgm) |
